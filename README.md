@@ -13,6 +13,7 @@ Queen Isabella I (Spanish: *Isabel*) (1451–1504) ruled Castile (Spanish: *Cast
 Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Royal_Banner_of_the_Crown_of_Castille_(15th_Century_Style).svg); Dióscoro Puebla (1892) *First landing of Columbus on the shores of the New World, at San Salvador, W.I., Oct. 12th 1492* \[Oil on Canvas\]: Library of Congress, Washington D.C.<br>
 Authors: King Ferdinand III of Castille; [Wikimedia Commons: Heralder](https://commons.wikimedia.org/wiki/User:Heralder)<br>
 License: [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+<br><br>
 
 ## Notes
 
