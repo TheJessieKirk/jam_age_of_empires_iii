@@ -6,6 +6,7 @@ Napoleon I (French: *Napoléon I<sup>er</sup>*) ruled France (French: *France*) 
 Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_France_(1794%E2%80%931815,_1830%E2%80%931974).svg)<br>
 Authors: Unknown; [Wikimedia Commons: SKopp](https://commons.wikimedia.org/wiki/User:SKopp)<br>
 License: Public Domain.
+<br><br>
 
 * **Replaced the Spanish flag**, the Cross of Burgundy (Spanish: *Cruz de Borgoña*), with a banner of the arms of Castile and León (Spanish: *Castilla y León*).<br><br>
 Queen Isabella I (Spanish: *Isabel*) (1451–1504) ruled Castile (Spanish: *Castilla*) (r. 1474–1475), and later jointly ruled Castile (r. 1475–1504) and Aragon (Aragonese: *Aragón*) (r. 1479 to 1504) with King Ferdinand I and IV (Aragonese: *Ferrando I y IV*) (1452–1516, r. 1479 to 1516). They had effective control over the Spanish Empire. Afterwards, Queen Joanna I (Spanish: *Juana*) (1479–1555), who ruled Castile (r. 1504–1555) and Aragon (r. 1516–1555), jointly ruled with King Philip I (Spanish: *Philip*) (1478–1506, r. 1506). Philip I introduced the Cross of Burgandy as the ensign of the Spanish Empire in 1506. This makes the use of Cross of Burgundy anachronistic. <br><br>
