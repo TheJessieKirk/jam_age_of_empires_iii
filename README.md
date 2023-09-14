@@ -22,6 +22,13 @@ Authors: Unknown; [Wikimedia Commons: David Liuzzo](https://commons.wikimedia.or
 License: See [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Flag_of_the_Kingdom_of_Prussia_(1750-1801).svg).
 <br><br>
 
+* **Replaced the Ottoman flag**, the 1844–1922 flag of the Ottoman Empire (Ottoman Turkish: *دولت عليه عثمانیه*), with a flag taken from 15th century period artwork and descriptions.<br><br>
+Suleiman I (in-game: *Suleiman the Magnificent*, Ottoman Turkish: *سليمان اول*) (1494–1566) ruled the Ottoman Empire (r. *1474–1475*). This makes the use of the 1844–1922 flag of the Ottoman Empire anachronistic.<br><br>
+Sources: [Wikimedia Commons](https://en.wikipedia.org/wiki/Flags_of_the_Ottoman_Empire)<br>
+Authors: Own work.<br>
+License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+<br><br>
+
 * **Replaced the Portuguese flag**, a banner of the arms of King John V (Portuguese: *João V*), with a banner of the arms of King John I (Portuguese: *João I*).<br><br>
 Prince Henry the Navigator (in-game: *Henry the Navigator*, Portuguese: *Infante Dom Henrique, o Navegador*) (1394–1460) was belligerent from c. 1415, and sponsored voyages from then. King John V (1689–1750) ruled Portugal (r. 1706–1750). During Prince Henrique's life, King John I (1357–1433) ruled Portugal (r. 1385–1433), followed by King Edward I (Portuguese: *Duarte I*) (1391–1438) (r. 1433–1438), followed by King Afonso V (Portuguese: *Afonso V*) (1432–1481) (r. 1438–1438). This makes the use of a banner of the arms of John V anachronistic. As John I was king during Henry's prime, and was his father, it is a suitable flag.<br><br>
 Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_the_Kingdom_of_Portugal_(1385%E2%80%931485).svg)<br>
