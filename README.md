@@ -12,7 +12,9 @@ You should have received a copy of the GNU General Public License along with JAM
 
 <br><br>
 
-## Flags
+## Age of Empires III
+
+### Flags
 * **Replaced the Dutch flag**, a double States Flag (Dutch: *Statenvlag*), with the Prince's Flag (Dutch: *Prinsenvlag*).<br><br>
 Maurice of Nassau (Dutch: *Maurits van Nassau*) (1567–1625), later Maurice of Orange (Dutch: *Maurits van Oranje*) ruled most of the Netherlands (Dutch: *Nederland*) (r. c. 1585–1618) as Stadtholder, and later as Prince (r. 1618–1625). The Netherlands did not replace its flag with the States Flag until 1652. This makes the use of the States Flag anachronistic.<br><br>
 Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Prinsenvlag.svg)<br>
@@ -55,8 +57,32 @@ Authors: King Ferdinand III of Castille; [Wikimedia Commons: Heralder](https://c
 License: [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 <br><br>
 
-## Notes
+### Notes
 
 ### Flags
 * The British flag is anachronistic but unchanged; Queen Elizabeth I (1533–1603) ruled England and Ireland (1558–1603). Afterwards, King James VI and I (1566–1625) ruled England and Ireland (r. 1603–1625). James VI and I introduced the King's Colours as the ensign of all English and Scottish ships in 1606. This makes the use of the King's Colours anachronistic.<br><br>
 *However*, as Britain as a sovereign state didn't exist until the Scottish *Union with England Act 1707*, and the King's Colours were used by Great Britain during its entire existence from 1707 to 1800, it is the most suitable flag.
+<br><br>
+
+## Age of Empires III: The WarChiefs
+
+### Flags
+* **Replaced the Aztec flag**, a fictitious flag, with a Nahuas cultural flag.<br><br>
+This flag is anachronistic, but I feel it's more respectful to the Nahaus than a fictitious one.<br><br>
+Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Nahuas.svg)<br>
+Authors: Unknown; [Wikimedia Commons: FireBioGreen](https://commons.wikimedia.org/wiki/User:FireBioGreen)<br>
+License: [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+<br><br>
+
+* **Replaced the Iroquois flag**, a fictitious flag, with the Flag of the Haudenosaunee.<br><br>
+This flag is anachronistic, but I feel it's more respectful to the Haudenosaunee than a fictitious one.<br><br>
+Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_the_Iroquois_Confederacy.svg)<br>
+Authors: Rick Hill, Harold Johnson, and Tim Johnson; [Wikimedia Commons: FireBioGreen](https://commons.wikimedia.org/wiki/User:FireBioGreen)<br>
+License: Public Domain.
+<br><br>
+
+* **Replaced the Sioux flag**, a fictitious flag, with a new fictitious flag.<br><br>
+This flag is based on various Lakota tribal flags to create a more authentic, yet anachronistic, flag.<br><br>
+Sources: [Wikipedia](https://en.wikipedia.org/wiki/Oglala)<br>
+Authors: Own work<br>
+License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
