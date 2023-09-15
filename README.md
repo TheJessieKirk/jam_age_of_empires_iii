@@ -1,5 +1,17 @@
 # JAM: Age of Empires III
 
+Copyright © 2023 Jessie Kirk. All Rights Reserved.
+
+This file is part of JAM: Age of Empires III.
+
+Except where otherwise noted, JAM: Age of Empires III is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+JAM: Age of Empires III is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with JAM: Age of Empires III. If not, see <https://www.gnu.org/licenses/>. 
+
+<br><br>
+
 ## Flags
 * **Replaced the Dutch flag**, a double States Flag (Dutch: *Statenvlag*), with the Prince's Flag (Dutch: *Prinsenvlag*).<br><br>
 Maurice of Nassau (Dutch: *Maurits van Nassau*) (1567–1625), later Maurice of Orange (Dutch: *Maurits van Oranje*) ruled most of the Netherlands (Dutch: *Nederland*) (r. c. 1585–1618) as Stadtholder, and later as Prince (r. 1618–1625). The Netherlands did not replace its flag with the States Flag until 1652. This makes the use of the States Flag anachronistic.<br><br>
