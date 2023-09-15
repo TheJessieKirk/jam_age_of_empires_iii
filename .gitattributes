@@ -1,2 +1,4 @@
 var/releases/jam_age_of_empires_iii_0.0.1_bin.zip filter=lfs diff=lfs merge=lfs -text
 var/releases/jam_age_of_empires_iii_0.0.1_src filter=lfs diff=lfs merge=lfs -text
+var/packages/jam_age_of_empires_iii_the_warchiefs_0.0.1_bin.zip filter=lfs diff=lfs merge=lfs -text
+var/packages/jam_age_of_empires_iii_the_warchiefs_0.0.1_src.zip filter=lfs diff=lfs merge=lfs -text
