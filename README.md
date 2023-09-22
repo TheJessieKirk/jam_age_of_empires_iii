@@ -36,6 +36,13 @@ Authors: Unknown; [Wikimedia Commons: David Liuzzo](https://commons.wikimedia.or
 License: See [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Flag_of_the_Kingdom_of_Prussia_(1750-1801).svg).
 <br><br>
 
+* **Replaced the Indian flag**, The banner of Padishah Akbar now has a moss-green field.<br><br>
+Padishah Akbar (1542–1605)'s banner was probably moss-green.<br><br>
+Sources: [Wikipedia](https://en.wikipedia.org/wiki/Flags_of_the_Mughal_Empire)<br>
+Authors: Big Huge Games.<br>
+License: Public Domain.
+<br><br> 
+
 * **Replaced the Ottoman flag**, the 1844–1922 flag of the Ottoman Empire (Ottoman Turkish: *دولت عليه عثمانیه*), with a flag taken from 15th century period artwork and descriptions.<br><br>
 Suleiman I (in-game: *Suleiman the Magnificent*, Ottoman Turkish: *سليمان اول*) (1494–1566) ruled the Ottoman Empire (r. *1474–1475*). This makes the use of the 1844–1922 flag of the Ottoman Empire anachronistic.<br><br>
 Sources: [Wikimedia Commons](https://en.wikipedia.org/wiki/Flags_of_the_Ottoman_Empire)<br>
