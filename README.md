@@ -14,6 +14,9 @@ You should have received a copy of the GNU General Public License along with JAM
 
 ## Age of Empires III
 
+### Sound Effects
+* **Replaced musker shot sounds** with more realistic ones, taken from recordings of British Land Pattern Muskets (AKA Brown Bess)<br><br>
+
 ### Flags
 * **Replaced the Dutch flag**, a double States Flag (Dutch: *Statenvlag*), with the Prince's Flag (Dutch: *Prinsenvlag*).<br><br>
 Maurice of Nassau (Dutch: *Maurits van Nassau*) (1567–1625), later Maurice of Orange (Dutch: *Maurits van Oranje*) ruled most of the Netherlands (Dutch: *Nederland*) (r. c. 1585–1618) as Stadtholder, and later as Prince (r. 1618–1625). The Netherlands did not replace its flag with the States Flag until 1652. This makes the use of the States Flag anachronistic.<br><br>
@@ -35,13 +38,6 @@ Sources: [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Flag_of_the_King
 Authors: Unknown; [Wikimedia Commons: David Liuzzo](https://commons.wikimedia.org/wiki/User:David_Liuzzo)<br>
 License: See [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Flag_of_the_Kingdom_of_Prussia_(1750-1801).svg).
 <br><br>
-
-* **Replaced the Indian flag**, The banner of Padishah Akbar now has a moss-green field.<br><br>
-Padishah Akbar (1542–1605)'s banner was probably moss-green.<br><br>
-Sources: [Wikipedia](https://en.wikipedia.org/wiki/Flags_of_the_Mughal_Empire)<br>
-Authors: Big Huge Games.<br>
-License: Public Domain.
-<br><br> 
 
 * **Replaced the Ottoman flag**, the 1844–1922 flag of the Ottoman Empire (Ottoman Turkish: *دولت عليه عثمانیه*), with a flag taken from 15th century period artwork and descriptions.<br><br>
 Suleiman I (in-game: *Suleiman the Magnificent*, Ottoman Turkish: *سليمان اول*) (1494–1566) ruled the Ottoman Empire (r. *1474–1475*). This makes the use of the 1844–1922 flag of the Ottoman Empire anachronistic.<br><br>
@@ -93,3 +89,21 @@ This flag is based on various Lakota tribal flags to create a more authentic, ye
 Sources: [Wikipedia](https://en.wikipedia.org/wiki/Oglala)<br>
 Authors: Own work<br>
 License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+## Age of Empires III: The Asian Dynasties
+
+### Flags
+
+* **Replaced the Indian flag**, The banner of Padishah Akbar now has a moss-green field.<br><br>
+Padishah Akbar (1542–1605)'s banner was probably moss-green.<br><br>
+Sources: [Wikipedia](https://en.wikipedia.org/wiki/Flags_of_the_Mughal_Empire)<br>
+Authors: Big Huge Games.<br>
+License: Public Domain.
+<br><br> 
+
+* **Replaced the Japanese flag**, The banner of Shōgun Tokugawa Ieyasu (Japanese: 徳川家康), with the Rising Sun flag (Japanese: 日本の国旗)<br><br>
+While the banner of Tokugawa isn't really wrong, the use of the Rising Sun flag dates back centuries in Japan as a universal naval ensign.<br><br>
+Sources: [Wikipedia](yhttps://ja.wikipedia.org/wiki/日本の国旗)<br>
+Authors: Unknown<br>
+License: Public Domain.
+<br><br>
