@@ -1057,15 +1057,17 @@
 		<sound filename="PickUpNugget.wav" volume="1.0000"/>
 	</soundset>
 	<soundset name="RifleShot" volume="0.6500" maxnum="9" distance="1.0000">
-		<sound filename="rifleshot1.wav" volume="1.0000"/>
-		<sound filename="rifleshot2.wav" volume="1.0000"/>
-		<sound filename="rifleshot3.wav" volume="1.0000"/>
-		<sound filename="rifleshot4.wav" volume="1.0000"/>
-		<sound filename="rifleshot5.wav" volume="1.0000"/>
-		<sound filename="rifleshot6.wav" volume="1.0000"/>
-		<sound filename="rifleshot7.wav" volume="1.0000"/>
-		<sound filename="rifleshot8.wav" volume="1.0000"/>
-		<sound filename="rifleshot9.wav" volume="1.0000"/>
+		<sound filename="jam\MartiniHenryRifle\shot1.wav" volume="1.0000"/>
+		<sound filename="jam\MartiniHenryRifle\shot2.wav" volume="1.0000"/>
+		<sound filename="jam\MartiniHenryRifle\shot3.wav" volume="1.0000"/>
+		<sound filename="jam\MartiniHenryRifle\shot4.wav" volume="1.0000"/>
+		<sound filename="jam\MartiniHenryRifle\shot5.wav" volume="1.0000"/>
+		<sound filename="jam\MartiniHenryRifle\shot6.wav" volume="1.0000"/>
+		<sound filename="jam\MartiniHenryRifle\shot7.wav" volume="1.0000"/>
+		<sound filename="jam\MartiniHenryRifle\shot8.wav" volume="1.0000"/>
+		<sound filename="jam\MartiniHenryRifle\shot9.wav" volume="1.0000"/>
+		<sound filename="jam\MartiniHenryRifle\shot10.wav" volume="1.0000"/>
+		<sound filename="jam\MartiniHenryRifle\shot11.wav" volume="1.0000"/>
 	</soundset>
 	<soundset name="BuildingDestruction" volume="0.9500" maxnum="4" distance="2.0000">
 		<sound filename="buildingdeath.wav" volume="1.0000"/>
