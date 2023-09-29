@@ -15,7 +15,9 @@ You should have received a copy of the GNU General Public License along with JAM
 ## Age of Empires III
 
 ### Sound Effects
-* **Replaced musket shot sounds** with more realistic ones, taken from recordings of British Land Pattern Muskets (AKA Brown Bess)<br><br>
+* **Replaced rifle shot sounds** with more realistic ones, taken from recordings of British Martini-Henry Rifles.<br><br>
+
+* **Replaced musket shot sounds** with more realistic ones, taken from recordings of British Land Pattern Muskets (AKA Brown Bess).<br><br>
 
 ### Flags
 * **Replaced the Dutch flag**, a double States Flag (Dutch: *Statenvlag*), with the Prince's Flag (Dutch: *Prinsenvlag*).<br><br>
