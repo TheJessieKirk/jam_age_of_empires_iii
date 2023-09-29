@@ -16,6 +16,9 @@ You should have received a copy of the GNU General Public License along with JAM
 
 ### Sound Effects
 * **Replaced rifle shot sounds** with more realistic ones, taken from recordings of British Martini-Henry Rifles.<br><br>
+Sources: Rifle sweetener/tails from [Zapsplat](https://www.zapsplat.com/)<br>
+License: Rifle sweetener/tails licensed under [Zapsplat Standard License](https://www.zapsplat.com/license-type/standard-license/).
+<br><br> 
 
 * **Replaced musket shot sounds** with more realistic ones, taken from recordings of British Land Pattern Muskets (AKA Brown Bess).<br><br>
 
@@ -79,6 +82,20 @@ Authors: Unknown; [Wikimedia Commons: FireBioGreen](https://commons.wikimedia.or
 License: [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 <br><br>
 
+* **Replaced the Chilean flag**, the current national flag, with the national flag of 1818-1854.<br><br>
+Supreme Director Bernardo O'Higgins (1778–1842)'s term as leader took place between 1817–1823, making the replacement flag the correct one.<br><br>
+Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Chile_(1818-1854).svg)<br>
+Authors: Unknown; [Wikimedia Commons: James2813](https://commons.wikimedia.org/wiki/User:James2813)<br>
+License: [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+<br><br>
+
+* **Replaced the Colombian flag**, an unknown or fictitious flag(?), with the national flag of 1821-1831.<br><br>
+President Francisco de Paula Santander (1792–1840)'s term as leader took place between 1819–1826, making the replacement flag the correct one.<br><br>
+Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_the_Gran_Colombia.svg)<br>
+Authors: Unknown; [Wikimedia Commons: Milenioscuro](https://commons.wikimedia.org/wiki/User:Milenioscuro)<br>
+License: [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
+<br><br>
+
 * **Replaced the Iroquois flag**, a fictitious flag, with the Flag of the Haudenosaunee.<br><br>
 This flag is anachronistic, but I feel it's more respectful to the Haudenosaunee than a fictitious one.<br><br>
 Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_the_Iroquois_Confederacy.svg)<br>
@@ -91,6 +108,13 @@ This flag is based on various Lakota tribal flags to create a more authentic, ye
 Sources: [Wikipedia](https://en.wikipedia.org/wiki/Oglala)<br>
 Authors: Own work<br>
 License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+* **Replaced the United States flag**, Betsy Ross's flag, with the flag of Francis Hopkinson.<br><br>
+Betsy Ross (1752–1836) was probably lying about her flag being used. Francis Hopkinson (1737–1791)'s flag is based on the American Naval Jack, and is probably more correct.<br><br>
+Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hopkinson_Flag.svg)<br>
+Authors: Francis Hopkinson; [Wikimedia Commons: DevinCook](https://commons.wikimedia.org/wiki/User:DevinCook)<br>
+License: Public Domain.
+<br><br>
 
 ## Age of Empires III: The Asian Dynasties
 
