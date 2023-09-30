@@ -15,6 +15,10 @@ You should have received a copy of the GNU General Public License along with JAM
 ## Age of Empires III
 
 ### Sound Effects
+* **Replaced blunderbuss shot sounds** with more realistic ones, taken from recordings of a 17th Century blundrrbuss.<br><br>
+
+* **Replaced pistol shot sounds** with more realistic ones, taken from recordings of Colt Single Action Army Revolver.<br><br>
+
 * **Replaced rifle shot sounds** with more realistic ones, taken from recordings of British Martini-Henry Rifles.<br><br>
 Sources: Rifle sweetener/tails from [Zapsplat](https://www.zapsplat.com/)<br>
 License: Rifle sweetener/tails licensed under [Zapsplat Standard License](https://www.zapsplat.com/license-type/standard-license/).
