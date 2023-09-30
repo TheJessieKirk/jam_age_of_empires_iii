@@ -632,10 +632,14 @@
 		<sound filename="culverinshoot4.wav" volume="1.0000"/>
 	</soundset>
 	<soundset name="CannonShoot" volume="0.7500" maxnum="4" distance="2.5000">
-		<sound filename="cannonshot1.wav" volume="1.0000"/>
-		<sound filename="cannonshot2.wav" volume="1.0000"/>
-		<sound filename="cannonshot3.wav" volume="1.0000"/>
-		<sound filename="cannonshot4.wav" volume="1.0000"/>
+		<sound filename="jam\ParrottRifleCannon\shot1.wav" volume="1.0000"/>
+		<sound filename="jam\ParrottRifleCannon\shot2.wav" volume="1.0000"/>
+		<sound filename="jam\ParrottRifleCannon\shot3.wav" volume="1.0000"/>
+		<sound filename="jam\ParrottRifleCannon\shot4.wav" volume="1.0000"/>
+		<sound filename="jam\ParrottRifleCannon\shot5.wav" volume="1.0000"/>
+		<sound filename="jam\ParrottRifleCannon\shot6.wav" volume="1.0000"/>
+		<sound filename="jam\ParrottRifleCannon\shot7.wav" volume="1.0000"/>
+		<sound filename="jam\ParrottRifleCannon\shot8.wav" volume="1.0000"/>
 	</soundset>
 	<soundset name="OttomanJanissarySelect" volume="0.8000" maxnum="4" distance="1.0000">
 		<sound filename="ottomanjanissaryselect1.wav" volume="1.0000"/>
