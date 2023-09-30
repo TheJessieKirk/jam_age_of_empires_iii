@@ -2643,13 +2643,12 @@
 	<soundset name="AmbienceFactory" volume="0.4000" maxnum="1" distance="1.0000">
 		<sound filename="ambient\Factory\1.wav" volume="1.0000"/>
 	</soundset>
-	<soundset name="PistolShot" volume="1.0000" maxnum="9" distance="1.0000">
-		<sound filename="PistolShot1.wav" volume="1.0000"/>
-		<sound filename="PistolShot2.wav" volume="1.0000"/>
-		<sound filename="PistolShot3.wav" volume="1.0000"/>
-		<sound filename="PistolShot4.wav" volume="1.0000"/>
-		<sound filename="PistolShot5.wav" volume="1.0000"/>
-		<sound filename="PistolShot6.wav" volume="1.0000"/>
+	<soundset name="PistolShot" volume="0.6500" maxnum="9" distance="1.0000">
+		<sound filename="jam\ColtSingleActionArmyRevolver\shot1.wav" volume="1.0000"/>
+		<sound filename="jam\ColtSingleActionArmyRevolver\shot2.wav" volume="1.0000"/>
+		<sound filename="jam\ColtSingleActionArmyRevolver\shot3.wav" volume="1.0000"/>
+		<sound filename="jam\ColtSingleActionArmyRevolver\shot4.wav" volume="1.0000"/>
+		<sound filename="jam\ColtSingleActionArmyRevolver\shot5.wav" volume="1.0000"/>
 	</soundset>
 	<soundset name="MortarShot" volume="0.9000" maxnum="4" distance="2.0000">
 		<sound filename="MortarShot1.wav" volume="1.0000"/>
@@ -4113,13 +4112,12 @@
 	<soundset name="BattlecryLarge" volume="0.6000" maxnum="1" distance="1.0000">
 		<sound filename="BattlecryLarge.wav" volume="1.0000"/>
 	</soundset>
-	<soundset name="SettlerGunShot" volume="0.7500" maxnum="7" distance="1.0000">
-		<sound filename="SettlerGunShot1.wav" volume="1.0000"/>
-		<sound filename="SettlerGunShot2.wav" volume="1.0000"/>
-		<sound filename="SettlerGunShot3.wav" volume="1.0000"/>
-		<sound filename="SettlerGunShot4.wav" volume="1.0000"/>
-		<sound filename="SettlerGunShot5.wav" volume="1.0000"/>
-		<sound filename="SettlerGunShot6.wav" volume="1.0000"/>
+	<soundset name="SettlerGunShot" volume="0.6500" maxnum="7" distance="1.0000">
+		<sound filename="jam\GenericBlunderbuss\shot1.wav" volume="1.0000"/>
+		<sound filename="jam\GenericBlunderbuss\shot2.wav" volume="1.0000"/>
+		<sound filename="jam\GenericBlunderbuss\shot3.wav" volume="1.0000"/>
+		<sound filename="jam\GenericBlunderbuss\shot4.wav" volume="1.0000"/>
+		<sound filename="jam\GenericBlunderbuss\shot5.wav" volume="1.0000"/>
 	</soundset>
 	<soundset name="StoneHitGround" volume="0.4000" maxnum="3" distance="1.0000">
 		<sound filename="BuildingPartImpactStone1.wav" volume="1.0000"/>
