@@ -17,7 +17,13 @@ You should have received a copy of the GNU General Public License along with JAM
 ### Sound Effects
 * **Replaced blunderbuss shot sounds** with more realistic ones, taken from recordings of a 17th Century blundrrbuss.<br><br>
 
-* **Replaced pistol shot sounds** with more realistic ones, taken from recordings of Colt Single Action Army Revolver.<br><br>
+* **Replaced heavy cannon shot sounds** with more realistic ones, taken from recordings of American Parrott Rifle cannon.<br><br>
+Sources: Cannon sweetener from [Zapsplat](https://www.zapsplat.com/)<br>
+License: Cannon sweetener licensed under [Zapsplat Standard License](https://www.zapsplat.com/license-type/standard-license/).
+<br><br> 
+
+
+* **Replaced pistol shot sounds** with more realistic ones, taken from recordings of American Colt Single Action Army Revolver.<br><br>
 
 * **Replaced rifle shot sounds** with more realistic ones, taken from recordings of British Martini-Henry Rifles.<br><br>
 Sources: Rifle sweetener/tails from [Zapsplat](https://www.zapsplat.com/)<br>
