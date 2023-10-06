@@ -16,6 +16,8 @@ var/releases/jam_age_of_empires_iii_0.0.8_bin.zip filter=lfs diff=lfs merge=lfs 
 var/releases/jam_age_of_empires_iii_0.0.8_src.zip filter=lfs diff=lfs merge=lfs -text
 var/releases/jam_age_of_empires_iii_0.0.9_bin.zip filter=lfs diff=lfs merge=lfs -text
 var/releases/jam_age_of_empires_iii_0.0.9_src.zip filter=lfs diff=lfs merge=lfs -text
+var/releases/jam_age_of_empires_iii_0.0.10_bin.zip filter=lfs diff=lfs merge=lfs -text
+var/releases/jam_age_of_empires_iii_0.0.10_src.zip filter=lfs diff=lfs merge=lfs -text
 var/packages/jam_age_of_empires_iii_the_warchiefs_0.0.1_bin.zip filter=lfs diff=lfs merge=lfs -text
 var/packages/jam_age_of_empires_iii_the_warchiefs_0.0.1_src.zip filter=lfs diff=lfs merge=lfs -text
 var/packages/jam_age_of_empires_iii_the_warchiefs_0.0.2_bin.zip filter=lfs diff=lfs merge=lfs -text
@@ -26,9 +28,13 @@ var/packages/jam_age_of_empires_iii_the_warchiefs_0.0.4_bin.zip filter=lfs diff=
 var/packages/jam_age_of_empires_iii_the_warchiefs_0.0.4_src.zip filter=lfs diff=lfs merge=lfs -text
 var/packages/jam_age_of_empires_iii_the_warchiefs_0.0.5_bin.zip filter=lfs diff=lfs merge=lfs -text
 var/packages/jam_age_of_empires_iii_the_warchiefs_0.0.5_src.zip filter=lfs diff=lfs merge=lfs -text
+var/packages/jam_age_of_empires_iii_the_warchiefs_0.0.6_bin.zip filter=lfs diff=lfs merge=lfs -text
+var/packages/jam_age_of_empires_iii_the_warchiefs_0.0.6_src.zip filter=lfs diff=lfs merge=lfs -text
 var/packages/jam_age_of_empires_iii_the_asian_dynasties_0.0.1_bin.zip filter=lfs diff=lfs merge=lfs -text
 var/packages/jam_age_of_empires_iii_the_asian_dynasties_0.0.1_src.zip filter=lfs diff=lfs merge=lfs -text
 var/packages/jam_age_of_empires_iii_the_asian_dynasties_0.0.2_bin.zip filter=lfs diff=lfs merge=lfs -text
 var/packages/jam_age_of_empires_iii_the_asian_dynasties_0.0.2_src.zip filter=lfs diff=lfs merge=lfs -text
 var/packages/jam_age_of_empires_iii_the_asian_dynasties_0.0.3_bin.zip filter=lfs diff=lfs merge=lfs -text
 var/packages/jam_age_of_empires_iii_the_asian_dynasties_0.0.3_src.zip filter=lfs diff=lfs merge=lfs -text
+var/packages/jam_age_of_empires_iii_the_asian_dynasties_0.0.4_bin.zip filter=lfs diff=lfs merge=lfs -text
+var/packages/jam_age_of_empires_iii_the_asian_dynasties_0.0.4_src.zip filter=lfs diff=lfs merge=lfs -text
