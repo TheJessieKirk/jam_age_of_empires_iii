@@ -73,10 +73,6 @@
       <idletimeout>3.5</idletimeout>
     </unitregen>
     <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
-    <unitregen>
       <unittype>SPCBolivar</unittype>
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
@@ -148,10 +144,6 @@
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
     </unitregen>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
   </civ>
   <civ>
     <name>French</name>
@@ -219,10 +211,6 @@
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
     </unitregen>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
   </civ>
   <civ>
     <name>Portuguese</name>
@@ -289,10 +277,6 @@
       <unittype>Hero</unittype>
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
-    </unitregen>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
     </unitregen>
   </civ>
   <civ>
@@ -363,10 +347,6 @@
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
     </unitregen>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
   </civ>
   <civ>
     <name>Russians</name>
@@ -434,10 +414,6 @@
       <unittype>Hero</unittype>
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
-    </unitregen>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
     </unitregen>
     <blocktrain>
       <building>TownCenter</building>
@@ -523,10 +499,6 @@
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
     </unitregen>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
   </civ>
   <civ>
     <name>Ottomans</name>
@@ -598,10 +570,6 @@
       <unittype>Spahi</unittype>
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
-    </unitregen>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
     </unitregen>
   </civ>
   <civ>
@@ -679,10 +647,6 @@
       <rate>0.65</rate>
       <idletimeout>3.5</idletimeout>
     </unitregen>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
     <visible>0</visible>
     <visibleineditor>1</visibleineditor>
   </civ>
@@ -755,10 +719,6 @@
       <unittype>ExplorerDog</unittype>
       <rate>0.40</rate>
       <idletimeout>3.5</idletimeout>
-    </unitregen>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
     </unitregen>
     <visible>0</visible>
     <visibleineditor>1</visibleineditor>
@@ -833,10 +793,6 @@
       <rate>0.40</rate>
       <idletimeout>3.5</idletimeout>
     </unitregen>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
     <visible>0</visible>
     <visibleineditor>1</visibleineditor>
   </civ>
@@ -889,10 +845,6 @@
       <unittype>SPCLizzie</unittype>
       <rate>0.65</rate>
       <idletimeout>3.5</idletimeout>
-    </unitregen>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
     </unitregen>
     <visible>0</visible>
     <visibleineditor>1</visibleineditor>
@@ -952,10 +904,6 @@
       <rate>0.65</rate>
       <idletimeout>3.5</idletimeout>
     </unitregen>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
     <visible>0</visible>
     <visibleineditor>1</visibleineditor>
   </civ>
@@ -1004,10 +952,6 @@
     <homecityflagtexture>objects\flags\thecircle</homecityflagtexture>
     <homecityflagbuttonset>nativeFlagBtn</homecityflagbuttonset>
     <homecityflagbuttonsetlarge>spanishFlagBtnLarge</homecityflagbuttonsetlarge>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
     <visible>0</visible>
     <visibleineditor>1</visibleineditor>
   </civ>
@@ -1078,10 +1022,6 @@
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
     </unitregen>
-    <unitregen>
-      <unittype>xpWarrior</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
   </civ>
   <civ>
     <name>XPSioux</name>
@@ -1148,10 +1088,6 @@
       <unittype>Hero</unittype>
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
-    </unitregen>
-    <unitregen>
-      <unittype>xpWarrior</unittype>
-      <rate>-2.0</rate>
     </unitregen>
   </civ>
   <civ>
@@ -1221,10 +1157,6 @@
       <unittype>Hero</unittype>
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
-    </unitregen>
-    <unitregen>
-      <unittype>xpWarrior</unittype>
-      <rate>-2.0</rate>
     </unitregen>
   </civ>
   <civ>
@@ -1366,14 +1298,6 @@
       <unittype>AbstractDaimyo</unittype>
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
-    </unitregen>
-    <unitregen>
-      <unittype>ypIrregular</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
-    <unitregen>
-      <unittype>ypPeasant</unittype>
-      <rate>-1.0</rate>
     </unitregen>
     <unitregen>
       <unittype>SPCBolivar</unittype>
@@ -1749,14 +1673,6 @@
       <unittype>Hero</unittype>
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
-    </unitregen>
-    <unitregen>
-      <unittype>ypPeasant</unittype>
-      <rate>-1.0</rate>
-    </unitregen>
-    <unitregen>
-      <unittype>ypIrregular</unittype>
-      <rate>-2.0</rate>
     </unitregen>
     <unitregen>
       <unittype>SPCBolivar</unittype>
@@ -2861,18 +2777,6 @@
       <idletimeout>3.5</idletimeout>
     </unitregen>
     <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
-    <unitregen>
-      <unittype>ypIrregular</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
-    <unitregen>
-      <unittype>ypPeasant</unittype>
-      <rate>-1.0</rate>
-    </unitregen>
-    <unitregen>
       <unittype>SPCBolivar</unittype>
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
@@ -3161,14 +3065,6 @@
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
     </unitregen>
-    <unitregen>
-      <unittype>ypIrregular</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
-    <unitregen>
-      <unittype>ypPeasant</unittype>
-      <rate>-1.0</rate>
-    </unitregen>
     <multipleblocktrain>
       <building>ypDojo</building>
       <multipleblockunit>ypDojoYumiArmy</multipleblockunit>
@@ -3397,14 +3293,6 @@
       <unittype>ypSPCJinhai</unittype>
       <rate>0.65</rate>
       <idletimeout>3.5</idletimeout>
-    </unitregen>
-    <unitregen>
-      <unittype>ypPeasant</unittype>
-      <rate>-1.0</rate>
-    </unitregen>
-    <unitregen>
-      <unittype>ypIrregular</unittype>
-      <rate>-2.0</rate>
     </unitregen>
     <blocktrain>
       <building>ypBarracksChinese</building>
@@ -4468,18 +4356,6 @@
       <rate>0.65</rate>
       <idletimeout>3.5</idletimeout>
     </unitregen>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
-    <unitregen>
-      <unittype>ypIrregular</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
-    <unitregen>
-      <unittype>ypPeasant</unittype>
-      <rate>-1.0</rate>
-    </unitregen>
     <multipleblocktrain>
       <building>ypConsulate</building>
       <multipleblockunit>ypConsulateArmyRussian1</multipleblockunit>
@@ -4728,10 +4604,6 @@
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
     </unitregen>
-    <unitregen>
-      <unittype>Minuteman</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
   </civ>
   <civ>
     <name>SPCJapaneseEnemy</name>
@@ -4836,14 +4708,6 @@
       <unittype>ypSPCDaimyoTadaoki</unittype>
       <rate>0.25</rate>
       <idletimeout>3.5</idletimeout>
-    </unitregen>
-    <unitregen>
-      <unittype>ypIrregular</unittype>
-      <rate>-2.0</rate>
-    </unitregen>
-    <unitregen>
-      <unittype>ypPeasant</unittype>
-      <rate>-1.0</rate>
     </unitregen>
     <multipleblocktrain>
       <building>ypDojo</building>
