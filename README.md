@@ -22,7 +22,6 @@ Sources: Cannon sweetener from [Zapsplat](https://www.zapsplat.com/)<br>
 License: Cannon sweetener licensed under [Zapsplat Standard License](https://www.zapsplat.com/license-type/standard-license/).
 <br><br> 
 
-
 * **Replaced pistol shot sounds** with more realistic ones, taken from recordings of American Colt Single Action Army Revolver.<br><br>
 
 * **Replaced rifle shot sounds** with more realistic ones, taken from recordings of British Martini-Henry Rifles.<br><br>
@@ -127,6 +126,24 @@ License: Public Domain.
 <br><br>
 
 ## Age of Empires III: The Asian Dynasties
+
+### Units
+
+* Added **Brig**, a non Pirate/Privateer version of the Privateer mercenary. You can build it from your dock.
+
+* **Fishing Boats** no longer cost population and have a build limit of 12.
+
+* **Irregulars** and **Minutemen** no longer degrade.
+
+### Campaign
+
+* Removed many of the building restrictions from the Knights of St. John in **Blood, Ice and Steel**.
+
+* Fixed broken shipwreck treasure objective in 2nd scenario.
+
+* De-anglicanised the Knights of St. John; units now speak more Spanish, churches appear more Mediteranean, and ship names are now real historical Maltese names.
+
+* The Knights of St. John can now build galleys, which they did in real life.
 
 ### Flags
 
