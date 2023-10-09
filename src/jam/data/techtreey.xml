@@ -11502,7 +11502,7 @@
     <Effects>
       <Effect type ='Data' amount ='2.00' subtype ='BuildLimit' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Galleon</Target></Effect>
-      <Effect type ='Data' amount ='3.00' subtype ='Enable' relativity ='Absolute'>
+      <Effect type ='Data' amount ='3.00' subtype ='BuildLimit' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Brig</Target></Effect>
       <Effect type ='Data' amount ='4.00' subtype ='BuildLimit' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Caravel</Target></Effect>
