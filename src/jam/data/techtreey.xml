@@ -51301,7 +51301,7 @@
     <Prereqs>
       <TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
     <Effects>
-      <Effect type ='SetName' proto ='Ishybiya' culture ='none' newName ='70558'></Effect>
+      <Effect type ='SetName' proto ='Ishybiya' culture ='none' newName ='70562'></Effect>
       <Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>Ishybiya</Target></Effect>
       <Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
@@ -51323,10 +51323,10 @@
     <Flag>CountsTowardMilitaryScore</Flag>
     <Prereqs>
       <TechStatus status ='Active'>Imperialize</TechStatus>
-      <TechStatus status ='Active'>YPHonoredIshybiya</TechStatus>
+      <TechStatus status ='Active'>HonoredIshybiya</TechStatus>
     </Prereqs>
     <Effects>
-      <Effect type ='SetName' proto ='Ishybiya' culture ='none' newName ='70560'></Effect>
+      <Effect type ='SetName' proto ='Ishybiya' culture ='none' newName ='70564'></Effect>
       <Effect type ='Data' amount ='1.50' subtype ='Hitpoints' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>Ishybiya</Target></Effect>
       <Effect type ='Data' amount ='1.50' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
