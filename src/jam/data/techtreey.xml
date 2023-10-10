@@ -5951,6 +5951,8 @@
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>ypFlamingArrow</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
+        <Target type ='ProtoUnit'>Ishybiya</Target></Effect>
+      <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>ypFishingBoatAsian</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>ypAtakabune</Target></Effect>
@@ -5990,6 +5992,7 @@
       <Effect type ='TechStatus' status ='obtainable'>YPHonoredSamurai</Effect>
       <Effect type ='TechStatus' status ='obtainable'>YPHonoredNaginataRider</Effect>
       <Effect type ='TechStatus' status ='obtainable'>YPHonoredFlamingArrow</Effect>
+      <Effect type ='TechStatus' status ='obtainable'>HonoredIshybiya</Effect>
       <Effect type ='TechStatus' status ='obtainable'>ypHonoredDaimyoShadow</Effect>
       <Effect type ='TechStatus' status ='obtainable'>YPHonoredAshigaru</Effect>
       <Effect type ='TechStatus' status ='obtainable'>YPExaltedYumi</Effect>
@@ -6000,6 +6003,7 @@
       <Effect type ='TechStatus' status ='obtainable'>YPExaltedNaginataRider</Effect>
       <Effect type ='TechStatus' status ='obtainable'>YPExaltedMorutaru</Effect>
       <Effect type ='TechStatus' status ='obtainable'>YPExaltedFlamingArrow</Effect>
+      <Effect type ='TechStatus' status ='obtainable'>ExaltedIshybiya</Effect>
       <Effect type ='TechStatus' status ='obtainable'>ypExaltedDaimyoShadow</Effect>
       <Effect type ='TechStatus' status ='obtainable'>YPExaltedAshigaru</Effect>
       <Effect type ='TechStatus' status ='obtainable'>YPHonoredMorutaru</Effect>
@@ -7611,6 +7615,7 @@
       <Effect type ='TechStatus' status ='active'>ypAAAsianStandardTechsPI</Effect>
       <Effect type ='TechStatus' status ='active'>ypDojoUpgrade1</Effect>
       <Effect type ='TechStatus' status ='active'>YPHonoredFlamingArrow</Effect>
+      <Effect type ='TechStatus' status ='active'>HonoredIshybiya</Effect>
       <Effect type ='TechStatus' status ='active'>ypShrineFortressUpgrade</Effect>
     </Effects>
   </Tech>
@@ -7688,6 +7693,7 @@
       <Effect type ='TechStatus' status ='active'>YPExaltedNaginataRider</Effect>
       <Effect type ='TechStatus' status ='active'>YPExaltedYabusame</Effect>
       <Effect type ='TechStatus' status ='active'>YPExaltedFlamingArrow</Effect>
+      <Effect type ='TechStatus' status ='active'>ExaltedIshybiya</Effect>
       <Effect type ='TechStatus' status ='active'>YPExaltedMorutaru</Effect>
       <Effect type ='TechStatus' status ='active'>ImpImmigrantsNative</Effect>
       <Effect type ='TechStatus' status ='active'>ypImpLegendaryNatives2</Effect>
@@ -18777,6 +18783,8 @@
         <Target type ='ProtoUnit'>ypMorutaru</Target></Effect>
       <Effect type ='Data' amount ='0.60' subtype ='TrainPoints' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>ypFlamingArrow</Target></Effect>
+      <Effect type ='Data' amount ='0.60' subtype ='TrainPoints' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>Ishybiya</Target></Effect>
       <Effect type ='Data' amount ='0.90' subtype ='TrainPoints' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>ypFlyingCrow</Target></Effect>
       <Effect type ='Data' amount ='0.60' subtype ='TrainPoints' relativity ='BasePercent'>
@@ -46122,13 +46130,13 @@
   </Tech>
   <Tech name ='YPExaltedFlamingArrow' type ='Normal'>
     <DBID>4796</DBID>
-    <DisplayNameID>66015</DisplayNameID>
+    <DisplayNameID>70560</DisplayNameID>
     <Cost resourcetype ='Wood'>1000.0000</Cost>
     <Cost resourcetype ='Gold'>1000.0000</Cost>
     <ResearchPoints>30.0000</ResearchPoints>
     <Status>UNOBTAINABLE</Status>
     <Icon>ui\techs\asians\exalted_siege</Icon>
-    <RolloverTextID>66014</RolloverTextID>
+    <RolloverTextID>70561</RolloverTextID>
     <Flag>UpgradeTech</Flag>
     <Flag>CountsTowardMilitaryScore</Flag>
     <Prereqs>
@@ -46136,7 +46144,7 @@
       <TechStatus status ='Active'>YPHonoredFlamingArrow</TechStatus>
     </Prereqs>
     <Effects>
-      <Effect type ='SetName' proto ='ypFlamingArrow' culture ='none' newName ='66017'></Effect>
+      <Effect type ='SetName' proto ='ypFlamingArrow' culture ='none' newName ='70560'></Effect>
       <Effect type ='Data' amount ='1.50' subtype ='Hitpoints' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>ypFlamingArrow</Target></Effect>
       <Effect type ='Data' amount ='1.50' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
@@ -46166,19 +46174,19 @@
   </Tech>
   <Tech name ='YPHonoredFlamingArrow' type ='Normal'>
     <DBID>4798</DBID>
-    <DisplayNameID>66023</DisplayNameID>
+    <DisplayNameID>70558</DisplayNameID>
     <Cost resourcetype ='Food'>250.0000</Cost>
     <Cost resourcetype ='Wood'>250.0000</Cost>
     <ResearchPoints>30.0000</ResearchPoints>
     <Status>UNOBTAINABLE</Status>
     <Icon>ui\techs\asians\honored_siege</Icon>
-    <RolloverTextID>66022</RolloverTextID>
+    <RolloverTextID>70559</RolloverTextID>
     <Flag>UpgradeTech</Flag>
     <Flag>CountsTowardMilitaryScore</Flag>
     <Prereqs>
       <TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
     <Effects>
-      <Effect type ='SetName' proto ='ypFlamingArrow' culture ='none' newName ='66025'></Effect>
+      <Effect type ='SetName' proto ='ypFlamingArrow' culture ='none' newName ='70558'></Effect>
       <Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>ypFlamingArrow</Target></Effect>
       <Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
@@ -48892,6 +48900,8 @@
       <Effect type ='Data' amount ='0.70' subtype ='TrainPoints' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>ypFlamingArrow</Target></Effect>
       <Effect type ='Data' amount ='0.70' subtype ='TrainPoints' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>Ishybiya</Target></Effect>
+      <Effect type ='Data' amount ='0.70' subtype ='TrainPoints' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>ypHandMortar</Target></Effect>
       <Effect type ='Data' amount ='0.95' subtype ='TrainPoints' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>ypFlyingCrow</Target></Effect>
@@ -51275,6 +51285,52 @@
     <Effects>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Canoe</Target></Effect>
+    </Effects>
+  </Tech>
+  <Tech name ='HonoredIshybiya' type ='Normal'>
+    <DBID>4798</DBID>
+    <DisplayNameID>70562</DisplayNameID>
+    <Cost resourcetype ='Food'>250.0000</Cost>
+    <Cost resourcetype ='Wood'>250.0000</Cost>
+    <ResearchPoints>30.0000</ResearchPoints>
+    <Status>UNOBTAINABLE</Status>
+    <Icon>ui\techs\asians\honored_siege</Icon>
+    <RolloverTextID>70563</RolloverTextID>
+    <Flag>UpgradeTech</Flag>
+    <Flag>CountsTowardMilitaryScore</Flag>
+    <Prereqs>
+      <TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
+    <Effects>
+      <Effect type ='SetName' proto ='Ishybiya' culture ='none' newName ='70558'></Effect>
+      <Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>Ishybiya</Target></Effect>
+      <Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>Ishybiya</Target></Effect>
+      <Effect type ='Data' amount ='0.50' subtype ='DamageBonus' unittype ='AbstractArtillery' allactions ='1' relativity ='Absolute'>
+        <Target type ='ProtoUnit'>Ishybiya</Target></Effect>
+    </Effects>
+  </Tech>
+  <Tech name ='ExaltedIshybiya' type ='Normal'>
+    <DBID>4796</DBID>
+    <DisplayNameID>70564</DisplayNameID>
+    <Cost resourcetype ='Wood'>1000.0000</Cost>
+    <Cost resourcetype ='Gold'>1000.0000</Cost>
+    <ResearchPoints>30.0000</ResearchPoints>
+    <Status>UNOBTAINABLE</Status>
+    <Icon>ui\techs\asians\exalted_siege</Icon>
+    <RolloverTextID>70565</RolloverTextID>
+    <Flag>UpgradeTech</Flag>
+    <Flag>CountsTowardMilitaryScore</Flag>
+    <Prereqs>
+      <TechStatus status ='Active'>Imperialize</TechStatus>
+      <TechStatus status ='Active'>YPHonoredIshybiya</TechStatus>
+    </Prereqs>
+    <Effects>
+      <Effect type ='SetName' proto ='Ishybiya' culture ='none' newName ='70560'></Effect>
+      <Effect type ='Data' amount ='1.50' subtype ='Hitpoints' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>Ishybiya</Target></Effect>
+      <Effect type ='Data' amount ='1.50' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>Ishybiya</Target></Effect>
     </Effects>
   </Tech>
 </TechTree>
