@@ -44,3 +44,4 @@ var/releases/jam_age_of_empires_iii_complete_0.0.1_bin.zip filter=lfs diff=lfs m
 var/releases/jam_age_of_empires_iii_complete_0.0.1_src.zip filter=lfs diff=lfs merge=lfs -text
 var/releases/jam_age_of_empires_iii_complete_0.0.2_bin.zip filter=lfs diff=lfs merge=lfs -text
 var/releases/jam_age_of_empires_iii_complete_0.0.2_src.zip filter=lfs diff=lfs merge=lfs -text
+var/releases/jam_age_of_empires_iii_complete_0.0.2-rollback_bin.zip filter=lfs diff=lfs merge=lfs -text
