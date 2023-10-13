@@ -4706,4 +4706,11 @@
     <sound filename="jam\speech\spanishbrigmove2.wav" volume="1.0000"/>
     <sound filename="jam\speech\spanishbrigmove3.wav" volume="1.0000"/>
   </soundset>
+  <soundset name="BombShipMortarShot" volume="1.0000" maxnum="4" distance="4.0000">
+    <sound filename="jam\BombShipMortar\shot1.wav" volume="1.0000"/>
+    <sound filename="jam\BombShipMortar\shot2.wav" volume="1.0000"/>
+    <sound filename="jam\BombShipMortar\shot3.wav" volume="1.0000"/>
+    <sound filename="jam\BombShipMortar\shot4.wav" volume="1.0000"/>
+    <sound filename="jam\BombShipMortar\shot5.wav" volume="1.0000"/>
+  </soundset>
 </soundsetdef>
