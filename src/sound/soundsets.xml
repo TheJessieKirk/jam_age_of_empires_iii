@@ -4525,11 +4525,8 @@
     <sound filename="SPCMinerAttack1.wav" volume="1.0000"/>
     <sound filename="SPCMinerAttack2.wav" volume="1.0000"/>
   </soundset>
-  <soundset name="OrganGunShoot" volume="0.6500" maxnum="8" distance="1.0000">
-    <sound filename="falconetshoot1.wav" volume="1.0000"/>
-    <sound filename="falconetshoot2.wav" volume="1.0000"/>
-    <sound filename="falconetshoot3.wav" volume="1.0000"/>
-    <sound filename="falconetshoot4.wav" volume="1.0000"/>
+  <soundset name="OrganGunShoot" volume="0.9000" maxnum="8" distance="1.0000">
+    <sound filename="jam\OrganGun\shot1.wav" volume="1.0000"/>
   </soundset>
   <soundset name="HoopImpact" volume="0.5000" maxnum="5" distance="1.0000">
     <sound filename="HoopImpact1.wav" volume="1.0000"/>
@@ -4712,5 +4709,12 @@
     <sound filename="jam\BombShipMortar\shot3.wav" volume="1.0000"/>
     <sound filename="jam\BombShipMortar\shot4.wav" volume="1.0000"/>
     <sound filename="jam\BombShipMortar\shot5.wav" volume="1.0000"/>
+  </soundset>
+  <soundset name="SwivelGunShot" volume="0.9000" maxnum="4" distance="2.5000">
+    <sound filename="jam\SwivelGun\shot1.wav" volume="1.0000"/>
+    <sound filename="jam\SwivelGun\shot2.wav" volume="1.0000"/>
+    <sound filename="jam\SwivelGun\shot3.wav" volume="1.0000"/>
+    <sound filename="jam\SwivelGun\shot4.wav" volume="1.0000"/>
+    <sound filename="jam\SwivelGun\shot5.wav" volume="1.0000"/>
   </soundset>
 </soundsetdef>
