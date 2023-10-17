@@ -88,7 +88,7 @@
     </anim>
   </attachment>
   <attachment>
-    Pirate_flag
+    flag
     <component>
       flag
       <assetreference type="ClothFlag">
@@ -165,7 +165,7 @@
       <model>units\naval\privateer\privateer_damaged</model>
       <damagetemplate>units\naval\privateer\privateer.dmg</damagetemplate>
     </simskeleton>
-    <attach a="Pirate_flag" frombone="ATTACHPOINT" tobone="bone_banner" syncanims="0"/>
+    <attach a="flag" frombone="ATTACHPOINT" tobone="bone_banner" syncanims="0"/>
   </anim>
   <anim>
     Walk
@@ -177,7 +177,7 @@
       <model>units\naval\privateer\privateer_damaged</model>
       <damagetemplate>units\naval\privateer\privateer.dmg</damagetemplate>
     </simskeleton>
-    <attach a="Pirate_flag" frombone="ATTACHPOINT" tobone="bone_banner" syncanims="0"/>
+    <attach a="flag" frombone="ATTACHPOINT" tobone="bone_banner" syncanims="0"/>
   </anim>
   <anim>
     Death
@@ -190,6 +190,6 @@
     <attach a="DeathWaterRipple" frombone="ATTACHPOINT" tobone="ATTACHPOINT" syncanims="0"/>
     <attach a="DeathWaterSpray2" frombone="ATTACHPOINT" tobone="ATTACHPOINT" syncanims="0"/>
     <attach a="DeathWaterSteam" frombone="ATTACHPOINT" tobone="ATTACHPOINT" syncanims="0"/>
-    <attach a="Pirate_flag" frombone="ATTACHPOINT" tobone="bone_banner" syncanims="0"/>
+    <attach a="flag" frombone="ATTACHPOINT" tobone="bone_banner" syncanims="0"/>
   </anim>
 </animfile>

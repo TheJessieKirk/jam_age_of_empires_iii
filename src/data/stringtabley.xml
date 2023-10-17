@@ -29934,5 +29934,11 @@
     <string _locid="70563">Ishibiya attack and hitpoints increased.</string>
     <string _locid="70564">Exalted Ishibiya</string>
     <string _locid="70565">Exalted upgrade for Ishibiya.</string>
+    <string _locid="70566">Easton Pirate Ship</string>
+    <string _locid="70567">GRD Easton Pirate Ship</string>
+    <string _locid="70568">Defeat this guardian to collect its treasure.</string>
+    <string _locid="70569">Treasure guardian</string>
+    <string _locid="70570">English Red Ensign Flag</string>
+    <string _locid="70571">PROP English Red Ensign Flag</string>
   </language>
 </stringtable>
