@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <tactics>
   <action>
     <name stringid="69162">VillagerTrainFaster</name>
@@ -139,6 +141,17 @@
     <persistent>1</persistent>
     <dancebonustype>UnitSpawn</dancebonustype>
     <modifyprotoid>xpSkullKnight</modifyprotoid>
+    <modifymultiplier>0.065</modifymultiplier>
+    <modifyexponent>1.03</modifyexponent>
+    <modifybase>0.0</modifybase>
+  </action>
+  <action>
+    <name stringid="69174">SpawnSiouxDude</name>
+    <type>DanceBonus</type>
+    <active>1</active>
+    <persistent>1</persistent>
+    <dancebonustype>UnitSpawn</dancebonustype>
+    <modifyprotoid>SiouxLancer</modifyprotoid>
     <modifymultiplier>0.065</modifymultiplier>
     <modifyexponent>1.03</modifyexponent>
     <modifybase>0.0</modifybase>
