@@ -5727,13 +5727,13 @@
     <string _locid="34213" gamecharacter="Morgan" soundfilename="MORG5247">Spanish galleons ahead! Rig for battle!</string>
     <string _locid="34216" gamecharacter="Soldier" soundfilename="GENR5051">We've spotted a treasure ship!</string>
     <string _locid="34217" gamecharacter="Soldier" soundfilename="GENR5052">Another treasure ship!</string>
-    <string _locid="34218">Treasure Ships Captured: 0/6</string>
-    <string _locid="34219">Treasure Ships Captured: 1/6</string>
-    <string _locid="34220">Treasure Ships Captured: 2/6</string>
-    <string _locid="34221">Treasure Ships Captured: 3/6</string>
-    <string _locid="34222">Treasure Ships Captured: 4/6</string>
-    <string _locid="34223">Treasure Ships Captured: 5/6</string>
-    <string _locid="34224">Treasure Ships Captured: 6/6</string>
+    <string _locid="34218">Treasure Ships Captured: 0/8</string>
+    <string _locid="34219">Treasure Ships Captured: 1/8</string>
+    <string _locid="34220">Treasure Ships Captured: 2/8</string>
+    <string _locid="34221">Treasure Ships Captured: 3/8</string>
+    <string _locid="34222">Treasure Ships Captured: 4/8</string>
+    <string _locid="34223">Treasure Ships Captured: 5/8</string>
+    <string _locid="34224">Treasure Ships Captured: 6/8d</string>
     <string _locid="34225">Wood source</string>
     <string _locid="34226">A tree such as birch or maple. Harvest for Wood.</string>
     <string _locid="34227">Tree</string>
@@ -29965,5 +29965,16 @@
     <string _locid="70594">Diné</string>
     <string _locid="70595" symbol="cStringCivNameShaolin">Chan</string>
     <string _locid="70596" symbol="cStringCivNameIndians">Hindustani</string>
+    <string _locid="70597">Harquebusier</string>
+    <string _locid="70598">INF Harquebusier</string>
+    <string _locid="70599">Heavy ranged infantry.</string>
+    <string _locid="70600">Veteran Harquebusiers</string>
+    <string _locid="70601">Harquebusier attack and hitpoints increased.</string>
+    <string _locid="70602">Guard Harquebusiers</string>
+    <string _locid="70603">Harquebusier attack and hitpoints increased.</string>
+    <string _locid="70604">Veteran Harquebusiers</string>
+    <string _locid="70605">Guard Harquebusiers</string>
+    <string _locid="70606">Treasure Ships Captured: 7/8</string>
+    <string _locid="70607">Treasure Ships Captured: 7/8</string>
   </language>
 </stringtable>

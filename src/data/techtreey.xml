@@ -1998,6 +1998,7 @@
       <Effect type ='TechStatus' status ='obtainable'>VeteranRodeleros</Effect>
       <Effect type ='TechStatus' status ='obtainable'>VeteranPikemen</Effect>
       <Effect type ='TechStatus' status ='obtainable'>VeteranCrossbowmen</Effect>
+      <Effect type ='TechStatus' status ='obtainable'>VeteranHarquebusiers</Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Barracks</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
@@ -2012,6 +2013,8 @@
         <Target type ='ProtoUnit'>Pikeman</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Crossbowman</Target></Effect>
+      <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
+        <Target type ='ProtoUnit'>Harquebusier</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>SPCHoopThrowers</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
@@ -51335,6 +51338,54 @@
         <Target type ='ProtoUnit'>Ishybiya</Target></Effect>
       <Effect type ='Data' amount ='1.50' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>Ishybiya</Target></Effect>
+    </Effects>
+  </Tech>
+  <Tech name ='VeteranHarquebusiers' type ='Normal'>
+    <DBID>4797</DBID>
+    <DisplayNameID>70600</DisplayNameID>
+    <Cost resourcetype ='Wood'>200.0000</Cost>
+    <Cost resourcetype ='Gold'>200.0000</Cost>
+    <ResearchPoints>30.0000</ResearchPoints>
+    <Status>UNOBTAINABLE</Status>
+    <Icon>ui\techs\veteran_infantry\veteran_infantry</Icon>
+    <RolloverTextID>70601</RolloverTextID>
+    <Flag>UpgradeTech</Flag>
+    <Flag>CountsTowardMilitaryScore</Flag>
+    <Prereqs>
+      <TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
+    <Effects>
+      <Effect type ='Data' amount ='1.20' subtype ='Hitpoints' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>Harquebusier</Target></Effect>
+      <Effect type ='SetName' proto ='Harquebusier' culture ='none' newName ='70604'></Effect>
+      <Effect type ='Data' amount ='0.00' subtype ='UpdateVisual' unittype ='Harquebusier' relativity ='Absolute'>
+        <Target type ='Player'></Target></Effect>
+      <Effect type ='Data' amount ='1.20' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>Harquebusier</Target></Effect>
+    </Effects>
+  </Tech>
+  <Tech name ='GuardHarquebusiers' type ='Normal'>
+    <DBID>4798</DBID>
+    <DisplayNameID>70602</DisplayNameID>
+    <Cost resourcetype ='Wood'>600.0000</Cost>
+    <Cost resourcetype ='Gold'>600.0000</Cost>
+    <ResearchPoints>30.0000</ResearchPoints>
+    <Status>UNOBTAINABLE</Status>
+    <Icon>ui\techs\guard_infantry\guard_infantry</Icon>
+    <RolloverTextID>70603</RolloverTextID>
+    <Flag>UpgradeTech</Flag>
+    <Flag>CountsTowardMilitaryScore</Flag>
+    <Prereqs>
+      <TechStatus status ='Active'>VeteranHarquebusier</TechStatus>
+      <TechStatus status ='Active'>Industrialize</TechStatus>
+    </Prereqs>
+    <Effects>
+      <Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>Harquebusier</Target></Effect>
+      <Effect type ='SetName' proto ='Harquebusier' culture ='none' newName ='70605'></Effect>
+      <Effect type ='Data' amount ='0.00' subtype ='UpdateVisual' unittype ='Harquebusier' relativity ='Absolute'>
+        <Target type ='Player'></Target></Effect>
+      <Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>Harquebusier</Target></Effect>
     </Effects>
   </Tech>
 </TechTree>
