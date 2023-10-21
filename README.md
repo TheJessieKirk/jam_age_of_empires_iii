@@ -14,15 +14,37 @@ You should have received a copy of the GNU General Public License along with JAM
 
 ## Units
 
-* Added **Brig**, a non-Pirate/Privateer version of the Privateer mercenary. You can build it from your dock.
+* Added **Brig**, a non-Pirate/Privateer version of the Privateer mercenary. American, British, Circle of Ossus, Dutch, French, Hindustani (Indian). John Black's Mercenaries, Knights of St. John, Ottoman, Prussian (German), Portuguese, Russian and Spanish docks can train them.<br>
+**Work in Progress: Brig icon is still the Privateer, Brigs don't have random names, and the AI doesn't use them.**
 
-* **Fishing Boats** have visible crews, no longer cost population, and have a build limit of 12.
+* **Fishing Boats** have visible crews, no longer cost population, and have a build limit of 12.<br>
+**Work in Progress: Aztec, Haudenosaunee (Iroquois), Hindustani (Indian) and Sioux fishing boats have glitchy crews.**
 
-* **Irregulars** and **Minutemen** no longer degrade.
+* **Irregulars**, **Minutemen**, **Sentries**, and **Warriors** no longer lose health and can be healed.
+
+* Added **Lakota Burnt Thigh**, an effective siege cavalry unit.<br>
+One of the nations of the Lakota known for the use of fire in warfare and hunting<sup>[Wikipedia](https://en.wikipedia.org/wiki/Brul%C3%A9)</sup>.<br>
+**Work in Progress: Temporary models, and the AI doesn't use them**
+
+* Changed **Flaming Arrows** to **Ozutsu**, and removed flame from arrows.<br />
+Flaming arrows didn't exist; a bronze cannon that fired stone arrows could be called Ozutsu (Japanese: 大筒) <sup>(https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.<br>
+
+* Added **Ishybiya**, a bronze cannon that fires cannonballs. Japanese castles can train them.<br />
+Japanese bronze cannon usually fired cannonballs<sup>(https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.<br>
+
+* Added **Sioux Lancers** and removed **Dog Soldiers**. Sioux Lancers are an effective anti-infantry cavalry unit, unlike game-breaking Dog Soldiers.<br>
+Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia.org/wiki/Dog_Soldiers)</sup>.<br>
+**Work in Progress: Temporary models, and the AI doesn't use them**
+
+* Added **Sioux Scout**, a recon unit.<br>
+**Work in Progress: Temporary models, and the AI doesn't use them**
+
+## Maps
+* Removed references to the Huari from **Andes**.
 
 ## Campaign
 
-* Removed many of the building restrictions from the Knights of St. John in **Blood, Ice and Steel**.
+* Removed many of the building restrictions from the Knights of St. John in **Blood, Ice and Steel**, mostly restrictions on building walls.
 
 * Fixed broken shipwreck treasure objective in 2nd scenario.
 
