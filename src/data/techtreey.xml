@@ -4142,6 +4142,10 @@
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>SiouxScout</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
+        <Target type ='ProtoUnit'>SiouxLancer</Target></Effect>
+      <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
+        <Target type ='ProtoUnit'>SiouxBurntThigh</Target></Effect>
+      <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Farm</Target></Effect>
       <Effect type ='TechStatus' status ='obtainable'>ImpLegendaryWarClubs</Effect>
       <Effect type ='TechStatus' status ='obtainable'>ChampionWarBows</Effect>
