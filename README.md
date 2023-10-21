@@ -17,7 +17,7 @@ You should have received a copy of the GNU General Public License along with JAM
 * Added **Brig**, a non-Pirate/Privateer version of the Privateer mercenary. American, British, Circle of Ossus, Dutch, French, Hindustani (Indian). John Black's Mercenaries, Knights of St. John, Ottoman, Prussian (German), Portuguese, Russian and Spanish docks can train them.<br>
 **Work in Progress: Brig icon is still the Privateer.**
 
-* **Fishing Boats** have visible crews, no longer cost population, and have a build limit of 12.
+* **Fishing Boats** have visible crews, no longer cost population, and have a build limit of 12.<br>
 **Work in Progress: Aztec, Haudenosaunee (Iroquois), Hindustani (Indian) and Sioux fishing boats have glitchy crews.**
 
 * **Irregulars**, **Minutemen**, **Sentries**, and **Warriors** no longer lose health and can be healed.
