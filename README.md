@@ -15,12 +15,23 @@ You should have received a copy of the GNU General Public License along with JAM
 ## Units
 
 * Added **Brig**, a non-Pirate/Privateer version of the Privateer mercenary. American, British, Circle of Ossus, Dutch, French, Hindustani (Indian). John Black's Mercenaries, Knights of St. John, Ottoman, Prussian (German), Portuguese, Russian and Spanish docks can train them.<br>
-**Work in Progress: Brig icon is still the Privateer.**
+**Work in Progress: Brig icon is still the Privateer, and Brigs don't have random names.**
 
 * **Fishing Boats** have visible crews, no longer cost population, and have a build limit of 12.<br>
 **Work in Progress: Aztec, Haudenosaunee (Iroquois), Hindustani (Indian) and Sioux fishing boats have glitchy crews.**
 
 * **Irregulars**, **Minutemen**, **Sentries**, and **Warriors** no longer lose health and can be healed.
+
+* Added **Lakota Burnt Thigh**, an effective siege cavalry unit.<br>
+One of the nations of the Lakota known for the use of fire in warfare and hunting<sup>[Wikipedia](https://en.wikipedia.org/wiki/Brul%C3%A9)</sup>.<br>
+**Work in Progress: Temporary models**
+
+* Added **Sioux Lancers** and removed Dog Soldiers. Sioux Lancers are an effective anti-infantry cavalry unit, unlike game-breaking Dog Soldiers.<br>
+Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia.org/wiki/Dog_Soldiers)</sup>.<br>
+**Work in Progress: Temporary models**
+
+* Added **Sioux Scout**, a recon unit.<br>
+**Work in Progress: Temporary models**
 
 ## Campaign
 
