@@ -5733,7 +5733,7 @@
     <string _locid="34221">Treasure Ships Captured: 3/8</string>
     <string _locid="34222">Treasure Ships Captured: 4/8</string>
     <string _locid="34223">Treasure Ships Captured: 5/8</string>
-    <string _locid="34224">Treasure Ships Captured: 6/8d</string>
+    <string _locid="34224">Treasure Ships Captured: 6/8</string>
     <string _locid="34225">Wood source</string>
     <string _locid="34226">A tree such as birch or maple. Harvest for Wood.</string>
     <string _locid="34227">Tree</string>
@@ -29935,9 +29935,9 @@
     <string _locid="70564">Exalted Ishibiya</string>
     <string _locid="70565">Exalted upgrade for Ishibiya.</string>
     <string _locid="70566">Easton Pirate Ship</string>
-    <string _locid="70567">GRD Easton Pirate Ship</string>
-    <string _locid="70568">Defeat this guardian to collect its treasure.</string>
-    <string _locid="70569">Treasure guardian</string>
+    <string _locid="70567">SHP Pirate - Peter Easton</string>
+    <string _locid="70568">Peter Easton's pirate ship.</string>
+    <string _locid="70569">Pirate brig.</string>
     <string _locid="70570">English Red Ensign Flag</string>
     <string _locid="70571">PROP English Red Ensign Flag</string>
     <string _locid="70572">Sioux Scout</string>
@@ -29976,5 +29976,33 @@
     <string _locid="70605">Guard Harquebusiers</string>
     <string _locid="70606">Treasure Ships Captured: 7/8</string>
     <string _locid="70607">Treasure Ships Captured: 7/8</string>
+    <string _locid="70608">Kingston</string>
+    <string _locid="70609">SHP Pirate - Jack Rackham</string>
+    <string _locid="70610">John 'Calico Jack' Rackham's pirate ship.</string>
+    <string _locid="70611">Pirate sloop.</string>
+    <string _locid="70612">Royal Fortune</string>
+    <string _locid="70613">SHP Pirate - Black Bart</string>
+    <string _locid="70614">Bartholomew 'Black Bart' Roberts' pirate ship.</string>
+    <string _locid="70615">Pirate frigate.</string>
+    <string _locid="70616">Wraak</string>
+    <string _locid="70617">SHP Pirate - Roche Braziliano</string>
+    <string _locid="70618">Roche Braziliano's pirate ship.</string>
+    <string _locid="70619">Pirate sloop.</string>
+    <string _locid="70620">Pas de Quartier</string>
+    <string _locid="70621">SHP Pirate - François l'Olonnais</string>
+    <string _locid="70622">François l'Olonnais's pirate ship.</string>
+    <string _locid="70623">Pirate sloop.</string>
+    <string _locid="70624">Queen Anne's Revenge</string>
+    <string _locid="70625">SHP Pirate - Blackbeard</string>
+    <string _locid="70626">Edward 'Blackbeard' Teach's pirate ship.</string>
+    <string _locid="70627">Pirate frigate.</string>
+    <string _locid="70628">Royal James</string>
+    <string _locid="70629">SHP Pirate - Stede Bonnet</string>
+    <string _locid="70630">Stede Bonnet's pirate ship.</string>
+    <string _locid="70631">Pirate sloop.</string>
+    <string _locid="70632">Bane of St. Lawrence</string>
+    <string _locid="70633">SHP Pirate - Cobham and Lindsey</string>
+    <string _locid="70634">Eric Cobham and Maria Lindsey's pirate ship.</string>
+    <string _locid="70635">Pirate sloop.</string>
   </language>
 </stringtable>

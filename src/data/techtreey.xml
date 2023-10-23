@@ -5905,6 +5905,8 @@
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>ypOutpostJapanese</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
+        <Target type ='ProtoUnit'>jamJapaneseOutpost</Target></Effect>
+      <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>ypMonastery</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>ypTradeMarketAsian</Target></Effect>
