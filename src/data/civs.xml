@@ -651,9 +651,9 @@
   <civ>
     <name>SPCAct2</name>
     <main>1</main>
-    <portrait>objects\flags\spcact2</portrait>
+    <portrait>objects\flags\british_red_ensign</portrait>
     <culture>WesternEurope</culture>
-    <displaynameid>32697</displaynameid>
+    <displaynameid>70636</displaynameid>
     <rollovernameid>33745</rollovernameid>
     <alliedid>26446</alliedid>
     <alliedotherid>26445</alliedotherid>
@@ -690,7 +690,7 @@
     <townstartingunit>Settler</townstartingunit>
     <townstartingunit>Settler</townstartingunit>
     <homecityfilename>homecitySPCAct2.xml</homecityfilename>
-    <homecityflagtexture>objects\flags\spcact2</homecityflagtexture>
+    <homecityflagtexture>objects\flags\british_red_ensign</homecityflagtexture>
     <homecityflagbuttonset>blackFlagBtn</homecityflagbuttonset>
     <homecityflagbuttonsetlarge>spanishFlagBtnLarge</homecityflagbuttonsetlarge>
     <unitregen>
