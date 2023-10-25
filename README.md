@@ -49,14 +49,13 @@ Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia
 * Renamed **Black's Mercenaries** to **Massachusetts Bay**.<br>
 Stuart Black is the official of Brunswick, which is presumably Brunswick in modern-day Maine<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Brunswick%2C_Maine)]</sup>. The town at the time was in the Province of Massachusetts Bay<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Province_of_Massachusetts_Bay)]</sup>.<br>
 John Black's Home City is Boston, Massachusetts<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Boston)]</sup>, which was the capital of Massachusetts Bay.<br>
-After defending Brunswick, Kanyenke states that he and John must return to New England, which was again part of Massachusetts Bay.<br>
+After defending Brunswick, Kanyenke states that he and John must return to New England, which was again part of Massachusetts Bay.
 
 * Replaced the **Black's Mercenaries** flag, a fictitious one, with the British Red Ensign.<br>
 The Province of Massachusetts Bay flew the British Red Ensign from 1708–1775<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Flag_of_Massachusetts)]</sup>.<br>
 Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Red_Ensign_of_Great_Britain_(1707%E2%80%931800,_square_canton).svg)<br>
 Authors: Unknown; [Wikimedia Commons: AnonMoos](https://commons.wikimedia.org/wiki/User:AnonMoos)<br>
 License: Public Domain
-<br>
 
 * **Stuart Black** now uses a pistol instead of his fists.
 
