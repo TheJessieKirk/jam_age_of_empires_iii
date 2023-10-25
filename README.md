@@ -50,7 +50,19 @@ Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia
 ## Campaign
 
 ### Blood, Ice and Steel - Act 1
+* Added **Harquebusiers** to the Knights of Saint John.<br>
+The Knights of Saint John had access to harquebus during the Great Siege of Malta (Maltese: L-Assedju l-Kbir) (1565)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Great_Siege_of_Malta)]</sup>.
+
 * **Surgeons** have Spanish dialogue as opposed to being silent.
+While the Knights of Saint John were (and are) an international order, only a minority seemed to be English<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Knights_Hospitaller)]</sup>.
+
+* In **Breakout**:
+  * The Ottoman player is now Ottoman instead of British.
+  * The Ottoman player is now called "Sahin the Falcon" instead of "Ottomans".
+  * The allied Knights of Saint John player is now called "Alain Magnan" instead of "Knights of Saint John".
+  * The Hussars that arrive to save the fort from the Ottoman artillery are now Guard Hussars, rather than Imperial Hussars (as this would be anachronistic).
+  * Removed an overwritten "Set Age" in the scenario's triggers.
+  * Removed unnecessary Rebellions from the forbidden technologies list.
 
 ### Blood, Ice and Steel - Act 2
 * **Surgeons** have British dialogue as opposed to being silent.
