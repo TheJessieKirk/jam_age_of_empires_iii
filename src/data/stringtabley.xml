@@ -3063,7 +3063,7 @@
     <string _locid="27298" gamecharacter="John" soundfilename="JOHN5015">You colonists will have to fight alongside us. Give them weapons -- they're militia now!</string>
     <string _locid="27299" gamecharacter="Kanyenke" soundfilename="KANY5000">Something feels wrong here, John.</string>
     <string _locid="27300" gamecharacter="John" soundfilename="JOHN5020">Ambush!</string>
-    <string _locid="27301" gamecharacter="John" soundfilename="JOHN5025">Those are British riflemen. What are they doing here?</string>
+    <string _locid="27301" gamecharacter="John" soundfilename="JOHN5025">Those are British riflemen. Why are they attacking their own colony?</string>
     <string _locid="27302" gamecharacter="Kanyenke" soundfilename="KANY5005">That explains the Cherokee (Anigiduwagi) cannon ... they have allied with the British!</string>
     <string _locid="27303" gamecharacter="John" soundfilename="JOHN5030">Pull back! We don't have enough men to fight the British! We'll have to establish a base!</string>
     <string _locid="27304" gamecharacter="Soldier" soundfilename="GENR5110">Sir, British frigates are shelling the colony! Stuart needs your help!</string>
@@ -4848,7 +4848,7 @@
     <string _locid="32875" gamecharacter="Nonahkee" soundfilename="NONA0012" portraitfilename="units\spc\nonahkee\nonahkee_igc_icon">The next day ... this attack.</string>
     <string _locid="32876" gamecharacter="Kanyenke" soundfilename="KANY5011">I fear more warriors are gathering at the war camps.</string>
     <string _locid="32877" gamecharacter="John" soundfilename="JOHN5031">Then maybe it's time we took the fight to them.</string>
-    <string _locid="32878" gamecharacter="John" soundfilename="JOHN5032">Stuart, you stay here with the other women.</string>
+    <string _locid="32878" gamecharacter="John" soundfilename="JOHN5032">Stuart, stay here to protect the wounded.</string>
     <string _locid="32879" gamecharacter="Stuart" soundfilename="STUA5011">Yes, I think my skills are best put to use here.</string>
     <string _locid="32880" gamecharacter="John" soundfilename="JOHN5033">The British are defeated! The base is ours!</string>
     <string _locid="32881" gamecharacter="Stuart" soundfilename="STUA5012">Oh my! British troops! Here?</string>
