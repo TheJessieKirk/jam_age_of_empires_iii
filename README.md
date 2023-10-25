@@ -59,12 +59,17 @@ The Knights of Saint John had access to harquebus during the Great Siege of Malt
 * Your **Surgeons** have Spanish dialogue as opposed to being silent.<br>
 While the Knights of Saint John was an international order, only a minority seemed to be English<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Knights_Hospitaller)]</sup>.
 
+* Your **Churches** now appear to be Mediterranean instead of Western European.
+
 * In **Breakout**:
   * The Ottoman player is now Ottoman instead of British.
   * The Ottoman player is now called "Sahin the Falcon" instead of "Ottomans".
   * The allied Knights of Saint John player is now called "Alain Magnan" instead of "Knights of Saint John".
   * The Hussars that arrive to save the fort from the Ottoman artillery are now Guard Hussars, rather than Imperial Hussars (as this would be anachronistic).
   * Removed unnecessary Rebellions from the forbidden technologies list.
+
+* In **Into the Caves**:
+  * The Find a Shipwreck objective now clears correctly, and Morgan Black congratulates the player when this is done. 
 
 * In **PIRATES!**:
   * The Caravel that is burnt by a Fire Ship at the start of the scenario is now a Galley.
@@ -94,8 +99,6 @@ Despite his reluctance to fight, Stuart tends to end up charging at his attacker
 * Your **Surgeons** have American dialogue as opposed to being silent.
 
 * Removed many of the building restrictions from the Knights of St. John in **Blood, Ice and Steel**, mostly restrictions on building walls.
-
-* Fixed broken shipwreck treasure objective in 2nd scenario.
 
 * De-anglicised the Knights of St. John; units now speak more Spanish, churches appear more Mediteranean, and ship names are now real historical Maltese names.
 
