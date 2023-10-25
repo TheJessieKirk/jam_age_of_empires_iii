@@ -1976,8 +1976,6 @@
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Galley</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
-        <Target type ='ProtoUnit'>Caravel</Target></Effect>
-      <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Explorer</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Hussar</Target></Effect>
