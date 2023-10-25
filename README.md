@@ -14,7 +14,8 @@ You should have received a copy of the GNU General Public License along with JAM
 
 ## Units
 
-* **Surgeons** now have American dialogue when controlled by a Chinese player, British dialogue when controlled by a Hindustani (Indian) player, and Dutch dialogue when controlled by a Japanese player.
+* **Surgeons** now have British dialogue when controlled by a Chinese or Hindustani (Indian) player, and Dutch dialogue when controlled by a Japanese player.<br>
+Britain was among the first civilisations to force open trade with China after the First Opium War (Chinese: 第一次鴉片戰爭) (1839–1842)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/First_Opium_War)]</sup>.
 
 * Added **Brig**, a non-Pirate/Privateer version of the Privateer mercenary. American, British, Circle of Ossus, Dutch, French, Hindustani (Indian). John Black's Mercenaries, Knights of St. John, Ottoman, Prussian (German), Portuguese, Russian and Spanish docks can train them.<br>
 **Work in Progress: Brig icon is still the Privateer, Brigs don't have random names, and the AI doesn't use them.**
