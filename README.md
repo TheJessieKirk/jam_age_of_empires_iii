@@ -17,7 +17,7 @@ You should have received a copy of the GNU General Public License along with JAM
 * **Surgeons** now have British dialogue when controlled by a Chinese or Hindustani (Indian) player, and Dutch dialogue when controlled by a Japanese player.<br>
 Britain was among the first civilisations to force open trade with China after the First Opium War (Chinese: 第一次鴉片戰爭) (1839–1842)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/First_Opium_War)]</sup>.<br>
 While the Dutch were initially much more prolific in Hindustan via the United East India Company (Dutch: *Verenigde Oostindische Compagnie*)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Dutch_East_India_Company)]</sup>, British colonialism in India is more in keeping with the game's campaign, where the British East India Company are the antagonists.<br>
-During Japan's Edo period, the only Europeans permitted to trade with Japan were the Dutch from 1634–1854<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/History_of_Japan]</sup>.
+During Japan's Edo period, the only Europeans permitted to trade with Japan were the Dutch from 1634–1854<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/History_of_Japan)]</sup>.
 
 * Added **Brig**, a non-Pirate/Privateer version of the Privateer mercenary. American, British, Circle of Ossus, Dutch, French, Hindustani (Indian). John Black's Mercenaries, Knights of St. John, Ottoman, Prussian (German), Portuguese, Russian and Spanish docks can train them.<br>
 **Work in Progress: Brig icon is still the Privateer, Brigs don't have random names, and the AI doesn't use them.**
