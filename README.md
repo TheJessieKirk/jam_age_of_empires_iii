@@ -58,6 +58,8 @@ Authors: Unknown; [Wikimedia Commons: AnonMoos](https://commons.wikimedia.org/wi
 License: Public Domain
 <br><br>
 
+* **Stuart Black** now uses a pistol instead of his fists.
+
 * Removed many of the building restrictions from the Knights of St. John in **Blood, Ice and Steel**, mostly restrictions on building walls.
 
 * Fixed broken shipwreck treasure objective in 2nd scenario.
