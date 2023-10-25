@@ -50,10 +50,35 @@ Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia
 ## Campaign
 
 ### Blood, Ice and Steel - Act 1
-* **Surgeons** have Spanish dialogue as opposed to being silent.
+* You can now build **Galleys** instead of **Caravels**.<br>
+The Knights of Saint John, being a Mediterranean civilisation, made extensive use of galleys<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Navy_of_the_Order_of_Saint_John)]</sup>, whereas Caravels were only used by the Portuguese and Spanish<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Caravel)]</sup>.
+
+* You can now train **Harquebusiers** from your Barracks, and upgrade them to **Veteran Harquebusiers**.<br>
+The Knights of Saint John had access to harquebus during the Great Siege of Malta (Maltese: L-Assedju l-Kbir) (1565)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Great_Siege_of_Malta)]</sup>.<br>
+*This is a temporary model and portrait.*
+
+* Your **Surgeons** have Spanish dialogue as opposed to being silent.<br>
+While the Knights of Saint John was an international order, only a minority seemed to be English<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Knights_Hospitaller)]</sup>.
+
+* Your **Churches** now appear to be Mediterranean instead of Western European.
+
+* In **Breakout**:
+  * The Ottoman player is now Ottoman instead of British.
+  * The Ottoman player is now called "Sahin the Falcon" instead of "Ottomans".
+  * The allied Knights of Saint John player is now called "Alain Magnan" instead of "Knights of Saint John".
+  * The Hussars that arrive to save the fort from the Ottoman artillery are now Guard Hussars, rather than Imperial Hussars (as this would be anachronistic).
+  * Removed unnecessary Rebellions from the forbidden technologies list.
+
+* In **Into the Caves**:
+  * The Find a Shipwreck objective now clears correctly, and Morgan Black congratulates the player when this is done. 
+
+* In **PIRATES!**:
+  * The Caravel that is burnt by a Fire Ship at the start of the scenario is now a Galley.
+  * All Caravels that arrive from Malta are now Galleys.
+  * One of the deployed armies from Malta now consists of Harquebusiers instead of Hoop Throwers.
 
 ### Blood, Ice and Steel - Act 2
-* **Surgeons** have British dialogue as opposed to being silent.
+* Your **Surgeons** have British dialogue as opposed to being silent.
 
 * Renamed **Black's Mercenaries** to **Massachusetts Bay**.<br>
 Stuart Black is the official of Brunswick, which is presumably Brunswick in modern-day Maine<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Brunswick%2C_Maine)]</sup>. The town at the time was in the Province of Massachusetts Bay<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Province_of_Massachusetts_Bay)]</sup>.<br>
@@ -72,15 +97,11 @@ Despite his reluctance to fight, Stuart tends to end up charging at his attacker
 * **John Black** no longer makes a sexist comment to **Stuart Black** at the beginning of **Strange Alliances**.
 
 ### Blood, Ice and Steel - Act 3
-* **Surgeons** have American dialogue as opposed to being silent.
+* Your **Surgeons** have American dialogue as opposed to being silent.
 
 * Removed many of the building restrictions from the Knights of St. John in **Blood, Ice and Steel**, mostly restrictions on building walls.
 
-* Fixed broken shipwreck treasure objective in 2nd scenario.
-
 * De-anglicised the Knights of St. John; units now speak more Spanish, churches appear more Mediteranean, and ship names are now real historical Maltese names.
-
-* The Knights of St. John can now build galleys, which they did in real life.
 
 ## Sound Effects
 * **Replaced blunderbuss shot sounds** with more realistic ones, taken from recordings of a 17th Century blundrrbuss.<br><br>
