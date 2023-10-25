@@ -66,6 +66,11 @@ While the Knights of Saint John was an international order, only a minority seem
   * The Hussars that arrive to save the fort from the Ottoman artillery are now Guard Hussars, rather than Imperial Hussars (as this would be anachronistic).
   * Removed unnecessary Rebellions from the forbidden technologies list.
 
+* In **PIRATES!**:
+  * The Caravel that is burnt by a Fire Ship at the start of the scenario is now a Galley.
+  * All Caravels that arrive from Malta are now Galleys.
+  * One of the deployed armies from Malta now consists of Haruebusiers instead of Hoop Throwers.
+
 ### Blood, Ice and Steel - Act 2
 * Your **Surgeons** have British dialogue as opposed to being silent.
 
