@@ -14,6 +14,8 @@ You should have received a copy of the GNU General Public License along with JAM
 
 ## Units
 
+* **Surgeons** now have American dialogue when controlled by a Chinese player, British dialogue when controlled by a Hindustani (Indian) player, and Dutch dialogue when controlled by a Japanese player.
+
 * Added **Brig**, a non-Pirate/Privateer version of the Privateer mercenary. American, British, Circle of Ossus, Dutch, French, Hindustani (Indian). John Black's Mercenaries, Knights of St. John, Ottoman, Prussian (German), Portuguese, Russian and Spanish docks can train them.<br>
 **Work in Progress: Brig icon is still the Privateer, Brigs don't have random names, and the AI doesn't use them.**
 
@@ -44,7 +46,11 @@ Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia
 
 ## Campaign
 
+### Blood, Ice and Steel - Act 1
+* **Surgeons** have Spanish dialogue as opposed to being silent.
+
 ### Blood, Ice and Steel - Act 2
+* **Surgeons** have British dialogue as opposed to being silent.
 
 * Renamed **Black's Mercenaries** to **Massachusetts Bay**.<br>
 Stuart Black is the official of Brunswick, which is presumably Brunswick in modern-day Maine<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Brunswick%2C_Maine)]</sup>. The town at the time was in the Province of Massachusetts Bay<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Province_of_Massachusetts_Bay)]</sup>.<br>
@@ -61,6 +67,9 @@ License: Public Domain
 Despite his reluctance to fight, Stuart tends to end up charging at his attackers and punching them. I felt a pistol was more appropriate.
 
 * **John Black** no longer makes a sexist comment to **Stuart Black** at the beginning of **Strange Alliances**.
+
+### Blood, Ice and Steel - Act 3
+* **Surgeons** have American dialogue as opposed to being silent.
 
 * Removed many of the building restrictions from the Knights of St. John in **Blood, Ice and Steel**, mostly restrictions on building walls.
 
