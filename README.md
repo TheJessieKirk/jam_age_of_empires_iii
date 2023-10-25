@@ -57,7 +57,10 @@ Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Red_Ensign_
 Authors: Unknown; [Wikimedia Commons: AnonMoos](https://commons.wikimedia.org/wiki/User:AnonMoos)<br>
 License: Public Domain
 
-* **Stuart Black** now uses a pistol instead of his fists.
+* **Stuart Black** now uses a pistol instead of his fists.<br>
+Despite his reluctance to fight, Stuart tends to end up charging at his attackers and punching them. I felt a pistol was more appropriate.
+
+* **John Black** no longer makes a sexist comment to **Stuart Black** at the beginning of **Strange Alliances**.
 
 * Removed many of the building restrictions from the Knights of St. John in **Blood, Ice and Steel**, mostly restrictions on building walls.
 
