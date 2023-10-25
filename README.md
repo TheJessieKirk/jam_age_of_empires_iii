@@ -51,7 +51,7 @@ Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia
 
 ### Blood, Ice and Steel - Act 1
 * You can now build **Galleys** instead of **Caravels**.<br>
-The Knights of Saint John, being a Mediterranean civilisation, made extensive use of galleys<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Navy_of_the_Order_of_Saint_John)]</sup>, whereas Caravels were only used by the Portuguese and Spanish<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Caravel)]</sup>.
+The Knights of Saint John, being a Mediterranean civilisation, made extensive use of galleys<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Navy_of_the_Order_of_Saint_John)]</sup>, whereas Caravels were only used by the Portuguese and Spanish<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Caravel)]</sup>.
 
 * You can now train **Harquebusiers** from your Barracks, and upgrade them to **Veteran Harquebusiers**.<br>
 The Knights of Saint John had access to harquebus during the Great Siege of Malta (Maltese: L-Assedju l-Kbir) (1565)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Great_Siege_of_Malta)]</sup>.<br>
