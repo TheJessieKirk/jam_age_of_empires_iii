@@ -52,7 +52,7 @@ John Black's Home City is Boston, Massachusetts<sup>[[English Wikipedia](https:/
 After defending Brunswick, Kanyenke states that he and John must return to New England, which was again part of Massachusetts Bay.<br>
 
 * Replaced the **Black's Merenaries** flag, a fictitious one, with the British Red Ensign.<br>
-The Province of Massachusetts Bay flew the British Red Ensign from 1708–1775<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Flag_of_Massachusetts)]</sup>.<br><br>
+The Province of Massachusetts Bay flew the British Red Ensign from 1708–1775<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Flag_of_Massachusetts)]</sup>.<br>
 Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Red_Ensign_of_Great_Britain_(1707%E2%80%931800,_square_canton).svg)<br>
 Authors: Unknown; [Wikimedia Commons: AnonMoos](https://commons.wikimedia.org/wiki/User:AnonMoos)<br>
 License: Public Domain
