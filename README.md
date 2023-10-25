@@ -54,7 +54,8 @@ Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia
 The Knights of Saint John, being a Mediterranean civilisation, made extensive use of galleys<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Navy_of_the_Order_of_Saint_John)]</sup>, whereas Caravels were only used by the Portuguese and Spanish<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Caravel)]</sup>.
 
 * You can now train **Harquebusiers** from your Barracks, and upgrade them to **Veteran Harquebusiers**.<br>
-The Knights of Saint John had access to harquebus during the Great Siege of Malta (Maltese: L-Assedju l-Kbir) (1565)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Great_Siege_of_Malta)]</sup>.
+The Knights of Saint John had access to harquebus during the Great Siege of Malta (Maltese: L-Assedju l-Kbir) (1565)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Great_Siege_of_Malta)]</sup>.<br>
+*This is a temporary model and portrait.*
 
 * Your **Surgeons** have Spanish dialogue as opposed to being silent.<br>
 While the Knights of Saint John was an international order, only a minority seemed to be English<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Knights_Hospitaller)]</sup>.
