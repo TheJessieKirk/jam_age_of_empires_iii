@@ -56,7 +56,7 @@ The Province of Massachusetts Bay flew the British Red Ensign from 1708–1775<s
 Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Red_Ensign_of_Great_Britain_(1707%E2%80%931800,_square_canton).svg)<br>
 Authors: Unknown; [Wikimedia Commons: AnonMoos](https://commons.wikimedia.org/wiki/User:AnonMoos)<br>
 License: Public Domain
-<br><br>
+<br>
 
 * **Stuart Black** now uses a pistol instead of his fists.
 
