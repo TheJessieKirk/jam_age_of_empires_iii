@@ -4,7 +4,15 @@
   <protounit name="Brig">
     <soundtype name="Select">
       <civlogic>
-        <choice name="Nature"/>
+        <choice name="Chinese">
+          <soundset name="BritishSkirmisherSelect"/>
+        </choice>
+        <choice name="Japanese">
+          <soundset name="DutchSurgeonSelect"/>
+        </choice>
+        <choice name="Indians">
+          <soundset name="BritishSkirmisherSelect"/>
+        </choice>
         <choice name="Spanish">
           <soundset name="SpanishCrossbowmanSelect"/>
         </choice>
@@ -29,33 +37,6 @@
         <choice name="Ottomans">
           <soundset name="OttomanGrenadierSelect"/>
         </choice>
-        <choice name="SPCAct1">
-          <soundset name="BritishSkirmisherSelect"/>
-        </choice>
-        <choice name="SPCAct2">
-          <soundset name="BritishSkirmisherSelect"/>
-        </choice>
-        <choice name="SPCAct3">
-          <soundset name="BritishSkirmisherSelect"/>
-        </choice>
-        <choice name="Pirate"/>
-        <choice name="TheCircle"/>
-        <choice name="NativeAmerican"/>
-        <choice name="Aztecs"/>
-        <choice name="Caribs"/>
-        <choice name="Cherokee"/>
-        <choice name="Comanche"/>
-        <choice name="Cree"/>
-        <choice name="Incas"/>
-        <choice name="Iroquois"/>
-        <choice name="Lakota"/>
-        <choice name="Maya"/>
-        <choice name="Nootka"/>
-        <choice name="Seminoles"/>
-        <choice name="Tupi"/>
-        <choice name="XPSPC">
-          <soundset name="FrenchDragoonSelect"/>
-        </choice>
         <choice name="XPIroquois">
           <soundset name="IroquoisFishingBoatSelect"/>
         </choice>
@@ -65,23 +46,17 @@
         <choice name="XPAztec">
           <soundset name="AztecFishingBoatSelect"/>
         </choice>
-        <choice name="Japanese">
-          <soundset name="JapaneseShipsSelect"/>
+		<choice name="SPCAct1">
+          <soundset name="SpanishCrossbowmanSelect"/>
         </choice>
-        <choice name="Chinese">
-          <soundset name="ChineseShipsSelect"/>
+        <choice name="SPCAct2">
+          <soundset name="BritishSkirmisherSelect"/>
         </choice>
-        <choice name="Indians">
-          <soundset name="IndianShipsSelect"/>
+        <choice name="SPCAct3">
+          <soundset name="SPCAmericanSelect"/>
         </choice>
-        <choice name="SPCJapanese">
-          <soundset name="JapaneseShipsSelect"/>
-        </choice>
-        <choice name="SPCChinese">
-          <soundset name="ChineseShipsSelect"/>
-        </choice>
-        <choice name="SPCIndians">
-          <soundset name="IndianShipsSelect"/>
+        <choice name="XPSPC">
+          <soundset name="SPCAmericanSelect"/>
         </choice>
       </civlogic>
     </soundtype>
@@ -93,7 +68,15 @@
     </soundtype>
     <soundtype name="Acknowledge">
       <civlogic>
-        <choice name="Nature"/>
+        <choice name="Chinese">
+          <soundset name="BritishBrigAcknowledge"/>
+        </choice>
+        <choice name="Japanese">
+          <soundset name="DutchBrigAcknowledge"/>
+        </choice>
+        <choice name="Indians">
+          <soundset name="BritishBrigAcknowledge"/>
+        </choice>
         <choice name="Spanish">
           <soundset name="SpanishBrigAcknowledge"/>
         </choice>
@@ -118,33 +101,6 @@
         <choice name="Ottomans">
           <soundset name="OttomansBrigAcknowledge"/>
         </choice>
-        <choice name="SPCAct1">
-          <soundset name="SpanishBrigAcknowledge"/>
-        </choice>
-        <choice name="SPCAct2">
-          <soundset name="BritishBrigAcknowledge"/>
-        </choice>
-        <choice name="SPCAct3">
-          <soundset name="BritishBrigAcknowledge"/>
-        </choice>
-        <choice name="Pirate"/>
-        <choice name="TheCircle"/>
-        <choice name="NativeAmerican"/>
-        <choice name="Aztecs"/>
-        <choice name="Caribs"/>
-        <choice name="Cherokee"/>
-        <choice name="Comanche"/>
-        <choice name="Cree"/>
-        <choice name="Incas"/>
-        <choice name="Iroquois"/>
-        <choice name="Lakota"/>
-        <choice name="Maya"/>
-        <choice name="Nootka"/>
-        <choice name="Seminoles"/>
-        <choice name="Tupi"/>
-        <choice name="XPSPC">
-          <soundset name="FrenchBrigAcknowledge"/>
-        </choice>
         <choice name="XPIroquois">
           <soundset name="IroquoisFishingBoatAcknowledge"/>
         </choice>
@@ -154,23 +110,17 @@
         <choice name="XPAztec">
           <soundset name="AztecFishingBoatAcknowledge"/>
         </choice>
-        <choice name="Japanese">
-          <soundset name="JapaneseShipsAcknowledge"/>
+		<choice name="SPCAct1">
+          <soundset name="SpanishBrigAcknowledge"/>
         </choice>
-        <choice name="Chinese">
-          <soundset name="ChineseShipsAcknowledge"/>
+        <choice name="SPCAct2">
+          <soundset name="BritishBrigAcknowledge"/>
         </choice>
-        <choice name="Indians">
-          <soundset name="IndianShipsAcknowledge"/>
+        <choice name="SPCAct3">
+          <soundset name="SPCAmericanBoatAcknowledge"/>
         </choice>
-        <choice name="SPCJapanese">
-          <soundset name="JapaneseShipsAcknowledge"/>
-        </choice>
-        <choice name="SPCChinese">
-          <soundset name="ChineseShipsAcknowledge"/>
-        </choice>
-        <choice name="SPCIndians">
-          <soundset name="IndianShipsAcknowledge"/>
+        <choice name="XPSPC">
+          <soundset name="SPCAmericanBoatAcknowledge"/>
         </choice>
       </civlogic>
     </soundtype>
@@ -179,3 +129,4 @@
     </soundtype>
   </protounit>
 </protounitsounddef>
+

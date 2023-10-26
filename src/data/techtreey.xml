@@ -51388,4 +51388,25 @@
         <Target type ='ProtoUnit'>Harquebusier</Target></Effect>
     </Effects>
   </Tech>
+  <Tech name ='FowlingPiece' type ='Normal'>
+    <DBID>4799</DBID>
+    <DisplayNameID>70641</DisplayNameID>
+    <Cost resourcetype ='Food'>110.0000</Cost>
+    <ResearchPoints>20.0000</ResearchPoints>
+    <Status>UNOBTAINABLE</Status>
+    <Icon>ui\techs\jamfowlingpiece\jamfowlingpiece</Icon>
+    <RolloverTextID>24783</RolloverTextID>
+    <Flag>UpgradeTech</Flag>
+    <Flag>CountsTowardEconomicScore</Flag>
+    <Effects>
+      <Effect type ='Data' amount ='3.00' subtype ='Damage' allactions ='1' relativity ='Absolute'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+      <Effect type ='Data' action ='BlunderbussAttack' amount ='4.00' subtype ='MaximumRange' relativity ='Absolute'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+      <Effect type ='Data' action ='RifleAttack' amount ='4.00' subtype ='MaximumRange' relativity ='Absolute'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+      <Effect type ='Data' amount ='4.00' subtype ='LOS' relativity ='Absolute'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+    </Effects>
+  </Tech>
 </TechTree>

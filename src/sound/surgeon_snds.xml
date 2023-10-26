@@ -5,7 +5,7 @@
     <soundtype name="Select">
       <civlogic>
         <choice name="Chinese">
-          <soundset name="SPCAmericanSelect"/>
+          <soundset name="BritishSurgeonSelect"/>
         </choice>
         <choice name="Japanese">
           <soundset name="DutchSurgeonSelect"/>
@@ -72,7 +72,7 @@
     <soundtype name="Acknowledge">
       <civlogic>
         <choice name="Chinese">
-          <soundset name="SPCAmericanAcknowledge"/>
+          <soundset name="BritishSurgeonAcknowledge"/>
         </choice>
         <choice name="Japanese">
           <soundset name="DutchSurgeonAcknowledge"/>
