@@ -1485,7 +1485,7 @@
       <Effect type ='TechStatus' status ='obtainable'>ChurchMercantilism</Effect>
       <Effect type ='TechStatus' status ='obtainable'>ChurchStandingArmy</Effect>
       <Effect type ='TechStatus' status ='obtainable'>ChurchGasLighting</Effect>
-      <Effect type ='TechStatus' status ='obtainable'>Blunderbuss</Effect>
+      <Effect type ='TechStatus' status ='obtainable'>FowlingPiece</Effect>
       <Effect type ='TechStatus' status ='obtainable'>GreatCoat</Effect>
       <Effect type ='TechStatus' status ='obtainable'>LogFlume</Effect>
       <Effect type ='TechStatus' status ='obtainable'>Bookkeeping</Effect>
@@ -2436,7 +2436,7 @@
       <Effect type ='TechStatus' status ='active'>ChurchTownWatch</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchStandingArmy</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchGasLighting</Effect>
-      <Effect type ='TechStatus' status ='active'>Blunderbuss</Effect>
+      <Effect type ='TechStatus' status ='active'>FowlingPiece</Effect>
       <Effect type ='TechStatus' status ='active'>GreatCoat</Effect>
       <Effect type ='TechStatus' status ='active'>LogFlume</Effect>
       <Effect type ='TechStatus' status ='active'>Bookkeeping</Effect>
@@ -2538,7 +2538,7 @@
       <Effect type ='TechStatus' status ='active'>ChurchTownWatch</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchStandingArmy</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchGasLighting</Effect>
-      <Effect type ='TechStatus' status ='active'>Blunderbuss</Effect>
+      <Effect type ='TechStatus' status ='active'>FowlingPiece</Effect>
       <Effect type ='TechStatus' status ='active'>GreatCoat</Effect>
       <Effect type ='TechStatus' status ='active'>LogFlume</Effect>
       <Effect type ='TechStatus' status ='active'>Bookkeeping</Effect>
@@ -2640,7 +2640,7 @@
       <Effect type ='TechStatus' status ='active'>ChurchTownWatch</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchStandingArmy</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchGasLighting</Effect>
-      <Effect type ='TechStatus' status ='active'>Blunderbuss</Effect>
+      <Effect type ='TechStatus' status ='active'>FowlingPiece</Effect>
       <Effect type ='TechStatus' status ='active'>GreatCoat</Effect>
       <Effect type ='TechStatus' status ='active'>LogFlume</Effect>
       <Effect type ='TechStatus' status ='active'>Bookkeeping</Effect>
@@ -2738,7 +2738,7 @@
       <Effect type ='TechStatus' status ='active'>ChurchTownWatch</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchStandingArmy</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchGasLighting</Effect>
-      <Effect type ='TechStatus' status ='active'>Blunderbuss</Effect>
+      <Effect type ='TechStatus' status ='active'>FowlingPiece</Effect>
       <Effect type ='TechStatus' status ='active'>GreatCoat</Effect>
       <Effect type ='TechStatus' status ='active'>LogFlume</Effect>
       <Effect type ='TechStatus' status ='active'>Bookkeeping</Effect>
@@ -2840,7 +2840,7 @@
       <Effect type ='TechStatus' status ='active'>ChurchTownWatch</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchStandingArmy</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchGasLighting</Effect>
-      <Effect type ='TechStatus' status ='active'>Blunderbuss</Effect>
+      <Effect type ='TechStatus' status ='active'>FowlingPiece</Effect>
       <Effect type ='TechStatus' status ='active'>GreatCoat</Effect>
       <Effect type ='TechStatus' status ='active'>LogFlume</Effect>
       <Effect type ='TechStatus' status ='active'>Bookkeeping</Effect>
@@ -2937,7 +2937,7 @@
       <Effect type ='TechStatus' status ='active'>ChurchTownWatch</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchStandingArmy</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchGasLighting</Effect>
-      <Effect type ='TechStatus' status ='active'>Blunderbuss</Effect>
+      <Effect type ='TechStatus' status ='active'>FowlingPiece</Effect>
       <Effect type ='TechStatus' status ='active'>GreatCoat</Effect>
       <Effect type ='TechStatus' status ='active'>LogFlume</Effect>
       <Effect type ='TechStatus' status ='active'>Bookkeeping</Effect>
@@ -3041,7 +3041,7 @@
       <Effect type ='TechStatus' status ='active'>ChurchTownWatch</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchStandingArmy</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchGasLighting</Effect>
-      <Effect type ='TechStatus' status ='active'>Blunderbuss</Effect>
+      <Effect type ='TechStatus' status ='active'>FowlingPiece</Effect>
       <Effect type ='TechStatus' status ='active'>GreatCoat</Effect>
       <Effect type ='TechStatus' status ='active'>LogFlume</Effect>
       <Effect type ='TechStatus' status ='active'>Bookkeeping</Effect>
@@ -3138,7 +3138,7 @@
       <Effect type ='TechStatus' status ='active'>ChurchTownWatch</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchStandingArmy</Effect>
       <Effect type ='TechStatus' status ='active'>ChurchGasLighting</Effect>
-      <Effect type ='TechStatus' status ='active'>Blunderbuss</Effect>
+      <Effect type ='TechStatus' status ='active'>FowlingPiece</Effect>
       <Effect type ='TechStatus' status ='active'>GreatCoat</Effect>
       <Effect type ='TechStatus' status ='active'>LogFlume</Effect>
       <Effect type ='TechStatus' status ='active'>Bookkeeping</Effect>
@@ -19450,7 +19450,7 @@
     <Effects>
       <Effect type ='TextOutput'>36919</Effect>
       <Effect type ='Data' amount ='30.00' subtype ='Cost' resource ='Food' relativity ='Assign'>
-        <Target type ='Tech'>Blunderbuss</Target></Effect>
+        <Target type ='Tech'>FowlingPiece</Target></Effect>
       <Effect type ='Data' amount ='20.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
         <Target type ='Tech'>PlacerMines</Target></Effect>
       <Effect type ='Data' amount ='20.00' subtype ='Cost' resource ='Food' relativity ='Assign'>
