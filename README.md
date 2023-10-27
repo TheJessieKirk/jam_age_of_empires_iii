@@ -20,32 +20,35 @@ While the Dutch were initially much more prolific in Hindustan via the United Ea
 During Japan's Edo period, the only Europeans permitted to trade with Japan were the Dutch from 1634–1854<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/History_of_Japan)]</sup>.
 
 * Added **Brig**, a non-Pirate/Privateer version of the Privateer mercenary. American, British, Circle of Ossus, Dutch, French, Hindustani (Indian). John Black's Mercenaries, Knights of St. John, Ottoman, Prussian (German), Portuguese, Russian and Spanish docks can train them.<br>
-**Work in Progress: Brig icon is still the Privateer, Brigs don't have random names, and the AI doesn't use them.**
+**Work in Progress: The icon is still the Privateer, they don't have random names, and the AI doesn't use them.**
+
+* Changed **Flaming Arrows** to **Ozutsu**, and removed flame from arrows.<br>
+Flaming arrows didn't exist; a bronze cannon that fired stone arrows could be called Ozutsu (Japanese: 大筒) <sup>(https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.<br>
+
+* Added **Lakota Burnt Thigh**, an effective siege cavalry unit. Sioux players can train them from their Corral.<br>
+One of the nations of the Lakota known for the use of fire in warfare and hunting[Wikipedia](https://en.wikipedia.org/wiki/Brul%C3%A9).<br>
+**Work in Progress: Temporary models and the AI doesn't use them**
 
 * **Fishing Boats** have visible crews, no longer cost population, and have a build limit of 12.<br>
 **Work in Progress: Aztec, Haudenosaunee (Iroquois), Hindustani (Indian) and Sioux fishing boats have glitchy crews.**
 
 * **Irregulars**, **Minutemen**, **Sentries**, and **Warriors** no longer lose health and can be healed.
 
-* Added **Lakota Burnt Thigh**, an effective siege cavalry unit.<br>
-One of the nations of the Lakota known for the use of fire in warfare and hunting[Wikipedia](https://en.wikipedia.org/wiki/Brul%C3%A9).<br>
-**Work in Progress: Temporary models, and the AI doesn't use them**
-
-* Changed **Flaming Arrows** to **Ozutsu**, and removed flame from arrows.<br />
-Flaming arrows didn't exist; a bronze cannon that fired stone arrows could be called Ozutsu (Japanese: 大筒) <sup>(https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.<br>
-
-* Added **Ishybiya**, a bronze cannon that fires cannonballs. Japanese castles can train them.<br />
+* Added **Ishybiya**, a bronze cannon that fires cannonballs.<br>
 Japanese bronze cannon usually fired cannonballs<sup>(https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.<br>
+**Work in Progress: Temporary models, no portraits.**
 
 * Added **Sioux Lancers** and removed **Dog Soldiers**. Sioux Lancers are an effective anti-infantry cavalry unit, unlike game-breaking Dog Soldiers.<br>
 Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia.org/wiki/Dog_Soldiers)</sup>.<br>
-**Work in Progress: Temporary models, and the AI doesn't use them**
+**Work in Progress: Temporary models and the AI doesn't use them.**
 
 * Added **Sioux Scout**, a recon unit.<br>
-**Work in Progress: Temporary models, and the AI doesn't use them**
+**Work in Progress: Temporary models and the AI doesn't use them.**
 
 ## Maps
-* Removed references to the Huari from **Andes**.
+* **Amazonia**: Added new ambience track.
+* **Andes**: Removed references to the Huari.
+* **Orinoco**: Added new ambience track.
 
 ## Campaign
 
