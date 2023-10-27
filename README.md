@@ -25,18 +25,20 @@ During Japan's Edo period, the only Europeans permitted to trade with Japan were
 * Changed **Flaming Arrows** to **Ozutsu**, and removed flame from arrows.<br>
 Flaming arrows didn't exist; a bronze cannon that fired stone arrows could be called Ozutsu (Japanese: 大筒) <sup>(https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.<br>
 
-* Added **Lakota Burnt Thigh**, an effective siege cavalry unit. Sioux players can train them from their Corral.<br>
-One of the nations of the Lakota known for the use of fire in warfare and hunting[Wikipedia](https://en.wikipedia.org/wiki/Brul%C3%A9).<br>
-**Work in Progress: Temporary models and the AI doesn't use them**
-
 * **Fishing Boats** have visible crews, no longer cost population, and have a build limit of 12.<br>
 **Work in Progress: Aztec, Haudenosaunee (Iroquois), Hindustani (Indian) and Sioux fishing boats have glitchy crews.**
 
-* **Irregulars**, **Minutemen**, **Sentries**, and **Warriors** no longer lose health and can be healed.
+* **Irregulars**, **Minutemen**, and **Sentries** no longer lose health and can be healed.
+
+* **Warriors** no longer lose health and have a build limit of 6.
 
 * Added **Ishybiya**, a bronze cannon that fires cannonballs.<br>
 Japanese bronze cannon usually fired cannonballs<sup>(https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.<br>
 **Work in Progress: Temporary models, no portraits.**
+
+* Added **Sioux Burnt Thighs**, an effective siege cavalry unit. Sioux players can train them from their Corral.<br>
+One of the nations of the Lakota known for the use of fire in warfare and hunting[Wikipedia](https://en.wikipedia.org/wiki/Brul%C3%A9).<br>
+**Work in Progress: Temporary models and the AI doesn't use them**
 
 * Added **Sioux Lancers** and removed **Dog Soldiers**. Sioux Lancers are an effective anti-infantry cavalry unit, unlike game-breaking Dog Soldiers.<br>
 Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia.org/wiki/Dog_Soldiers)</sup>.<br>
@@ -59,6 +61,9 @@ The Knights of Saint John, being a Mediterranean civilisation, made extensive us
 * You can now train **Harquebusiers** from your Barracks, and upgrade them to **Veteran Harquebusiers**.<br>
 The Knights of Saint John had access to harquebus during the Great Siege of Malta (Maltese: L-Assedju l-Kbir) (1565)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Great_Siege_of_Malta)]</sup>.<br>
 *This is a temporary model and portrait.*
+
+* Removed many of the building restrictions, mostly restrictions on building walls.<br>
+**Need to recheck these.**
 
 * Your **Surgeons** have Spanish dialogue as opposed to being silent.<br>
 While the Knights of Saint John was an international order, only a minority seemed to be English<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Knights_Hospitaller)]</sup>.
@@ -97,29 +102,23 @@ License: Public Domain
 * **Stuart Black** now uses a pistol instead of his fists.<br>
 Despite his reluctance to fight, Stuart tends to end up charging at his attackers and punching them. I felt a pistol was more appropriate.
 
-* **John Black** no longer makes a sexist comment to **Stuart Black** at the beginning of **Strange Alliances**.
+* In **Strange Alliances**, John Black no longer makes a sexist comment to Stuart Black at the start.
 
 ### Blood, Ice and Steel - Act 3
 * Your **Surgeons** have American dialogue as opposed to being silent.
 
-* Removed many of the building restrictions from the Knights of St. John in **Blood, Ice and Steel**, mostly restrictions on building walls.
-
-* De-anglicised the Knights of St. John; units now speak more Spanish, churches appear more Mediteranean, and ship names are now real historical Maltese names.
-
 ## Sound Effects
-* **Replaced blunderbuss shot sounds** with more realistic ones, taken from recordings of a 17th Century blundrrbuss.<br><br>
+* **Replaced blunderbuss shot sounds** with more realistic ones, taken from recordings of a 17th Century blunderbuss.
 
-* **Replaced heavy cannon shot sounds** with more realistic ones, taken from recordings of American Parrott Rifle cannon.<br><br>
+* **Replaced heavy cannon shot sounds** with more realistic ones, taken from recordings of the American Parrott Rifle cannon.<br><br>
 Sources: Cannon sweetener from [Zapsplat](https://www.zapsplat.com/)<br>
 License: Cannon sweetener licensed under [Zapsplat Standard License](https://www.zapsplat.com/license-type/standard-license/).
-<br><br> 
 
-* **Replaced pistol shot sounds** with more realistic ones, taken from recordings of American Colt Single Action Army Revolver.<br><br>
+* **Replaced pistol shot sounds** with more realistic ones, taken from recordings of American Colt Single Action Army Revolver.
 
 * **Replaced rifle shot sounds** with more realistic ones, taken from recordings of British Martini-Henry Rifles.<br><br>
 Sources: Rifle sweetener/tails from [Zapsplat](https://www.zapsplat.com/)<br>
-License: Rifle sweetener/tails licensed under [Zapsplat Standard License](https://www.zapsplat.com/license-type/standard-license/).
-<br><br> 
+License: Rifle sweetener/tails licensed under [Zapsplat Standard License](https://www.zapsplat.com/license-type/standard-license/). 
 
 * **Replaced musket shot sounds** with more realistic ones, taken from recordings of British Land Pattern Muskets (AKA Brown Bess).<br><br>
 
