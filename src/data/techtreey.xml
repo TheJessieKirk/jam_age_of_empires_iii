@@ -4148,6 +4148,10 @@
         <Target type ='ProtoUnit'>SiouxBurntThigh</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Farm</Target></Effect>
+      <Effect type ='TechStatus' status ='obtainable'>jamChampionSiouxLancers</Effect>
+      <Effect type ='TechStatus' status ='obtainable'>jamLegendarySiouxLancers</Effect>
+      <Effect type ='TechStatus' status ='obtainable'>jamChampionSiouxBurntThighs</Effect>
+      <Effect type ='TechStatus' status ='obtainable'>jamLegendarySiouxBurntThighs</Effect>
       <Effect type ='TechStatus' status ='obtainable'>ImpLegendaryWarClubs</Effect>
       <Effect type ='TechStatus' status ='obtainable'>ChampionWarBows</Effect>
       <Effect type ='TechStatus' status ='obtainable'>ChampionWarRifles</Effect>
@@ -10791,8 +10795,6 @@
       <Effect type ='Data' amount ='0.75' subtype ='TrainPoints' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>AbstractCavalry</Target></Effect>
       <Effect type ='Data' amount ='1.25' subtype ='TrainPoints' relativity ='BasePercent'>
-        <Target type ='ProtoUnit'>xpDogSoldier</Target></Effect>
-      <Effect type ='Data' amount ='1.25' subtype ='TrainPoints' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>xpSkullKnight</Target></Effect>
       <Effect type ='Data' amount ='0.75' subtype ='TrainPoints' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>AbstractLightInfantry</Target></Effect>
@@ -15381,7 +15383,7 @@
         <Target type ='ProtoUnit'>AbstractCavalry</Target></Effect>
       <Effect type ='TextOutput'>41901</Effect>
       <Effect type ='Data' amount ='1.40' subtype ='TrainPoints' relativity ='BasePercent'>
-        <Target type ='ProtoUnit'>xpDogSoldier</Target></Effect>
+        <Target type ='ProtoUnit'>SiouxLancer</Target></Effect>
     </Effects>
   </Tech>
   <Tech name ='HCRefrigeration' type ='Normal'>
@@ -17071,7 +17073,7 @@
     <Cost resourcetype ='Ships'>1.0000</Cost>
     <ResearchPoints>40.0000</ResearchPoints>
     <Status>UNOBTAINABLE</Status>
-    <Icon>ui\techs\carronade\carronade</Icon>
+    <Icon>ui\techs\jamhc_improvedwarships\jamhc_improvedwarships</Icon>
     <RolloverTextID>35727</RolloverTextID>
     <Flag>HomeCity</Flag>
     <Effects>
@@ -29931,8 +29933,6 @@
     <Effects>
       <Effect type ='Data' amount ='0.60' subtype ='TrainPoints' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>AbstractCavalry</Target></Effect>
-      <Effect type ='Data' amount ='1.40' subtype ='TrainPoints' relativity ='BasePercent'>
-        <Target type ='ProtoUnit'>xpDogSoldier</Target></Effect>
       <Effect type ='Data' amount ='0.60' subtype ='TrainPoints' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>ypForbiddenArmy</Target></Effect>
       <Effect type ='Data' amount ='0.80' subtype ='TrainPoints' relativity ='BasePercent'>
@@ -30835,7 +30835,7 @@
     <Prereqs>
       <TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
     <Effects>
-      <Effect type ='Data' amount ='-0.67' subtype ='FreeHomeCityUnit' unittype ='xpDogSoldier' relativity ='Absolute'>
+      <Effect type ='Data' amount ='-0.67' subtype ='FreeHomeCityUnit' unittype ='SiouxLancer' relativity ='Absolute'>
         <Target type ='Player'></Target></Effect></Effects>
   </Tech>
   <Tech name ='SPCXPValleyForge' type ='Normal'>
@@ -31863,7 +31863,7 @@
     <Cost resourcetype ='Ships'>1.0000</Cost>
     <ResearchPoints>60.0000</ResearchPoints>
     <Status>UNOBTAINABLE</Status>
-    <Icon>units\artillery\cannon\cannon_icon_64</Icon>
+    <Icon>units\spc\russian_cannon\russian_cannon_icon_64</Icon>
     <RolloverTextID>46343</RolloverTextID>
     <Flag>HomeCity</Flag>
     <Effects>
@@ -33574,7 +33574,7 @@
     <Cost resourcetype ='Wood'>500.0000</Cost>
     <ResearchPoints>10.0000</ResearchPoints>
     <Status>UNOBTAINABLE</Status>
-    <Icon>ui\techs\native\Dance_Hall</Icon>
+    <Icon>ui\techs\jamwildwest\jamwildwest</Icon>
     <RolloverTextID>47001</RolloverTextID>
     <Flag>UpgradeTech</Flag>
     <Flag>CountsTowardMilitaryScore</Flag>
@@ -51407,6 +51407,140 @@
         <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
       <Effect type ='Data' amount ='4.00' subtype ='LOS' relativity ='Absolute'>
         <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+    </Effects>
+  </Tech>
+  <Tech name ='jamEliteSiouxBurntThighs' type ='Normal'>
+    <DBID>4800</DBID>
+    <DisplayNameID>70642</DisplayNameID>
+    <Cost resourcetype ='Wood'>200.0000</Cost>
+    <Cost resourcetype ='Gold'>100.0000</Cost>
+    <ResearchPoints>30.0000</ResearchPoints>
+    <Status>UNOBTAINABLE</Status>
+    <Icon>ui\techs\native\elite_cavalry</Icon>
+    <RolloverTextID>70643</RolloverTextID>
+    <Flag>CountsTowardMilitaryScore</Flag>
+    <Flag>UpgradeTech</Flag>
+    <Prereqs>
+      <TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
+    <Effects>
+      <Effect type ='SetName' proto ='SiouxBurntThigh' culture ='none' newName ='70644'></Effect>
+      <Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>SiouxBurntThigh</Target></Effect>
+      <Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>SiouxBurntThigh</Target></Effect>
+    </Effects>
+  </Tech>
+  <Tech name ='jamChampionSiouxBurntThighs' type ='Normal'>
+    <DBID>4801</DBID>
+    <DisplayNameID>70645</DisplayNameID>
+    <Cost resourcetype ='Wood'>400.0000</Cost>
+    <Cost resourcetype ='Gold'>200.0000</Cost>
+    <ResearchPoints>30.0000</ResearchPoints>
+    <Status>UNOBTAINABLE</Status>
+    <Icon>ui\techs\native\champion_cavalry</Icon>
+    <RolloverTextID>70643</RolloverTextID>
+    <Flag>UpgradeTech</Flag>
+    <Flag>CountsTowardMilitaryScore</Flag>
+    <Prereqs>
+      <TechStatus status ='Active'>Industrialize</TechStatus>
+      <TechStatus status ='Active'>jamEliteSiouxBurntThigh</TechStatus>
+    </Prereqs>
+    <Effects>
+      <Effect type ='SetName' proto ='SiouxBurntThigh' culture ='none' newName ='70646'></Effect>
+      <Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>SiouxBurntThigh</Target></Effect>
+      <Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>SiouxBurntThigh</Target></Effect>
+    </Effects>
+  </Tech>
+  <Tech name ='jamLegendarySiouxBurntThighs' type ='Normal'>
+    <DBID>4802</DBID>
+    <DisplayNameID>70647</DisplayNameID>
+    <Cost resourcetype ='Wood'>1500.0000</Cost>
+    <Cost resourcetype ='Gold'>1500.0000</Cost>
+    <ResearchPoints>30.0000</ResearchPoints>
+    <Status>UNOBTAINABLE</Status>
+    <Icon>ui\techs\native\legendary_cavalry</Icon>
+    <RolloverTextID>70643</RolloverTextID>
+    <Flag>UpgradeTech</Flag>
+    <Flag>CountsTowardMilitaryScore</Flag>
+    <Prereqs>
+      <TechStatus status ='Active'>Imperialize</TechStatus>
+      <TechStatus status ='Active'>jamChampionSiouxBurntThigh</TechStatus>
+    </Prereqs>
+    <Effects>
+      <Effect type ='SetName' proto ='SiouxBurntThigh' culture ='none' newName ='70648'></Effect>
+      <Effect type ='Data' amount ='1.50' subtype ='Hitpoints' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>SiouxBurntThigh</Target></Effect>
+      <Effect type ='Data' amount ='1.50' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>SiouxBurntThigh</Target></Effect>
+    </Effects>
+  </Tech>
+  <Tech name ='jamEliteSiouxLancers' type ='Normal'>
+    <DBID>4803</DBID>
+    <DisplayNameID>70649</DisplayNameID>
+    <Cost resourcetype ='Wood'>200.0000</Cost>
+    <Cost resourcetype ='Gold'>100.0000</Cost>
+    <ResearchPoints>30.0000</ResearchPoints>
+    <Status>UNOBTAINABLE</Status>
+    <Icon>ui\techs\native\elite_cavalry</Icon>
+    <RolloverTextID>70650</RolloverTextID>
+    <Flag>CountsTowardMilitaryScore</Flag>
+    <Flag>UpgradeTech</Flag>
+    <Prereqs>
+      <TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
+    <Effects>
+      <Effect type ='SetName' proto ='SiouxLancer' culture ='none' newName ='70651'></Effect>
+      <Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>SiouxLancer</Target></Effect>
+      <Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>SiouxLancer</Target></Effect>
+    </Effects>
+  </Tech>
+  <Tech name ='jamChampionSiouxLancers' type ='Normal'>
+    <DBID>4804</DBID>
+    <DisplayNameID>70645</DisplayNameID>
+    <Cost resourcetype ='Wood'>400.0000</Cost>
+    <Cost resourcetype ='Gold'>200.0000</Cost>
+    <ResearchPoints>30.0000</ResearchPoints>
+    <Status>UNOBTAINABLE</Status>
+    <Icon>ui\techs\native\champion_cavalry</Icon>
+    <RolloverTextID>70652</RolloverTextID>
+    <Flag>UpgradeTech</Flag>
+    <Flag>CountsTowardMilitaryScore</Flag>
+    <Prereqs>
+      <TechStatus status ='Active'>Industrialize</TechStatus>
+      <TechStatus status ='Active'>jamEliteSiouxBurntThigh</TechStatus>
+    </Prereqs>
+    <Effects>
+      <Effect type ='SetName' proto ='SiouxLancer' culture ='none' newName ='70653'></Effect>
+      <Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>SiouxLancer</Target></Effect>
+      <Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>SiouxLancer</Target></Effect>
+    </Effects>
+  </Tech>
+  <Tech name ='jamLegendarySiouxLancers' type ='Normal'>
+    <DBID>4805</DBID>
+    <DisplayNameID>70654</DisplayNameID>
+    <Cost resourcetype ='Wood'>1500.0000</Cost>
+    <Cost resourcetype ='Gold'>1500.0000</Cost>
+    <ResearchPoints>30.0000</ResearchPoints>
+    <Status>UNOBTAINABLE</Status>
+    <Icon>ui\techs\native\legendary_cavalry</Icon>
+    <RolloverTextID>70650</RolloverTextID>
+    <Flag>UpgradeTech</Flag>
+    <Flag>CountsTowardMilitaryScore</Flag>
+    <Prereqs>
+      <TechStatus status ='Active'>Imperialize</TechStatus>
+      <TechStatus status ='Active'>jamChampionSiouxBurntThigh</TechStatus>
+    </Prereqs>
+    <Effects>
+      <Effect type ='SetName' proto ='SiouxLancer' culture ='none' newName ='70655'></Effect>
+      <Effect type ='Data' amount ='1.50' subtype ='Hitpoints' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>SiouxLancer</Target></Effect>
+      <Effect type ='Data' amount ='1.50' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>SiouxLancer</Target></Effect>
     </Effects>
   </Tech>
 </TechTree>
