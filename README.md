@@ -25,33 +25,33 @@ During Japan's Edo period, the only Europeans permitted to trade with Japan were
 ***Work in Progress: The icon is still the Privateer, they don't have random names, and the AI doesn't use them.***
 
 * Changed **Flaming Arrows** to **Ozutsu**, and removed flame from arrows.<br>
-*Flaming arrows didn't exist; a bronze cannon that fired stone arrows could be called Ozutsu (Japanese: 大筒)<sup>[Wikipedia](https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.*
+*Flaming arrows didn't exist; a bronze cannon that fired stone arrows could be called Ozutsu (Japanese: 大筒)<sup>[Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.*
 
 * **Fishing Boats** have visible crews, no longer cost population, and have a build limit of 12.<br>
-**Work in Progress: Aztec, Haudenosaunee (Iroquois), Hindustani (Indian) and Sioux fishing boats have glitchy crews.**
+***Work in Progress: Aztec, Haudenosaunee (Iroquois), Hindustani (Indian) and Sioux fishing boats have glitchy crews.***
 
 * **Irregulars**, **Minutemen**, and **Sentries** no longer lose health and can be healed.
 
 * **Warriors** no longer lose health and have a build limit of 6.
 
 * Added **Ishybiya**, a bronze cannon that fires cannonballs.<br>
-Japanese bronze cannon usually fired cannonballs<sup>(https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.<br>
-**Work in Progress: Temporary models, no portraits.**
+*Japanese bronze cannon usually fired cannonballs<sup>(https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.<br>
+**Work in Progress: Temporary models, no portraits.***
 
 * **Settlers** and **Settler Wagons** now use fowling pieces instead of blunderbuss.<br>
-I need a better source, but everything I read of gun export forums (sourced comments) show the fowler was much more popular in the American colonies than the blunderbuss was.<br>
-**Work in Progress: The sound effect is still a blunderbuss**
+*I need a better source, but everything I read of gun export forums (sourced comments) show the fowler was much more popular in the American colonies than the blunderbuss was.<br>
+**Work in Progress: The sound effect is still a blunderbuss***
 
 * Added **Sioux Burnt Thighs**, an effective siege cavalry unit. Sioux players can train them from their Corral.<br>
-One of the nations of the Lakota known for the use of fire in warfare and hunting[Wikipedia](https://en.wikipedia.org/wiki/Brul%C3%A9).<br>
-**Work in Progress: Temporary models and the AI doesn't use them**
+*One of the nations of the Lakota known for the use of fire in warfare and hunting[Wikipedia](https://en.wikipedia.org/wiki/Brul%C3%A9).<br>
+**Work in Progress: Temporary models and the AI doesn't use them***
 
 * Added **Sioux Lancers** and removed **Dog Soldiers**. Sioux Lancers are an effective anti-infantry cavalry unit, unlike game-breaking Dog Soldiers.<br>
-Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia.org/wiki/Dog_Soldiers)</sup>.<br>
-**Work in Progress: Temporary models and the AI doesn't use them.**
+*Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia.org/wiki/Dog_Soldiers)</sup>.<br>
+**Work in Progress: Temporary models and the AI doesn't use them.***
 
 * Added **Sioux Scout**, a recon unit.<br>
-**Work in Progress: Temporary models and the AI doesn't use them.**
+***Work in Progress: Temporary models and the AI doesn't use them.***
 
 * **Mills** now have an ambient sound of the sail creaking in the wind.<br>
 *Sources: Windmill [Freesound](https://freesound.org/people/FonotecadeCanarias/sounds/210936/)<br>
@@ -89,7 +89,7 @@ License: Public Domain.*
 
 ### Blood, Ice and Steel - Act 1
 * You can now build **Galleys** instead of **Caravels**.<br>
-The Knights of Saint John, being a Mediterranean civilisation, made extensive use of galleys<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Navy_of_the_Order_of_Saint_John)]</sup>, whereas Caravels were only used by the Portuguese and Spanish<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Caravel)]</sup>.
+*The Knights of Saint John, being a Mediterranean civilisation, made extensive use of galleys<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Navy_of_the_Order_of_Saint_John)]</sup>, whereas Caravels were only used by the Portuguese and Spanish<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Caravel)]</sup>.*
 
 * You can now train **Harquebusiers** from your Barracks, and upgrade them to **Veteran Harquebusiers**.<br>
 The Knights of Saint John had access to harquebus during the Great Siege of Malta (Maltese: L-Assedju l-Kbir) (1565)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Great_Siege_of_Malta)]</sup>.<br>
