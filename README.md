@@ -35,7 +35,7 @@ During Japan's Edo period, the only Europeans permitted to trade with Japan were
 * **Warriors** no longer lose health and have a build limit of 6.
 
 * Added **Ishybiya**, a bronze cannon that fires cannonballs.<br>
-*Japanese bronze cannon usually fired cannonballs<sup>(https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.<br>
+*Japanese bronze cannon usually fired cannonballs <sup>[Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.<br>
 **Work in Progress: Temporary models, no portraits.***
 
 * **Settlers** and **Settler Wagons** now use fowling pieces instead of blunderbuss.<br>
@@ -43,11 +43,11 @@ During Japan's Edo period, the only Europeans permitted to trade with Japan were
 **Work in Progress: The sound effect is still a blunderbuss***
 
 * Added **Sioux Burnt Thighs**, an effective siege cavalry unit. Sioux players can train them from their Corral.<br>
-*One of the nations of the Lakota known for the use of fire in warfare and hunting[Wikipedia](https://en.wikipedia.org/wiki/Brul%C3%A9).<br>
+*One of the nations of the Lakota known for the use of fire in warfare and hunting <sup>[English Wikipedia](https://en.wikipedia.org/wiki/Brul%C3%A9).</sup><br>
 **Work in Progress: Temporary models and the AI doesn't use them***
 
 * Added **Sioux Lancers** and removed **Dog Soldiers**. Sioux Lancers are an effective anti-infantry cavalry unit, unlike game-breaking Dog Soldiers.<br>
-*Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia.org/wiki/Dog_Soldiers)</sup>.<br>
+*Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Dog_Soldiers)</sup>.<br>
 **Work in Progress: Temporary models and the AI doesn't use them.***
 
 * Added **Sioux Scout**, a recon unit.<br>
