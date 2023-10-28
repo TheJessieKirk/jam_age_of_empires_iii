@@ -4,6 +4,7 @@
     <Status>UNOBTAINABLE</Status>
     <Flag>Shadow</Flag>
     <Effects>
+      <Effect type ='TechStatus' status ='obtainable'>jamEmancipation</Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Explorer</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
@@ -241,6 +242,7 @@
     <Status>UNOBTAINABLE</Status>
     <Flag>Shadow</Flag>
     <Effects>
+      <Effect type ='TechStatus' status ='obtainable'>jamEmancipation</Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Explorer</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
@@ -422,6 +424,7 @@
     <Status>UNOBTAINABLE</Status>
     <Flag>Shadow</Flag>
     <Effects>
+      <Effect type ='TechStatus' status ='obtainable'>jamEmancipation</Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Explorer</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
@@ -568,6 +571,7 @@
     <Status>UNOBTAINABLE</Status>
     <Flag>Shadow</Flag>
     <Effects>
+      <Effect type ='TechStatus' status ='obtainable'>jamEmancipation</Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Caravel</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
@@ -724,6 +728,7 @@
     <Status>UNOBTAINABLE</Status>
     <Flag>Shadow</Flag>
     <Effects>
+      <Effect type ='TechStatus' status ='obtainable'>jamEmancipation</Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Explorer</Target></Effect>
       <Effect type ='TechStatus' status ='obtainable'>ChurchWallensteinsContracts</Effect>
@@ -867,6 +872,7 @@
     <Status>UNOBTAINABLE</Status>
     <Flag>Shadow</Flag>
     <Effects>
+      <Effect type ='TechStatus' status ='obtainable'>jamEmancipation</Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Explorer</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
@@ -1011,6 +1017,7 @@
     <Status>UNOBTAINABLE</Status>
     <Flag>Shadow</Flag>
     <Effects>
+      <Effect type ='TechStatus' status ='obtainable'>jamEmancipation</Effect>
       <Effect type ='SetName' proto ='Church' culture ='none' newName ='23779'></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Explorer</Target></Effect>
@@ -1168,6 +1175,7 @@
     <Status>UNOBTAINABLE</Status>
     <Flag>Shadow</Flag>
     <Effects>
+      <Effect type ='TechStatus' status ='obtainable'>jamEmancipation</Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>Explorer</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
@@ -3745,6 +3753,7 @@
     <Status>UNOBTAINABLE</Status>
     <Flag>Shadow</Flag>
     <Effects>
+      <Effect type ='TechStatus' status ='obtainable'>jamEmancipation</Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>xpIroquoisWarChief</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
@@ -3973,6 +3982,7 @@
     <Status>UNOBTAINABLE</Status>
     <Flag>Shadow</Flag>
     <Effects>
+      <Effect type ='TechStatus' status ='obtainable'>jamEmancipation</Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>xpIroquoisWarChief</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
@@ -4122,6 +4132,7 @@
     <Status>UNOBTAINABLE</Status>
     <Flag>Shadow</Flag>
     <Effects>
+      <Effect type ='TechStatus' status ='obtainable'>jamEmancipation</Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
         <Target type ='ProtoUnit'>xpLakotaWarchief</Target></Effect>
       <Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
@@ -5326,6 +5337,7 @@
     <Status>UNOBTAINABLE</Status>
     <Flag>Shadow</Flag>
     <Effects>
+      <Effect type ='TechStatus' status ='obtainable'>jamEmancipation</Effect>
       <Effect type ='TechStatus' status ='active'>YPAge0JapaneseUnits</Effect>
       <Effect type ='TechStatus' status ='active'>YPAge0JapaneseMonks</Effect>
       <Effect type ='TechStatus' status ='active'>YPAAAsianStartingTechs</Effect>
@@ -5365,6 +5377,7 @@
     <Status>UNOBTAINABLE</Status>
     <Flag>Shadow</Flag>
     <Effects>
+      <Effect type ='TechStatus' status ='obtainable'>jamEmancipation</Effect>
       <Effect type ='TechStatus' status ='active'>YPAAAsianStartingTechs</Effect>
       <Effect type ='TechStatus' status ='active'>YPAge0ChineseSpecialTechs</Effect>
       <Effect type ='TechStatus' status ='active'>YPAge0ChineseTechs</Effect>
@@ -5380,6 +5393,7 @@
     <Status>UNOBTAINABLE</Status>
     <Flag>Shadow</Flag>
     <Effects>
+      <Effect type ='TechStatus' status ='obtainable'>jamEmancipation</Effect>
       <Effect type ='TechStatus' status ='active'>YPAAAsianStartingTechs</Effect>
       <Effect type ='TechStatus' status ='active'>ypAge0IndiansBuildings</Effect>
       <Effect type ='TechStatus' status ='active'>ypAge0IndiansUnits</Effect>
@@ -51541,6 +51555,44 @@
         <Target type ='ProtoUnit'>SiouxLancer</Target></Effect>
       <Effect type ='Data' amount ='1.50' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
         <Target type ='ProtoUnit'>SiouxLancer</Target></Effect>
+    </Effects>
+  </Tech>
+  <Tech name ='jamEmancipation' type ='Normal'>
+    <DBID>1217</DBID>
+    <DisplayNameID>70656</DisplayNameID>
+    <ResearchPoints>30.0000</ResearchPoints>
+    <Status>UNOBTAINABLE</Status>
+    <Icon>ui\techs\jamemancipation\jamemancipation</Icon>
+    <RolloverTextID>70657</RolloverTextID>
+    <Flag>CountsTowardEconomicScore</Flag>
+    <Prereqs>
+      <TechStatus status ='Active'>Industrialize</TechStatus>
+    </Prereqs>
+    <Effects>
+      <Effect type ='Data' action ='Gather' amount ='1.20' subtype ='WorkRate' unittype ='BerryBush' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+      <Effect type ='Data' action ='Gather' amount ='1.20' subtype ='WorkRate' unittype ='ypBerryBuilding' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+      <Effect type ='Data' action ='Gather' amount ='1.20' subtype ='WorkRate' unittype ='Huntable' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+      <Effect type ='Data' action ='Gather' amount ='1.20' subtype ='WorkRate' unittype ='Herdable' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+      <Effect type ='Data' action ='Gather' amount ='1.20' subtype ='WorkRate' unittype ='Mill' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+      <Effect type ='Data' action ='Gather' amount ='1.20' subtype ='WorkRate' unittype ='Farm' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+      <Effect type ='Data2' action ='Gather' amount ='1.20' subtype ='WorkRateSpecific' resource ='Food' unittype ='ypRicePaddy' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+      <Effect type ='Data' action ='Gather' amount ='1.20' subtype ='WorkRate' unittype ='Tree' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+      <Effect type ='Data' action ='Gather' amount ='1.20' subtype ='WorkRate' unittype ='ypGroveBuilding' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+      <Effect type ='Data' action ='Gather' amount ='1.20' subtype ='WorkRate' unittype ='AbstractMine' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+      <Effect type ='Data' action ='Gather' amount ='1.20' subtype ='WorkRate' unittype ='Plantation' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+      <Effect type ='Data2' action ='Gather' amount ='1.20' subtype ='WorkRateSpecific' resource ='Gold' unittype ='ypRicePaddy' relativity ='BasePercent'>
+        <Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
     </Effects>
   </Tech>
 </TechTree>

@@ -2871,8 +2871,9 @@
     <sound filename="BearDie.wav" volume="1.0000"/>
   </soundset>
   <soundset name="AmbienceBear" volume="0.5000" maxnum="1" distance="1.0000">
-    <sound filename="BearAmbient1.wav" volume="0.8000"/>
+    <sound filename="BearAmbient1.wav" volume="1.0000"/>
     <sound filename="BearAmbient2.wav" volume="1.0000"/>
+    <sound filename="jam\animals\BearAmbient2.wav" volume="1.0000"/>
   </soundset>
   <soundset name="GatherFarm" volume="0.1000" maxnum="5" distance="1.0000">
     <sound filename="GatherFarm1.wav" volume="1.0000"/>
@@ -2978,8 +2979,9 @@
     <sound filename="AlligatorGrunt2.wav" volume="1.0000"/>
   </soundset>
   <soundset name="AmbienceAlligator" volume="0.3500" maxnum="1" distance="1.0000">
-    <sound filename="AlligatorAmbient1.wav" volume="0.9500"/>
+    <sound filename="AlligatorAmbient1.wav" volume="1.0000"/>
     <sound filename="AlligatorAmbient2.wav" volume="1.0000"/>
+    <sound filename="jam\animals\AlligatorAmbient3.wav" volume="1.0000"/>
   </soundset>
   <soundset name="AlligatorDie" volume="0.5500" maxnum="4" distance="1.0000">
     <sound filename="AlligatorDie.wav" volume="1.0000"/>
@@ -3039,7 +3041,8 @@
   </soundset>
   <soundset name="AmbienceCow" volume="0.3500" maxnum="1" distance="1.0000">
     <sound filename="CowAmbient1.wav" volume="0.9500"/>
-    <sound filename="CowAmbient2.wav" volume="1.0000"/>
+    <sound filename="CowAmbient2.wav" volume="0.9500"/>
+    <sound filename="jam\animals\CowAmbient3.wav" volume="0.9500"/>
   </soundset>
   <soundset name="CowSelect" volume="0.5000" maxnum="4" distance="1.0000">
     <sound filename="CowSelect.wav" volume="1.0000"/>
@@ -4716,5 +4719,29 @@
     <sound filename="jam\SwivelGun\shot3.wav" volume="1.0000"/>
     <sound filename="jam\SwivelGun\shot4.wav" volume="1.0000"/>
     <sound filename="jam\SwivelGun\shot5.wav" volume="1.0000"/>
+  </soundset>
+  <soundset name="jamAmbienceDeer" volume="0.3500" maxnum="1" distance="1.0000">
+    <sound filename="jam\animals\DeerAmbient1.wav" volume="1.0000"/>
+    <sound filename="jam\animals\DeerAmbient2.wav" volume="1.0000"/>
+    <sound filename="jam\animals\DeerAmbient3.wav" volume="1.0000"/>
+  </soundset>
+  <soundset name="jamDeerDeath" volume="0.4500" maxnum="4" distance="1.0000">
+    <sound filename="jam\animals\DeerDeath.wav" volume="1.0000"/>
+  </soundset>
+  <soundset name="jamAmbienceElk" volume="0.3500" maxnum="1" distance="1.0000">
+    <sound filename="jam\animals\ElkAmbient1.wav" volume="1.0000"/>
+    <sound filename="jam\animals\ElkAmbient2.wav" volume="1.0000"/>
+    <sound filename="jam\animals\ElkAmbient3.wav" volume="1.0000"/>
+  </soundset>
+  <soundset name="jamElkDeath" volume="0.4500" maxnum="4" distance="1.0000">
+    <sound filename="jam\animals\ElkDeath.wav" volume="1.0000"/>
+  </soundset>
+  <soundset name="jamAmbienceTurkey" volume="0.3500" maxnum="1" distance="1.0000">
+    <sound filename="jam\animals\TurkeyAmbient1.wav" volume="1.0000"/>
+    <sound filename="jam\animals\TurkeyAmbient2.wav" volume="1.0000"/>
+    <sound filename="jam\animals\TurkeyAmbient3.wav" volume="1.0000"/>
+  </soundset>
+  <soundset name="jamAmbienceMill" volume="0.4000" maxnum="1" distance="1.0000">
+    <sound filename="jam\ambient\mill.wav" volume="1.0000"/>
   </soundset>
 </soundsetdef>

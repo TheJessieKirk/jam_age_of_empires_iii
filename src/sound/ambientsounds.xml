@@ -128,6 +128,8 @@
   <sound type="PolarBear" timemin="15" timemax="25" num="1" stereo="1">AmbienceBear</sound>
   <sound type="Sheep" timemin="20" timemax="30" num="1" stereo="1">AmbienceSheep</sound>
   <sound type="SPCFierceCougar" timemin="15" timemax="25" num="1" stereo="1">AmbienceCougar</sound>
+  <sound type="Turkey" timemin="20" timemax="30" num="1" stereo="1">jamAmbienceTurkey</sound>
+  <sound type="TurkeyScout" timemin="20" timemax="30" num="1" stereo="1">jamAmbienceTurkey</sound>
   <sound type="WarDog" timemin="15" timemax="25" num="1" stereo="1">AmbienceDog</sound>
   <sound type="WhiteJaguar" timemin="15" timemax="25" num="1" stereo="1">AmbienceJaguar</sound>
   <sound type="WhiteJaguarGuard" timemin="15" timemax="25" num="1" stereo="1">AmbienceJaguar</sound>
@@ -135,8 +137,8 @@
   <sound type="WhiteWolfGuard" timemin="15" timemax="25" num="1" stereo="1">AmbienceWolf</sound>
   <sound type="Wolf" timemin="17" timemax="35" num="3" stereo="1">AmbienceWolf</sound>
   <sound type="ypBlackPanther" timemin="15" timemax="25" num="1" stereo="1">AmbienceBlackPanther</sound>
-  <sound type="ypGoat" timemin="15" timemax="25" num="1" stereo="1">AmbienceGoat</sound>
-  <sound type="ypGoatFat" timemin="15" timemax="25" num="1" stereo="1">AmbienceGoat</sound>
+  <sound type="ypGoat" timemin="15" timemax="25" num="1" stereo="1">jamAmbienceGoat</sound>
+  <sound type="ypGoatFat" timemin="15" timemax="25" num="1" stereo="1">jamAmbienceGoat</sound>
   <sound type="ypLion" timemin="15" timemax="25" num="1" stereo="1">AmbienceLion</sound>
   <sound type="ypLionTailedMacaque" timemin="15" timemax="25" num="1" stereo="1">AmbienceMonkey</sound>
   <sound type="ypMarcoPoloSheep" timemin="15" timemax="25" num="1" stereo="1">AmbienceMPSheep</sound>
