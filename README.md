@@ -53,10 +53,18 @@ Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia
 * Added **Sioux Scout**, a recon unit.<br>
 **Work in Progress: Temporary models and the AI doesn't use them.**
 
+* **Mills** now have an ambient sound of the sail creaking in the wind.
+Sources: Windmill [Freesound](https://freesound.org/people/FonotecadeCanarias/sounds/210936/)<br>
+Authors: [Freesound: FonotecadeCanarias](https://freesound.org/people/FonotecadeCanarias/)<br>
+License: [Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/)
+Sources: Wind through trees » Wind Through Trees 3b  [Freesound](https://freesound.org/people/spoonbender/sounds/244942/)<br>
+Authors: [Freesound: spoonbender](https://freesound.org/people/spoonbender/)<br>
+License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
 ## Technologies and Home City Cards
 * Added **Emancipation** to all Town Centers. Available in Age IV, this free technology gives all your Settlers, Settler Wagons, Courier de Bois and Villagers a gathering rate boost due to their new freedom, happiness and health.<br>
 Sources: Abolition de l'esclavage (1849); [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Biard_Abolition_de_l%27esclavage_1849.jpg)<br>
-Authors:François-Auguste Biard<br>
+Authors: François-Auguste Biard<br>
 License: Public Domain.
 
 * Replaced **Blunderbuss** with **Fowling Piece**.
