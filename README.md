@@ -17,15 +17,15 @@ You should have received a copy of the GNU General Public License along with JAM
 * Units made from flesh now bleed more when hit.
 
 * **Surgeons** now have British dialogue when controlled by a Chinese or Hindustani (Indian) player, and Dutch dialogue when controlled by a Japanese player.<br>
-*Britain was among the first civilisations to force open trade with China after the First Opium War (Chinese: 第一次鴉片戰爭) (1839–1842) <sup>[[English Wikipedia](https://en.wikipedia.org/wiki/First_Opium_War)]</sup>.<br>
+*Britain was among the first civilisations to force open trade with China after the First Opium War (Chinese: 第一次鴉片戰爭) (1839–1842)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/First_Opium_War)]</sup>.<br>
 While the Dutch were initially much more prolific in Hindustan via the United East India Company (Dutch: *Verenigde Oostindische Compagnie*)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Dutch_East_India_Company)]</sup>, British colonialism in India is more in keeping with the game's campaign, where the British East India Company are the antagonists.<br>
-During Japan's Edo period, the only Europeans permitted to trade with Japan were the Dutch from 1634–1854 <sup>[[English Wikipedia](https://en.wikipedia.org/wiki/History_of_Japan)]</sup>.*
+During Japan's Edo period, the only Europeans permitted to trade with Japan were the Dutch from 1634–1854<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/History_of_Japan)]</sup>.*
 
 * Added **Brig**, a non-Pirate/Privateer version of the Privateer mercenary. American, British, Circle of Ossus, Dutch, French, Hindustani (Indian). John Black's Mercenaries, Knights of St. John, Ottoman, Prussian (German), Portuguese, Russian and Spanish docks can train them.<br>
 ***Work in Progress: The icon is still the Privateer, they don't have random names, and the AI doesn't use them.***
 
 * Changed **Flaming Arrows** to **Ozutsu**, and removed flame from arrows.<br>
-*Flaming arrows didn't exist; a bronze cannon that fired stone arrows could be called Ozutsu (Japanese: 大筒)<sup>[Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.*
+*Flaming arrows didn't exist; a bronze cannon that fired stone arrows could be called Ozutsu (Japanese: 大筒)<sup>[[Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)]</sup>.*
 
 * **Fishing Boats** have visible crews, no longer cost population, and have a build limit of 12.<br>
 ***Work in Progress: Aztec, Haudenosaunee (Iroquois), Hindustani (Indian) and Sioux fishing boats have glitchy crews.***
@@ -35,7 +35,7 @@ During Japan's Edo period, the only Europeans permitted to trade with Japan were
 * **Warriors** no longer lose health and have a build limit of 6.
 
 * Added **Ishybiya**, a bronze cannon that fires cannonballs.<br>
-*Japanese bronze cannon usually fired cannonballs <sup>[Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)</sup>.<br>
+*Japanese bronze cannon usually fired cannonballs<sup>[[Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%AD%92)]</sup>.<br>
 **Work in Progress: Temporary models, no portraits.***
 
 * **Settlers** and **Settler Wagons** now use fowling pieces instead of blunderbuss.<br>
@@ -43,11 +43,11 @@ During Japan's Edo period, the only Europeans permitted to trade with Japan were
 **Work in Progress: The sound effect is still a blunderbuss***
 
 * Added **Sioux Burnt Thighs**, an effective siege cavalry unit. Sioux players can train them from their Corral.<br>
-*One of the nations of the Lakota known for the use of fire in warfare and hunting <sup>[English Wikipedia](https://en.wikipedia.org/wiki/Brul%C3%A9).</sup><br>
+*One of the nations of the Lakota known for the use of fire in warfare and hunting<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Brul%C3%A9)]</sup>.<br>
 **Work in Progress: Temporary models and the AI doesn't use them***
 
 * Added **Sioux Lancers** and removed **Dog Soldiers**. Sioux Lancers are an effective anti-infantry cavalry unit, unlike game-breaking Dog Soldiers.<br>
-*Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Dog_Soldiers)</sup>.<br>
+*Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Dog_Soldiers)]</sup>.<br>
 **Work in Progress: Temporary models and the AI doesn't use them.***
 
 * Added **Sioux Scout**, a recon unit.<br>
