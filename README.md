@@ -40,7 +40,7 @@ Japanese bronze cannon usually fired cannonballs<sup>(https://ja.wikipedia.org/w
 
 * **Settlers** and **Settler Wagons** now use fowling pieces instead of blunderbuss.<br>
 I need a better source, but everything I read of gun export forums (sourced comments) show the fowler was much more popular in the American colonies than the blunderbuss was.<br>
-**Work in Progress: Sound effect is still a blunderbuss**
+**Work in Progress: The sound effect is still a blunderbuss**
 
 * Added **Sioux Burnt Thighs**, an effective siege cavalry unit. Sioux players can train them from their Corral.<br>
 One of the nations of the Lakota known for the use of fire in warfare and hunting[Wikipedia](https://en.wikipedia.org/wiki/Brul%C3%A9).<br>
@@ -54,9 +54,14 @@ Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia
 **Work in Progress: Temporary models and the AI doesn't use them.**
 
 ## Technologies and Home City Cards
+* Added **Emancipation** to all Town Centers. Available in Age IV, this free technology gives all your Settlers, Settler Wagons, Courier de Bois and Villagers a gathering rate boost due to their new freedom, happiness and health.<br>
+Sources: Abolition de l'esclavage (1849); [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Biard_Abolition_de_l%27esclavage_1849.jpg)<br>
+Authors:François-Auguste Biard<br>
+License: Public Domain.
+
 * Replaced **Blunderbuss** with **Fowling Piece**.
 
-* Replaced **Improved War Ships** icon from the Carronade icon to a new one.
+* Replaced **Improved War Ships** icon from the Carronade icon to a new one.<br>
 Sources: Italian Sailing Ship Maria Teresa (1901); [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Antonio_Jacobsen_-_Italian_sailing_ship_Maria_Teresa,_1901.jpg)<br>
 Authors: Antonio Jacobsen<br>
 License: Public Domain.
