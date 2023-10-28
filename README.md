@@ -155,6 +155,14 @@ License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://cr
 
 * **Andes**: Removed references to the Huari.
 
+* **Bayou**: Added new ambience track.
+*Sources: Ambience, Day Wildlife, A.wav [Freesound](https://freesound.org/people/InspectorJ/sounds/398980/)<br>
+Authors: [Freesound: InspectorJ](https://freesound.org/people/InspectorJ/)<br>
+License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)<br>
+Sources: Spooky / Halloween » Giltbronze_sunset_25Aug2023.mp3 [Freesound](https://freesound.org/people/strangehorizon/sounds/700456/)<br>
+Authors: [Freesound: strangehorizon](https://freesound.org/people/strangehorizon/)<br>
+License: Public Domain*
+
 ## Campaign
 
 ### Blood, Ice and Steel - Act 1
@@ -203,9 +211,16 @@ Authors: Unknown; [Wikimedia Commons: AnonMoos](https://commons.wikimedia.org/wi
 License: Public Domain
 
 * **Stuart Black** now uses a pistol instead of his fists.<br>
-Despite his reluctance to fight, Stuart tends to end up charging at his attackers and punching them. I felt a pistol was more appropriate.
+*Despite his reluctance to fight, Stuart tends to end up charging at his attackers and punching them. I felt a pistol was more appropriate.*
 
 * In **Strange Alliances**, John Black no longer makes a sexist comment to Stuart Black at the start.
+
+* In **The Rescue**:
+  * The Haudenosaunee (Iroquois) village is surrounded by Native American wooden walls, instead of European walls. This prevents the player from upgrading them.
+  * The Haudenosaunee (Iroqupis) village is no longer defended by an Outpost. This prevents an exploit where the player can send Home City shipments there.
+
+* In **The Seven Years War**, Nonahkee is there.<br>
+*She's there before and after. Where did she go?*
 
 ### Blood, Ice and Steel - Act 3
 * Your **Surgeons** have American dialogue as opposed to being silent.
