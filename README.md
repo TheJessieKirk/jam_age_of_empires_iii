@@ -61,8 +61,57 @@ License: Public Domain.*
 
 * **Bears** now have three ambient sounds instead of two.<br>
 *Sources: yellowstone » Grizzly Bear growl eating [Freesound](https://freesound.org/people/Nivatius/sounds/519599/)<br>
-Authors: [Freesound: Nivatius](https://freesound.org/people/Nivatius)<br>
+Authors: [Freesound: Nivatius](https://freesound.org/people/Nivatius/)<br>
 License: Public Domain.*
+
+* Replaced **Coyote** ambient sounds with three new ones.<br>
+*The old sounds don't sound like any coyote recordings I listened to, and I think they may be from a dog.<br>
+Sources: coyote barks and howls [Freesound](https://freesound.org/people/dkaufman/sounds/256533/)<br>
+Authors: [Freesound:dkaufman](https://freesound.org/people/dkaufman/)<br>
+License: Public Domain*
+
+* **Cows** now have three ambient sounds instead of two.<br>
+*Sources: cows » Cow.wav [Freesound](https://freesound.org/people/Benboncan/sounds/58277/)<br>
+Authors: [Freesound: Benboncan](https://freesound.org/people/Benboncan/)<br>
+License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)*
+
+* **Deer** are no longer silent. They make ambient sounds, and scream when they are killed.<br>
+*Don't worry, I didn't use a real recording of a deer being killed. I'll never make you hear a real sound of an animal being hurt.
+Sources: wild animals » Deer.wav  [Freesound](https://freesound.org/people/juskiddink/sounds/58128/)<br>
+Authors: [Freesound: juskiddink](https://freesound.org/people/juskiddink/)<br>
+License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)<br>
+Sources: Muntjac Barking [Freesound](https://freesound.org/people/naturenotesuk/sounds/685923/)<br>
+Authors: [Freesound: naturenotesuk](https://freesound.org/people/naturenotesuk/)<br>
+License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)*
+
+* **Dogs** now have three ambient sounds instead of two.<br>
+*Sources: Dog Bark.wav [Freesound](https://freesound.org/people/Juan_Merie_Venter/sounds/327666/)<br>
+Authors: [Freesound: Juan_Merie_Venter](https://freesound.org/people/Juan_Merie_Venter/)<br>
+License: [Creative Commons Attribution 3.0 NonCommercial Unported (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/)*
+
+* **Elk** are no longer silent. They make ambient sounds, and scream when they are killed.<br>
+*Don't worry, I didn't use a real recording of an elk being killed. I'll never make you hear a real sound of an animal being hurt.
+Sources: Elk » Elk 9.wav [Freesound](https://freesound.org/people/Hyperionn/sounds/250190/)<br>
+Authors: [Freesound: Hyperionn](https://freesound.org/people/Hyperionn/)<br>
+License: Public Domain*
+
+* **Goats** now have ambient sounds, and **Fattened Goats** are no longer silent.<br>
+*Sources: Animals » goat.aif [Freesound](https://freesound.org/people/beskhu/sounds/273911/)<br>
+Authors: [Freesound: beskhu](https://freesound.org/people/beskhu/)<br>
+License: Public Domain*
+
+* **Horses** now have ambient sounds, instead of using their injured sounds as an ambient effect.<br>
+*Sources: Whinnying horse-far away.WAV [Freesound](https://freesound.org/people/L.Finck/sounds/636554/)<br>
+Authors: [Freesound: L.Finck]https://freesound.org/people/L.Finck/)<br>
+License: Public Domain*
+
+* **Turkeys** and **Turkey Scouts** now have ambient sounds.<br>
+*Sources: COUNTRYSIDE sounds » 01173 turkeys on air.wav [Freesound](https://freesound.org/people/Robinhood76/sounds/76902/)<br>
+Authors: [Freesound: Robinhood76](https://freesound.org/people/Robinhood76/)<br>
+License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)<br>
+Sources: Wild Turkey.wav [Freesound]https://freesound.org/people/itinerantmonk108/sounds/684815/)<br>
+Authors: [Freesound: itinerantmonk108](https://freesound.org/people/itinerantmonk108/)<br>
+License: Public Domain*
 
 ## Buildings
 * **Mills** now have an ambient sound of the sail creaking in the wind.<br>
@@ -93,9 +142,18 @@ Authors: Frederic Remington<br>
 License: Public Domain.*
 
 ## Maps
-* **Amazonia**: Added new ambience track.
+* **Amazonia and Orinoco**: Added new ambience track.
+*Sources: Amazon Jungle - Day [Freesound](https://freesound.org/people/RTB45/sounds/473569/)<br>
+Authors: [Freesound: RTB45](https://freesound.org/people/RTB45/)<br>
+License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)<br>
+Sources: Sunrise in the Amazon Jungle [Freesound](https://freesound.org/people/mar_33/sounds/546312/)<br>
+Authors: [Freesound: mar_33](https://freesound.org/people/mar_33/)<br>
+License: Public Domain<br>
+Sources: Peruvian Amazon Jungle [Freesound](https://freesound.org/people/hendmik/sounds/197323/)<br>
+Authors: [Freesound: hendmik](https://freesound.org/people/hendmik/)<br>
+License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)*
+
 * **Andes**: Removed references to the Huari.
-* **Orinoco**: Added new ambience track.
 
 ## Campaign
 
