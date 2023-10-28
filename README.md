@@ -54,30 +54,30 @@ Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia
 **Work in Progress: Temporary models and the AI doesn't use them.**
 
 * **Mills** now have an ambient sound of the sail creaking in the wind.<br>
-Sources: Windmill [Freesound](https://freesound.org/people/FonotecadeCanarias/sounds/210936/)<br>
+*Sources: Windmill [Freesound](https://freesound.org/people/FonotecadeCanarias/sounds/210936/)<br>
 Authors: [Freesound: FonotecadeCanarias](https://freesound.org/people/FonotecadeCanarias/)<br>
 License: [Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/)
 Sources: Wind through trees » Wind Through Trees 3b  [Freesound](https://freesound.org/people/spoonbender/sounds/244942/)<br>
 Authors: [Freesound: spoonbender](https://freesound.org/people/spoonbender/)<br>
-License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)*
 
 ## Technologies and Home City Cards
 * Added **Emancipation** to all Town Centers. Available in Age IV, this free technology gives all your Settlers, Settler Wagons, Courier de Bois and Villagers a gathering rate boost due to their new freedom, happiness and health.<br>
-Sources: Abolition de l'esclavage (1849); [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Biard_Abolition_de_l%27esclavage_1849.jpg)<br>
+*Sources: Abolition de l'esclavage (1849); [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Biard_Abolition_de_l%27esclavage_1849.jpg)<br>
 Authors: François-Auguste Biard<br>
-License: Public Domain.
+License: Public Domain.*
 
 * Replaced **Blunderbuss** with **Fowling Piece**.
 
 * Replaced **Improved War Ships** icon from the Carronade icon to a new one.<br>
-Sources: Italian Sailing Ship Maria Teresa (1901); [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Antonio_Jacobsen_-_Italian_sailing_ship_Maria_Teresa,_1901.jpg)<br>
+*Sources: Italian Sailing Ship Maria Teresa (1901); [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Antonio_Jacobsen_-_Italian_sailing_ship_Maria_Teresa,_1901.jpg)<br>
 Authors: Antonio Jacobsen<br>
-License: Public Domain.
+License: Public Domain.*
 
 * Replaced **Wild West** icon from the Dance Halls icon to a new one.
-Sources: The Cowboy (1902); [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Remington_The_Cowboy_1902.jpg)<br>
+*Sources: The Cowboy (1902); [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Remington_The_Cowboy_1902.jpg)<br>
 Authors: Frederic Remington<br>
-License: Public Domain.
+License: Public Domain.*
 
 ## Maps
 * **Amazonia**: Added new ambience track.
