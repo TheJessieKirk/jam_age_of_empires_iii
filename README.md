@@ -57,7 +57,12 @@ During Japan's Edo period, the only Europeans permitted to trade with Japan were
 * **Alligators** now have three ambient sounds instead of two.<br>
 *Sources: Alligator Growls 02.wav [Freesound](https://freesound.org/people/D.jones/sounds/527844/)<br>
 Authors: [Freesound: D.jones](https://freesound.org/people/D.jones/)<br>
-License: Public Domain.
+License: Public Domain.*
+
+* **Bears** now have three ambient sounds instead of two.<br>
+*Sources: yellowstone » Grizzly Bear growl eating [Freesound](https://freesound.org/people/Nivatius/sounds/519599/)<br>
+Authors: [Freesound: Nivatius](https://freesound.org/people/Nivatius)<br>
+License: Public Domain.*
 
 ## Buildings
 * **Mills** now have an ambient sound of the sail creaking in the wind.<br>
