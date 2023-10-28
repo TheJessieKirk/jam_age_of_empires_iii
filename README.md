@@ -13,9 +13,9 @@ You should have received a copy of the GNU General Public License along with JAM
 <br><br>
 
 ## Units
-
 * Units made from flesh now bleed more when hit.
 
+### Troops
 * **Surgeons** now have British dialogue when controlled by a Chinese or Hindustani (Indian) player, and Dutch dialogue when controlled by a Japanese player.<br>
 *Britain was among the first civilisations to force open trade with China after the First Opium War (Chinese: 第一次鴉片戰爭) (1839–1842)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/First_Opium_War)]</sup>.<br>
 While the Dutch were initially much more prolific in Hindustan via the United East India Company (Dutch: *Verenigde Oostindische Compagnie*)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Dutch_East_India_Company)]</sup>, British colonialism in India is more in keeping with the game's campaign, where the British East India Company are the antagonists.<br>
@@ -53,6 +53,13 @@ During Japan's Edo period, the only Europeans permitted to trade with Japan were
 * Added **Sioux Scout**, a recon unit.<br>
 ***Work in Progress: Temporary models and the AI doesn't use them.***
 
+### Animals
+* **Alligators** now have three ambient sounds instead of two.<br>
+*Sources: Alligator Growls 02.wav [Freesound](https://freesound.org/people/D.jones/sounds/527844/)<br>
+Authors: [Freesound: D.jones](https://freesound.org/people/D.jones/)<br>
+License: Public Domain.
+
+## Buildings
 * **Mills** now have an ambient sound of the sail creaking in the wind.<br>
 *Sources: Windmill [Freesound](https://freesound.org/people/FonotecadeCanarias/sounds/210936/)<br>
 Authors: [Freesound: FonotecadeCanarias](https://freesound.org/people/FonotecadeCanarias/)<br>
