@@ -142,7 +142,7 @@ Authors: Frederic Remington<br>
 License: Public Domain.*
 
 ## Maps
-* **Amazonia and Orinoco**: Added new ambience track.
+* **Amazonia and Orinoco**: Added new ambience track.<br>
 *Sources: Amazon Jungle - Day [Freesound](https://freesound.org/people/RTB45/sounds/473569/)<br>
 Authors: [Freesound: RTB45](https://freesound.org/people/RTB45/)<br>
 License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)<br>
@@ -155,7 +155,7 @@ License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://cr
 
 * **Andes**: Removed references to the Huari.
 
-* **Bayou**: Added new ambience track.
+* **Bayou**: Added new ambience track.<br>
 *Sources: Ambience, Day Wildlife, A.wav [Freesound](https://freesound.org/people/InspectorJ/sounds/398980/)<br>
 Authors: [Freesound: InspectorJ](https://freesound.org/people/InspectorJ/)<br>
 License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)<br>
