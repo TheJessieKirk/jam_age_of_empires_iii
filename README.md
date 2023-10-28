@@ -53,7 +53,7 @@ Dog Soldiers are Cheyenne, not Lakota Sioux<sup>[Wikipedia](https://en.wikipedia
 * Added **Sioux Scout**, a recon unit.<br>
 **Work in Progress: Temporary models and the AI doesn't use them.**
 
-* **Mills** now have an ambient sound of the sail creaking in the wind.
+* **Mills** now have an ambient sound of the sail creaking in the wind.<br>
 Sources: Windmill [Freesound](https://freesound.org/people/FonotecadeCanarias/sounds/210936/)<br>
 Authors: [Freesound: FonotecadeCanarias](https://freesound.org/people/FonotecadeCanarias/)<br>
 License: [Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/)
