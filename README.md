@@ -56,7 +56,7 @@ During Japan's Edo period, the only Europeans permitted to trade with Japan were
 * **Mills** now have an ambient sound of the sail creaking in the wind.<br>
 *Sources: Windmill [Freesound](https://freesound.org/people/FonotecadeCanarias/sounds/210936/)<br>
 Authors: [Freesound: FonotecadeCanarias](https://freesound.org/people/FonotecadeCanarias/)<br>
-License: [Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/)
+License: [Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/)<br>
 Sources: Wind through trees » Wind Through Trees 3b  [Freesound](https://freesound.org/people/spoonbender/sounds/244942/)<br>
 Authors: [Freesound: spoonbender](https://freesound.org/people/spoonbender/)<br>
 License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)*
