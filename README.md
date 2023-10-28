@@ -199,6 +199,8 @@ While the Knights of Saint John was an international order, only a minority seem
     *Privateers and Pirates aren't the same thing<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Privateer)]<sup>.*
 
 ### Blood, Ice and Steel - Act 2
+***Nonahkee** is now as effective a combatant as her brother is.
+
 * Your **Surgeons** have British dialogue as opposed to being silent.
 
 * Renamed **Black's Mercenaries** to **Massachusetts Bay**.<br>
