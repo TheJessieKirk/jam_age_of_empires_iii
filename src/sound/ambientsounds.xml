@@ -165,8 +165,6 @@
   <sound type="ypYak" timemin="15" timemax="25" num="1" stereo="1">AmbienceYak</sound>
   <sound type="TreeAndes" timemin="12" timemax="20" num="1" stereo="1">AmbienceAndesBirds</sound>
   <sound type="TreeAraucania" timemin="12" timemax="20" num="1" stereo="1">AmbienceAraucaniaBirds</sound>
-  <sound type="TreeBayou" timemin="12" timemax="20" num="1" stereo="1">AmbienceBayouBirds</sound>
-  <sound type="TreeBayouMarsh" timemin="12" timemax="20" num="1" stereo="1">AmbienceBayouBirds</sound>
   <sound type="TreeCalifornia" timemin="12" timemax="20" num="1" stereo="1">AmbienceCaliforniaBirds</sound>
   <sound type="TreeCaliforniaPalm" timemin="12" timemax="20" num="1" stereo="1">AmbienceCaliforniaBirds</sound>
   <sound type="TreeCaribbean" timemin="12" timemax="20" num="1" stereo="1">AmbienceCaribbeanBirds</sound>
@@ -206,7 +204,7 @@
   <sound maptype="Amazonia" num="1" looping="1">JAMAmbienceAmazonia</sound>
   <sound maptype="Andes" num="1" looping="1">AmbienceMountainWind</sound>
   <sound maptype="Araucania" num="1" looping="1">AmbienceGrasslands</sound>
-  <sound maptype="Bayou" num="1" looping="1">AmbienceSwamp</sound>
+  <sound maptype="Bayou" num="1" looping="1">AmbienceFlorida</sound>
   <sound maptype="Borneo" num="1" looping="1">AmbienceBorneo</sound>
   <sound maptype="California" num="1" looping="1">AmbiencePlains</sound>
   <sound maptype="Carolina" num="1" looping="1">AmbienceGrasslands</sound>

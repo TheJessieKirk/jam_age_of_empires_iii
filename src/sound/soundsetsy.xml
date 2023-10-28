@@ -2014,9 +2014,6 @@
     <sound filename="jam\GenericBronzeMortar\shot1.wav" volume="1.0000"/>
     <sound filename="jam\GenericBronzeMortar\shot2.wav" volume="1.0000"/>
   </soundset>
-  <soundset name="JAMAmbienceAmazonia" volume="0.6000" maxnum="3" distance="1.0000">
-    <sound filename="jam\environment\amazonia.wav" volume="1.0000"/>
-  </soundset>
   <soundset name="jamAmbienceGoat" volume="0.3500" maxnum="1" distance="1.0000">
     <sound filename="jam\animals\GoatAmbient1.wav" volume="1.0000"/>
     <sound filename="jam\animals\GoatAmbient2.wav" volume="1.0000"/>
