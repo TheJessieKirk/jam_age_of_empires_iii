@@ -195,20 +195,22 @@ While the Knights of Saint John was an international order, only a minority seem
   * The Caravel that is burnt by a Fire Ship at the start of the scenario is now a Galley.
   * All Caravels that arrive from Malta are now Galleys.
   * One of the deployed armies from Malta now consists of Harquebusiers instead of Hoop Throwers.
+  * The Privateers belonging to Lizzie are now Pirate Sloops. These are more effective than Privateers and have historically accurate Jolly Rogers<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Jolly_Roger)]<sup>.<br>
+    *Privateers and Pirates aren't the same thing<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Privateer)]<sup>.*
 
 ### Blood, Ice and Steel - Act 2
 * Your **Surgeons** have British dialogue as opposed to being silent.
 
 * Renamed **Black's Mercenaries** to **Massachusetts Bay**.<br>
-Stuart Black is the official of Brunswick, which is presumably Brunswick in modern-day Maine<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Brunswick%2C_Maine)]</sup>. The town at the time was in the Province of Massachusetts Bay<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Province_of_Massachusetts_Bay)]</sup>.<br>
+*Stuart Black is the official of Brunswick, which is presumably Brunswick in modern-day Maine<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Brunswick%2C_Maine)]</sup>. The town at the time was in the Province of Massachusetts Bay<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Province_of_Massachusetts_Bay)]</sup>.<br>
 John Black's Home City is Boston, Massachusetts<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Boston)]</sup>, which was the capital of Massachusetts Bay.<br>
-After defending Brunswick, Kanyenke states that he and John must return to New England, which was again part of Massachusetts Bay.
+After defending Brunswick, Kanyenke states that he and John must return to New England, which was again part of Massachusetts Bay.*
 
 * Replaced the **Black's Mercenaries** flag, a fictitious one, with the British Red Ensign.<br>
-The Province of Massachusetts Bay flew the British Red Ensign from 1708–1775<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Flag_of_Massachusetts)]</sup>.<br>
+*The Province of Massachusetts Bay flew the British Red Ensign from 1708–1775<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Flag_of_Massachusetts)]</sup>.<br>
 Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Red_Ensign_of_Great_Britain_(1707%E2%80%931800,_square_canton).svg)<br>
 Authors: Unknown; [Wikimedia Commons: AnonMoos](https://commons.wikimedia.org/wiki/User:AnonMoos)<br>
-License: Public Domain
+License: Public Domain*
 
 * **Stuart Black** now uses a pistol instead of his fists.<br>
 *Despite his reluctance to fight, Stuart tends to end up charging at his attackers and punching them. I felt a pistol was more appropriate.*
@@ -217,10 +219,12 @@ License: Public Domain
 
 * In **The Rescue**:
   * The Haudenosaunee (Iroquois) village is surrounded by Native American wooden walls, instead of European walls. This prevents the player from upgrading them.
-  * The Haudenosaunee (Iroqupis) village is no longer defended by an Outpost. This prevents an exploit where the player can send Home City shipments there.
+  * The Haudenosaunee (Iroquois) village is no longer defended by an Outpost. This prevents an exploit where the player can send Home City shipments there.
 
-* In **The Seven Years War**, Nonahkee is there.<br>
-*She's there before and after. Where did she go?*
+* In **The Seven Years War**:
+  * Nonahkee is there.<br>
+  *She's there before and after. Where did she go?*
+  * The French-allied Haudenosaunee (Iroquois) village is now impassable.
 
 ### Blood, Ice and Steel - Act 3
 * Your **Surgeons** have American dialogue as opposed to being silent.
