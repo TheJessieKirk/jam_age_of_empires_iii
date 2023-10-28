@@ -76,7 +76,7 @@ Authors: [Freesound: Benboncan](https://freesound.org/people/Benboncan/)<br>
 License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)*
 
 * **Deer** are no longer silent. They make ambient sounds, and scream when they are killed.<br>
-*Don't worry, I didn't use a real recording of a deer being killed. I'll never make you hear a real sound of an animal being hurt.
+*Don't worry, I didn't use a real recording of a deer being killed. I'll never make you hear a real sound of an animal being hurt.<br>
 Sources: wild animals » Deer.wav  [Freesound](https://freesound.org/people/juskiddink/sounds/58128/)<br>
 Authors: [Freesound: juskiddink](https://freesound.org/people/juskiddink/)<br>
 License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)<br>
@@ -90,7 +90,7 @@ Authors: [Freesound: Juan_Merie_Venter](https://freesound.org/people/Juan_Merie_
 License: [Creative Commons Attribution 3.0 NonCommercial Unported (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/)*
 
 * **Elk** are no longer silent. They make ambient sounds, and scream when they are killed.<br>
-*Don't worry, I didn't use a real recording of an elk being killed. I'll never make you hear a real sound of an animal being hurt.
+*Don't worry, I didn't use a real recording of an elk being killed. I'll never make you hear a real sound of an animal being hurt.<br>
 Sources: Elk » Elk 9.wav [Freesound](https://freesound.org/people/Hyperionn/sounds/250190/)<br>
 Authors: [Freesound: Hyperionn](https://freesound.org/people/Hyperionn/)<br>
 License: Public Domain*
