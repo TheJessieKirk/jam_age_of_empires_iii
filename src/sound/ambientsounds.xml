@@ -115,6 +115,8 @@
   <sound type="Cougar" timemin="15" timemax="25" num="1" stereo="1">AmbienceCougar</sound>
   <sound type="Cow" timemin="20" timemax="35" num="1" stereo="1">AmbienceCow</sound>
   <sound type="Coyote" timemin="17" timemax="35" num="3" stereo="1">AmbienceCoyote</sound>
+  <sound type="Deer" timemin="15" timemax="25" num="1" stereo="1">jamAmbienceDeer</sound>
+  <sound type="Elk" timemin="15" timemax="25" num="1" stereo="1">jamAmbienceElk</sound>
   <sound type="ExplorerDog" timemin="15" timemax="25" num="1" stereo="1">AmbienceDog</sound>
   <sound type="GrizzlyBear" timemin="15" timemax="25" num="1" stereo="1">AmbienceBear</sound>
   <sound type="Horse" timemin="15" timemax="25" num="1" stereo="1">AmbienceHorse</sound>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<protounitsounddef>
+  <protounit name="Deer">
+    <soundtype name="Death">
+      <soundset name="jamDeerDeath"/>
+    </soundtype>
+  </protounit>
+</protounitsounddef>
