@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4096"
+   height="2816"
+   viewBox="0 0 4096 2816.0002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="flag_british.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showguides="false"
+     inkscape:zoom="0.082993038"
+     inkscape:cx="1433.8552"
+     inkscape:cy="524.14035"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1" /><path
+     id="saltire_and_fimbriation_argent"
+     style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0"
+     d="M 0,2816 V 0 h 4096 v 2816 z"
+     sodipodi:nodetypes="ccccc"
+     inkscape:label="saltire_and_fimbriation_argent" /><path
+     id="field_azure"
+     style="fill:#005eb7;fill-opacity:1;stroke:none;stroke-width:0"
+     inkscape:label="field_azure"
+     d="M 347.55664,0 1638.4004,887.45508 V 0 Z M 2457.5996,0 V 887.45508 L 3748.4434,0 Z M 0,238.94531 v 759.45508 h 1104.6621 z m 4096,0 -1104.6621,759.45508 H 4096 Z M 0,1817.6016 v 759.4531 l 1104.6602,-759.4531 z m 2991.3398,0 L 4096,2577.0547 V 1817.6016 Z M 1638.4004,1928.5449 347.55664,2816 H 1638.4004 Z m 819.1992,0 V 2816 h 1290.8438 z" /><path
+     id="cross_gules"
+     style="fill:#f94239;stroke-width:0;fill-opacity:1;stroke:none"
+     d="M 1802.2402 0 L 1802.2402 1162.2402 L 0 1162.2402 L 0 1653.7598 L 1802.2402 1653.7598 L 1802.2402 2816 L 2293.7598 2816 L 2293.7598 1653.7598 L 4096 1653.7598 L 4096 1162.2402 L 2293.7598 1162.2402 L 2293.7598 0 L 1802.2402 0 z "
+     inkscape:label="cross_gules" /></svg>
