@@ -14,3 +14,18 @@ MacSoft,
 [Relic Entertainment](https://www.relic.com/),
 [Tantalus Media](http://tantalus.com.au/) and
 [World's Edge](https://www.ageofempires.com/worlds-edge-studio/).
+
+## Changes
+
+* Queen Elizabeth I is no longer the AI personality for the British; she has been replaced with King James VI and I.<br>
+*This change was made because James VI and I was the first British king; Elizabeth I was queen of England.*
+
+* Replaced most leader portraits with oil paintings instead of CGI images and corrected their names and titles.
+
+* Replaced British, Dutch, French and Japanese flags.
+
+* Fishing boats no longer use population and have a build limit of 20.
+
+* Privateers no longer have black sails and use period-correct bloody flags instead of Jolly Rogers.
+
+* Mother Nature-owned buildings and ships no longer use Jolly Rogers; they have white flags instead.
