@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<protounitsounddef>
+    <protounit name="jam_knightly_man_at_arms">
+        <soundtype name="acknowledge">
+            <targetlogic>
+                <choice name="default">
+                    <soundset name="frenchheavycavalryacknowledge"/>
+                </choice>
+                <choice name="enemy">
+                    <soundset name="frenchheavycavalryattack"/>
+                </choice>
+            </targetlogic>
+        </soundtype>
+        <soundtype name="creation">
+            <soundset name="militarybirth"/>
+        </soundtype>
+        <soundtype name="death">
+            <soundset name="genericmaledeath"/>
+        </soundtype>
+        <soundtype name="grunt">
+            <soundset name="genericmalegrunt"/>
+        </soundtype>
+        <soundtype name="select">
+            <soundset name="frenchheavycavalryselect"/>
+        </soundtype>
+    </protounit>
+</protounitsounddef>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<animfile>
+    <component>
+        shield
+        <assetreference type="GrannyModel">
+            <file>units\infantry\redolero\redolero_sheild</file>
+            <replacetexture>
+                <from>units\infantry\redolero\redolero_2age</from>
+                <to>units\jam\knightly_man_at_arms\knightly_man_at_arms_shield</to>
+            </replacetexture>
+        </assetreference>
+    </component>
+    <anim>
+        idle
+        <component>shield</component>
+    </anim>
+</animfile>

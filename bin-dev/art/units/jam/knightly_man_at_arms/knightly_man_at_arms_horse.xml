@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animfile>
+    <definebone>attachpoint</definebone>
+    <definebone>hotspot</definebone>
+    <definebone>hs bone hoof frnt lt</definebone>
+    <definebone>hs bone hoof frnt rt</definebone>
+    <definebone>hs bone hoof back lt</definebone>
+    <definebone>hs bone hoof back rt</definebone>
+    <submodel>
+        horseblack
+        <attachment>
+            riderattachment
+            <include>units\jam\knightly_man_at_arms\knightly_man_at_arms.xml</include>
+        </attachment>
+        <component>
+            modelcomp
+            <assetreference type="grannymodel">
+                <file>units\spc\alain\spc_alain_magnan_horse</file>
+                <replacetexture>
+                    <from>units\spc\alain\spc_alain_magnan_horse</from>
+                    <to>units\jam\knightly_man_at_arms\knightly_man_at_arms_horse_black</to>
+                </replacetexture>
+                <replacetexture>
+                    <from>units\spc\alain\spc_alain_magnan_horse_bumpmap</from>
+                    <to>units\jam\knightly_man_at_arms\knightly_man_at_arms_horse_bumpmap</to>
+                </replacetexture>
+            </assetreference>
+            <decal>
+                <effecttype>default</effecttype>
+                <texture isfakeshadow="1">shadows_selections\shadow_circle_128x128</texture>
+                <selectedtexture>shadows_selections\selection_oval_32x64</selectedtexture>
+                <width>1.50</width>
+                <height>3.00</height>
+            </decal>
+            <attach a="riderattachment" frombone="hotspot" tobone="attachpoint" syncanims="1"/>
+        </component>
+        <anim>
+            attack_melee
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_a</file>
+                <weight>40</weight>
+                <tag type="Attack">0.57</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_b</file>
+                <weight>10</weight>
+                <tag type="Attack">0.57</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_c</file>
+                <weight>10</weight>
+                <tag type="Attack">0.61</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_d</file>
+                <weight>40</weight>
+                <tag type="Attack">0.56</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            attack_trample
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_trample_a</file>
+                <tag type="attack">0.56</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_trample_b</file>
+                <tag type="attack">0.63</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            cheer
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_3_raze_attack_c</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_a</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_e</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_h</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_trample_a</file>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            bored
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_a</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_generic_a</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_e</file>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            death_by_havoc
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_front</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_behind</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_left</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_right</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_run</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            death_by_melee
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_a</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_b</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deatha</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathb</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.76</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathc</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            death_by_range
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_a</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_b</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deatha</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathb</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.76</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathc</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            highstep
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_highstep</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            idle
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_d</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_attack_generic_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_generic_b</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_generic_c</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_b</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_c</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_d</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_f</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_g</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_generic_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_generic_b</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_h</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_i</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_reload</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_salute</file>
+                <weight>40</weight>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            jog
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_jog</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.80</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.95</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.75</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_jog_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.80</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.95</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.75</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            raze_attack
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_a</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.35</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_b</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.31</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_c</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.33</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_d</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.35</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            run
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_gallop</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_gallop_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_run_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            walk
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_canter</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">1.00</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.83</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.70</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.50</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_canter_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">1.00</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.83</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.70</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.50</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_walk_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">1.00</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.83</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.70</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.50</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+    </submodel>
+    <submodel>
+        horsebrown
+        <attachment>
+            riderattachment
+            <include>units\jam\knightly_man_at_arms\knightly_man_at_arms.xml</include>
+        </attachment>
+        <component>
+            modelcomp
+            <assetreference type="grannymodel">
+                <file>units\spc\alain\spc_alain_magnan_horse</file>
+                <replacetexture>
+                    <from>units\spc\alain\spc_alain_magnan_horse</from>
+                    <to>units\jam\knightly_man_at_arms\knightly_man_at_arms_horse_brown</to>
+                </replacetexture>
+                <replacetexture>
+                    <from>units\spc\alain\spc_alain_magnan_horse_bumpmap</from>
+                    <to>units\jam\knightly_man_at_arms\knightly_man_at_arms_horse_bumpmap</to>
+                </replacetexture>
+            </assetreference>
+            <decal>
+                <effecttype>default</effecttype>
+                <texture isfakeshadow="1">shadows_selections\shadow_circle_128x128</texture>
+                <selectedtexture>shadows_selections\selection_oval_32x64</selectedtexture>
+                <width>1.50</width>
+                <height>3.00</height>
+            </decal>
+            <attach a="riderattachment" frombone="hotspot" tobone="attachpoint" syncanims="1"/>
+        </component>
+        <anim>
+            attack_melee
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_a</file>
+                <weight>40</weight>
+                <tag type="Attack">0.57</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_b</file>
+                <weight>10</weight>
+                <tag type="Attack">0.57</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_c</file>
+                <weight>10</weight>
+                <tag type="Attack">0.61</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_d</file>
+                <weight>40</weight>
+                <tag type="Attack">0.56</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            attack_trample
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_trample_a</file>
+                <tag type="attack">0.56</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_trample_b</file>
+                <tag type="attack">0.63</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            cheer
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_3_raze_attack_c</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_a</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_e</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_h</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_trample_a</file>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            bored
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_a</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_generic_a</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_e</file>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            death_by_havoc
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_front</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_behind</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_left</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_right</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_run</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            death_by_melee
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_a</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_b</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deatha</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathb</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.76</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathc</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            death_by_range
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_a</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_b</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deatha</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathb</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.76</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathc</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            highstep
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_highstep</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            idle
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_d</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_attack_generic_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_generic_b</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_generic_c</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_b</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_c</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_d</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_f</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_g</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_generic_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_generic_b</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_h</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_i</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_reload</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_salute</file>
+                <weight>40</weight>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            jog
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_jog</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.80</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.95</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.75</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_jog_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.80</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.95</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.75</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            raze_attack
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_a</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.35</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_b</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.31</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_c</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.33</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_d</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.35</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            run
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_gallop</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_gallop_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_run_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            walk
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_canter</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">1.00</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.83</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.70</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.50</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_canter_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">1.00</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.83</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.70</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.50</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_walk_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">1.00</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.83</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.70</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.50</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+    </submodel>
+    <submodel>
+        horsetan
+        <attachment>
+            riderattachment
+            <include>units\jam\knightly_man_at_arms\knightly_man_at_arms.xml</include>
+        </attachment>
+        <component>
+            modelcomp
+            <assetreference type="grannymodel">
+                <file>units\spc\alain\spc_alain_magnan_horse</file>
+                <replacetexture>
+                    <from>units\spc\alain\spc_alain_magnan_horse</from>
+                    <to>units\jam\knightly_man_at_arms\knightly_man_at_arms_horse_tan</to>
+                </replacetexture>
+                <replacetexture>
+                    <from>units\spc\alain\spc_alain_magnan_horse_bumpmap</from>
+                    <to>units\jam\knightly_man_at_arms\knightly_man_at_arms_horse_bumpmap</to>
+                </replacetexture>
+            </assetreference>
+            <decal>
+                <effecttype>default</effecttype>
+                <texture isfakeshadow="1">shadows_selections\shadow_circle_128x128</texture>
+                <selectedtexture>shadows_selections\selection_oval_32x64</selectedtexture>
+                <width>1.50</width>
+                <height>3.00</height>
+            </decal>
+            <attach a="riderattachment" frombone="hotspot" tobone="attachpoint" syncanims="1"/>
+        </component>
+        <anim>
+            attack_melee
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_a</file>
+                <weight>40</weight>
+                <tag type="Attack">0.57</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_b</file>
+                <weight>10</weight>
+                <tag type="Attack">0.57</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_c</file>
+                <weight>10</weight>
+                <tag type="Attack">0.61</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_d</file>
+                <weight>40</weight>
+                <tag type="Attack">0.56</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            attack_trample
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_trample_a</file>
+                <tag type="attack">0.56</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_trample_b</file>
+                <tag type="attack">0.63</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            cheer
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_3_raze_attack_c</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_a</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_e</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_h</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_trample_a</file>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            bored
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_a</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_generic_a</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_e</file>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            death_by_havoc
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_front</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_behind</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_left</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_right</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_run</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            death_by_melee
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_a</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_b</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deatha</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathb</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.76</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathc</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            death_by_range
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_a</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_b</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deatha</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathb</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.76</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathc</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            highstep
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_highstep</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            idle
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_d</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_attack_generic_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_generic_b</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_generic_c</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_b</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_c</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_d</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_f</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_g</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_generic_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_generic_b</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_h</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_i</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_reload</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_salute</file>
+                <weight>40</weight>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            jog
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_jog</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.80</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.95</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.75</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_jog_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.80</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.95</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.75</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            raze_attack
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_a</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.35</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_b</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.31</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_c</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.33</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_d</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.35</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            run
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_gallop</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_gallop_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_run_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            walk
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_canter</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">1.00</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.83</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.70</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.50</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_canter_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">1.00</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.83</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.70</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.50</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_walk_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">1.00</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.83</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.70</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.50</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+    </submodel>
+    <submodel>
+        horsewhite
+        <attachment>
+            riderattachment
+            <include>units\jam\knightly_man_at_arms\knightly_man_at_arms.xml</include>
+        </attachment>
+        <component>
+            modelcomp
+            <assetreference type="grannymodel">
+                <file>units\spc\alain\spc_alain_magnan_horse</file>
+                <replacetexture>
+                    <from>units\spc\alain\spc_alain_magnan_horse</from>
+                    <to>units\jam\knightly_man_at_arms\knightly_man_at_arms_horse_white</to>
+                </replacetexture>
+                <replacetexture>
+                    <from>units\spc\alain\spc_alain_magnan_horse_bumpmap</from>
+                    <to>units\jam\knightly_man_at_arms\knightly_man_at_arms_horse_bumpmap</to>
+                </replacetexture>
+            </assetreference>
+            <decal>
+                <effecttype>default</effecttype>
+                <texture isfakeshadow="1">shadows_selections\shadow_circle_128x128</texture>
+                <selectedtexture>shadows_selections\selection_oval_32x64</selectedtexture>
+                <width>1.50</width>
+                <height>3.00</height>
+            </decal>
+            <attach a="riderattachment" frombone="hotspot" tobone="attachpoint" syncanims="1"/>
+        </component>
+        <anim>
+            attack_melee
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_a</file>
+                <weight>40</weight>
+                <tag type="Attack">0.57</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_b</file>
+                <weight>10</weight>
+                <tag type="Attack">0.57</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_c</file>
+                <weight>10</weight>
+                <tag type="Attack">0.61</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_d</file>
+                <weight>40</weight>
+                <tag type="Attack">0.56</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            attack_trample
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_trample_a</file>
+                <tag type="attack">0.56</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_trample_b</file>
+                <tag type="attack">0.63</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            cheer
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_3_raze_attack_c</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_a</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_e</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_h</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_trample_a</file>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            bored
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_a</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_generic_a</file>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_e</file>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            death_by_havoc
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_front</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_behind</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_left</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_right</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_run</file>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.03</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            death_by_melee
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_a</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_b</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deatha</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathb</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.76</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathc</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            death_by_range
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_a</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_death_generic_b</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deatha</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.63</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathb</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.76</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_deathc</file>
+                <tag type="specificsoundset" checkvisible="1" set="ragdollimpact">0.52</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_scream">0.02</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            highstep
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_highstep</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            idle
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1-5_attack_d</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_attack_generic_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_generic_b</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_bored_generic_c</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_b</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_c</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_d</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_f</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_g</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_generic_a</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_generic_b</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_h</file>
+                <weight>10</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_idle_i</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_reload</file>
+                <weight>40</weight>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_salute</file>
+                <weight>40</weight>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            jog
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_jog</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.80</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.95</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.75</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_jog_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.80</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.95</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.75</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            raze_attack
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_a</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.35</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_b</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.31</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_c</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.33</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_1_attack_d</file>
+                <tag type="attack">0.43</tag>
+                <tag type="specificsoundset" checkvisible="1" set="torchswing">0.35</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            run
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_gallop</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_gallop_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_run_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">0.73</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.50</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">1.00</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.70</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+        <anim>
+            walk
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_canter</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">1.00</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.83</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.70</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.50</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_canter_generic_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">1.00</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.83</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.70</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.50</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <assetreference type="grannyanim">
+                <file>animation_library\cavalry\horse_walk_a</file>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof frnt lt">1.00</tag>
+                <tag type="footstepleft" footprinttype="horse" footprintbone="hs bone hoof back lt">0.83</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof frnt rt">0.70</tag>
+                <tag type="footstepright" footprinttype="horse" footprintbone="hs bone hoof back rt">0.50</tag>
+                <tag type="specificsoundset" checkvisible="1" set="jam_horse_canter">0.1</tag>
+            </assetreference>
+            <component>modelcomp</component>
+        </anim>
+    </submodel>
+    <component>
+        <logic type="Variation">
+            <data>
+                <submodelref ref="horseblack"/>
+            </data>
+            <data>
+                <submodelref ref="horsebrown"/>
+            </data>
+            <data>
+                <submodelref ref="horsetan"/>
+            </data>
+            <data>
+                <submodelref ref="horsewhite"/>
+            </data>
+        </logic>
+    </component>
+</animfile>

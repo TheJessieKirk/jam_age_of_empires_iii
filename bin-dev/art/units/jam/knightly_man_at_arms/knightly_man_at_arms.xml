@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animfile>
+    <definebone>attachpoint</definebone>
+    <definebone>bip01 l forearm</definebone>
+    <definebone>bip01 prop1</definebone>
+    <definebone>bone_lance</definebone>
+    <definebone>bone_shield</definebone>
+    <definebone>l hand</definebone>
+    <attachment>
+        torch
+        <include>effects\projectiles\torch_cavalry.xml</include>
+    </attachment>
+    <attachment>
+        lance
+        <include>units\jam\knightly_man_at_arms\knightly_man_at_arms_lance.xml</include>
+    </attachment>
+    <attachment>
+        shield
+        <include>units\jam\knightly_man_at_arms\knightly_man_at_arms_shield.xml</include>
+        </attachment>
+    <component>
+        modelcomp
+        <assetreference type="grannymodel">
+            <file>units\mercenaries\black_rider\black_rider</file>
+            <replacetexture>
+                <from>units\mercenaries\black_rider\black_rider</from>
+                <to>units\jam\knightly_man_at_arms\knightly_man_at_arms</to>
+            </replacetexture>
+        </assetreference>
+    </component>
+    <anim>
+        attack_melee
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_attack_a</file>
+            <weight>40</weight>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_attack_b</file>
+            <weight>10</weight>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_attack_c</file>
+            <weight>10</weight>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_attack_d</file>
+            <weight>40</weight>
+        </assetreference>
+        <component>modelcomp</component>
+        <attach a="lance" frombone="bone_lance" tobone="bip01 prop1" syncanims="0"/>
+        <attach a="shield" frombone="bone_shield" tobone="bip01 l forearm" syncanims="0"/>
+    </anim>
+    <anim>
+        attack_trample
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_trample_attack</file>
+        </assetreference>
+        <component>modelcomp</component>
+        <attach a="lance" frombone="bone_lance" tobone="bip01 prop1" syncanims="0"/>
+        <attach a="shield" frombone="bone_shield" tobone="bip01 l forearm" syncanims="0"/>
+    </anim>
+    <anim>
+        bored
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_bored_a</file>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\rider_bored_generic_a</file>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\rider_bored_generic_b</file>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\rider_bored_generic_c</file>
+        </assetreference>
+        <component>modelcomp</component>
+        <attach a="lance" frombone="bone_lance" tobone="bip01 prop1" syncanims="0"/>
+        <attach a="shield" frombone="bone_shield" tobone="bip01 l forearm" syncanims="0"/>
+    </anim>
+    <anim>
+        cheer
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\rider_cheer_b</file>
+            <weight>40</weight>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\rider_cheer_c</file>
+            <weight>10</weight>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\rider_cheer_d</file>
+            <weight>10</weight>
+        </assetreference>
+        <component>modelcomp</component>
+        <attach a="lance" frombone="bone_lance" tobone="bip01 prop1" syncanims="0"/>
+        <attach a="shield" frombone="bone_shield" tobone="bip01 l forearm" syncanims="0"/>
+    </anim>
+    <anim>
+        death_by_havoc
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\rider_death_havoc_a</file>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\rider_death_havoc_b</file>
+        </assetreference>
+        <component>modelcomp</component>
+    </anim>
+    <anim>
+        death_by_melee
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\oprichnik_deatha</file>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\oprichnik_deathb</file>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\oprichnik_deathc</file>
+        </assetreference>
+        <component>modelcomp</component>
+        <attach a="lance" frombone="bone_lance" tobone="bip01 prop1" syncanims="0"/>
+        <attach a="shield" frombone="bone_shield" tobone="bip01 l forearm" syncanims="0"/>
+    </anim>
+    <anim>
+        death_by_range
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\sword_deatha</file>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\sword_deathb</file>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\sword_deathc</file>
+        </assetreference>
+        <component>modelcomp</component>
+        <attach a="lance" frombone="bone_lance" tobone="bip01 prop1" syncanims="0"/>
+        <attach a="shield" frombone="bone_shield" tobone="bip01 l forearm" syncanims="0"/>
+    </anim>
+    <anim>
+        highstep
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\sword_highstep</file>
+        </assetreference>
+        <component>modelcomp</component>
+        <attach a="lance" frombone="bone_lance" tobone="bip01 prop1" syncanims="0"/>
+        <attach a="shield" frombone="bone_shield" tobone="bip01 l forearm" syncanims="0"/>
+    </anim>
+    <anim>
+        idle
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_idle_a</file>
+            <weight>40</weight>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_idle_b</file>
+            <weight>10</weight>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_idle_c</file>
+            <weight>10</weight>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_idle_d</file>
+            <weight>10</weight>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_idle_e</file>
+            <weight>10</weight>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_idle_f</file>
+            <weight>10</weight>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_idle_g</file>
+            <weight>10</weight>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_idle_h</file>
+            <weight>10</weight>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_idle_i</file>
+            <weight>40</weight>
+        </assetreference>
+        <component>modelcomp</component>
+        <attach a="lance" frombone="bone_lance" tobone="bip01 prop1" syncanims="0"/>
+        <attach a="shield" frombone="bone_shield" tobone="bip01 l forearm" syncanims="0"/>
+    </anim>
+    <anim>
+        jog
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_jog</file>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\rider_jog_generic_a</file>
+        </assetreference>
+        <component>modelcomp</component>
+        <attach a="lance" frombone="bone_lance" tobone="bip01 prop1" syncanims="0"/>
+        <attach a="shield" frombone="bone_shield" tobone="bip01 l forearm" syncanims="0"/>
+    </anim>
+    <anim>
+        raze_attack
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\raze_attack_a</file>
+        </assetreference>
+        <component>modelcomp</component>
+        <attach a="torch" frombone="attachpoint" tobone="r hand" syncanims="0"/>
+        <attach a="shield" frombone="bone_shield" tobone="bip01 l forearm" syncanims="0"/>
+    </anim>
+    <anim>
+        run
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_gallop</file>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\rider_run_generic_a</file>
+        </assetreference>
+        <component>modelcomp</component>
+        <attach a="lance" frombone="bone_lance" tobone="bip01 prop1" syncanims="0"/>
+        <attach a="shield" frombone="bone_shield" tobone="bip01 l forearm" syncanims="0"/>
+    </anim>
+    <anim>
+        walk
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\lance_canter</file>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\rider_canter_generic_ar</file>
+        </assetreference>
+        <assetreference type="grannyanim">
+            <file>animation_library\cavalry\rider_walk_generic_a</file>
+        </assetreference>
+        <component>modelcomp</component>
+        <attach a="lance" frombone="bone_lance" tobone="bip01 prop1" syncanims="0"/>
+        <attach a="shield" frombone="bone_shield" tobone="bip01 l forearm" syncanims="0"/>
+    </anim>
+</animfile>

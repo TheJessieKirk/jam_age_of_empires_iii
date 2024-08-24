@@ -29900,10 +29900,34 @@
     <string _locid="80000">Militia Musketeer</string>
     <string _locid="80001">JAM INF Militia Musketeer</string>
     <string _locid="80002">Quick-training ranged infantry</string>
-    <string _locid="80003">Quick-training, ranged infantry armed with a doglock musket (firearm).</string>
+    <string _locid="80003">Quick-training ranged infantry armed with a doglock musket (firearm).</string>
     <string _locid="80004">Militia Halberdier</string>
     <string _locid="80005">JAM INF Militia Halberdier</string>
     <string _locid="80007">Quick-training hand infantry</string>
-    <string _locid="80008">Quick-training, hand infantry armed with am archaic halberd (polearm).</string>
+    <string _locid="80008">Quick-training hand infantry armed with an archaic halberd (polearm).</string>
+    <string _locid="80009">Knightly Halberdier</string>
+    <string _locid="80010">JAM SPC Knightly Halberdier</string>
+    <string _locid="80011">Archaic heavy hand infantry</string>
+    <string _locid="80012">Archaic heavy hand infantry armed with a halberd (polearm). Good against infantry, resistant to melee.</string>
+    <string _locid="80013">Knightly Harquebusier</string>
+    <string _locid="80014">JAM SPC Knightly Harquebusier</string>
+    <string _locid="80015">Ranged heavy infantry</string>
+    <string _locid="80016">Ranged heavy infantry armed with a matchlock harquebuis (firearm). Good against infantry, resistant to melee.</string>
+    <string _locid="80017">Knightly Man-at-arms</string>
+    <string _locid="80018">JAM SPC Knightly Man-at-arms</string>
+    <string _locid="80019">Heavy hand cavalry</string>
+    <string _locid="80020">Heavy hand cavalry armed with a lance (polearm). Good against infantry, resistant to melee.</string>
+    <string _locid="80021">Knightly Pikeman</string>
+    <string _locid="80022">JAM SPC Knightly Pikeman</string>
+    <string _locid="80023">Archaic heavy hand infantry</string>
+    <string _locid="80024">Heavy hand infantry armed with a pike (polearm). Good against cavalry, resistant to melee.</string>
+    <string _locid="80025">Knightly Serjeant</string>
+    <string _locid="80026">JAM SPC Knightly Serjeant</string>
+    <string _locid="80027">Heavy hand and ranged infantry</string>
+    <string _locid="80028">Heavy hand and ranged infantry armed with a sword and doglock carbine (firearm). Good against infantry, resistant to melee.</string>
+    <string _locid="80029">Knightly Swordsman</string>
+    <string _locid="80030">JAM SPC Knightly Swordsman</string>
+    <string _locid="80031">Archaic heavy hand infantry</string>
+    <string _locid="80032">Archaic Heavy hand infantry armed with a sword and shield. Good against infantry, resistant to melee.</string>
   </language>
 </stringtable>

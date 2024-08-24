@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ambient timemin="15" timemax="30">
+	<sound type="stable" num="1">ambiencestable</sound>
+	<sound type="corral" num="1">ambiencestable</sound>
+	<sound type="saloon" timemin="30" timemax="40" num="1" stereo="1">ambiencesaloon</sound>
+	<sound type="spcfortwallstable" num="1">ambiencestable</sound>
+	<sound type="canoe" num="1">ambienceshipcreak</sound>
+	<sound type="xpwarcanoe" num="1">ambienceshipcreak</sound>
+	<sound type="xptlaloccanoe" num="1">ambienceshipcreak</sound>
+	<sound type="spcxpflatboat" num="1">ambienceshipcreak</sound>
+	<sound type="spcxptreasureship" num="1">ambienceshipcreak</sound>
+	<sound type="caravel" num="1">ambienceshipcreak</sound>
+	<sound type="xpironclad" num="1">ambienceshipcreak</sound>
+	<sound type="fishingboat" num="1">ambienceshipcreak</sound>
+	<sound type="spclizzieflagship" num="1">ambienceshipcreak</sound>
+	<sound type="spcmorganflagship" num="1">ambienceshipcreak</sound>
+	<sound type="spctreasureship" num="1">ambienceshipcreak</sound>
+	<sound type="spctreasureship2" num="1">ambienceshipcreak</sound>
+	<sound type="spcfireship" num="1">ambienceshipcreak</sound>
+	<sound type="spcfrigate" num="1">ambienceshipcreak</sound>
+	<sound type="galleon" num="1">ambienceshipcreak</sound>
+	<sound type="monitor" num="1">ambienceshipcreak</sound>
+	<sound type="galley" num="1">ambienceshipcreak</sound>
+	<sound type="frigate" num="1">ambienceshipcreak</sound>
+	<sound type="fluyt" num="1">ambienceshipcreak</sound>
+	<sound type="privateer" num="1">ambienceshipcreak</sound>
+	<sound type="barracks" timemin="50" timemax="65" num="1">ambiencebarracks</sound>
+	<sound type="spcfortwallbarracks" timemin="50" timemax="65" num="1">ambiencebarracks</sound>
+	<sound type="church" timemin="50" timemax="65" num="1" stereo="1">ambiencechurch</sound>
+	<sound type="travois" timemin="10" timemax="20" num="1" stereo="1">ambiencehorse</sound>
+	<sound type="stagecoach" timemin="10" timemax="20" num="1" stereo="1">ambiencehorse</sound>
+	<sound type="coveredwagon" timemin="10" timemax="20" num="1" stereo="1">ambiencehorse</sound>
+	<sound type="treenewengland" timemin="12" timemax="20" num="1" stereo="1">ambiencenewenglandbirds</sound>
+	<sound type="treegreatplains" timemin="12" timemax="20" num="1" stereo="1">ambiencegreatplainsbirds</sound>
+	<sound type="treepampas" timemin="12" timemax="20" num="1" stereo="1">ambiencepampasbirds</sound>
+	<sound type="treetexas" timemin="12" timemax="20" num="1" stereo="1">ambiencetexasbirds</sound>
+	<sound type="treeyukon" timemin="12" timemax="20" num="1" stereo="1">ambienceyukonbirds</sound>
+	<sound type="treesaguenay" timemin="12" timemax="20" num="1" stereo="1">ambiencesaguenaybirds</sound>
+	<sound type="treecarolinamarsh" timemin="12" timemax="20" num="1" stereo="1">ambiencecarolinabirds</sound>
+	<sound type="treecarolinagrass" timemin="12" timemax="20" num="1" stereo="1">ambiencecarolinabirds</sound>
+	<sound type="treelongleafpine" timemin="12" timemax="20" num="1" stereo="1">ambiencecarolinabirds</sound>
+	<sound type="treeamazon" timemin="12" timemax="20" num="1" stereo="1">ambienceamazoniabirds</sound>
+	<sound type="treerockies" timemin="12" timemax="20" num="1" stereo="1">ambiencerockiesbirds</sound>
+	<sound type="treenorthwestterritory" timemin="12" timemax="20" num="1" stereo="1">ambiencenorthwestbirds</sound>
+	<sound type="treecalifornia" timemin="12" timemax="20" num="1" stereo="1">ambiencecaliforniabirds</sound>
+	<sound type="treecaliforniapalm" timemin="12" timemax="20" num="1" stereo="1">ambiencecaliforniabirds</sound>
+	<sound type="treeredwood" timemin="12" timemax="20" num="1" stereo="1">ambiencecaliforniabirds</sound>
+	<sound type="treesonora" timemin="12" timemax="20" num="1" stereo="1">ambiencesonorabirds</sound>
+	<sound type="treegreatlakes" timemin="12" timemax="20" num="1" stereo="1">ambiencegreatlakesbirds</sound>
+	<sound type="treebayou" timemin="12" timemax="20" num="1" stereo="1">ambiencebayoubirds</sound>
+	<sound type="treeandes" timemin="12" timemax="20" num="1" stereo="1">ambienceandesbirds</sound>
+	<sound type="treebayoumarsh" timemin="12" timemax="20" num="1" stereo="1">ambiencebayoubirds</sound>
+	<sound type="treeyucatan" timemin="12" timemax="20" num="1" stereo="1">ambienceyucatanbirds</sound>
+	<sound type="treepatagonia" timemin="12" timemax="20" num="1" stereo="1">ambiencepatagoniabirds</sound>
+	<sound type="treepalm" timemin="12" timemax="20" num="1" stereo="1">ambiencecaribbeanbirds</sound>
+	<sound type="treecaribbean" timemin="12" timemax="20" num="1" stereo="1">ambiencecaribbeanbirds</sound>
+	<sound type="treepainteddesert" timemin="12" timemax="20" num="1" stereo="1">ambiencepainteddesertbirds</sound>
+	<sound type="treearaucania" timemin="12" timemax="20" num="1" stereo="1">ambiencearaucaniabirds</sound>
+	<sound type="sheep" timemin="20" timemax="30" num="1" stereo="1">ambiencesheep</sound>
+	<sound type="blackbear" timemin="15" timemax="25" num="1" stereo="1">ambiencebear</sound>
+	<sound type="grizzlybear" timemin="15" timemax="25" num="1" stereo="1">ambiencebear</sound>
+	<sound type="petbear" timemin="15" timemax="25" num="1" stereo="1">ambiencebear</sound>
+	<sound type="petgrizzly" timemin="15" timemax="25" num="1" stereo="1">ambiencebear</sound>
+	<sound type="petpolarbear" timemin="15" timemax="25" num="1" stereo="1">ambiencebear</sound>
+	<sound type="polarbear" timemin="15" timemax="25" num="1" stereo="1">ambiencebear</sound>
+	<sound type="jaguar" timemin="15" timemax="25" num="1" stereo="1">ambiencejaguar</sound>
+	<sound type="petjaguar" timemin="15" timemax="25" num="1" stereo="1">ambiencejaguar</sound>
+	<sound type="whitejaguar" timemin="15" timemax="25" num="1" stereo="1">ambiencejaguar</sound>
+	<sound type="whitejaguarguard" timemin="15" timemax="25" num="1" stereo="1">ambiencejaguar</sound>
+	<sound type="cougar" timemin="15" timemax="25" num="1" stereo="1">ambiencecougar</sound>
+	<sound type="petcougar" timemin="15" timemax="25" num="1" stereo="1">ambiencecougar</sound>
+	<sound type="coyote" timemin="17" timemax="35" num="3" stereo="1">ambiencecoyote</sound>
+	<sound type="petcoyote" timemin="20" timemax="25" num="3" stereo="1">ambiencecoyote</sound>
+	<sound type="wardog" timemin="15" timemax="25" num="1" stereo="1">ambiencedog</sound>
+	<sound type="wolf" timemin="17" timemax="35" num="3" stereo="1">ambiencewolf</sound>
+	<sound type="whitewolf" timemin="15" timemax="25" num="1" stereo="1">ambiencewolf</sound>
+	<sound type="whitewolfguard" timemin="15" timemax="25" num="1" stereo="1">ambiencewolf</sound>
+	<sound type="alligator" timemin="15" timemax="25" num="1" stereo="1">ambiencealligator</sound>
+	<sound type="bison" timemin="15" timemax="25" num="1" stereo="1">ambiencebison</sound>
+	<sound type="cow" timemin="20" timemax="35" num="1" stereo="1">ambiencecow</sound>
+	<sound type="livestockpen" timemin="30" timemax="50" num="1" stereo="1">ambiencecow</sound>
+	<sound type="livestockpen" timemin="30" timemax="50" num="1" stereo="1">ambiencesheep</sound>
+	<sound type="trainengine" timemin="15" timemax="20" num="1" stereo="1">ambiencetrain</sound>
+	<sound type="edisto river" num="1" looping="1">ambienceriver</sound>
+	<sound type="amazon river" num="1" looping="1">ambienceriver</sound>
+	<sound type="andes river" num="1" looping="1">ambienceriver</sound>
+	<sound type="test" num="1" looping="1">ambienceriver</sound>
+	<sound type="pampas river" num="1" looping="1">ambienceriver</sound>
+	<sound type="nw territory river" num="1" looping="1">ambienceriver</sound>
+	<sound type="yukon river" num="1" looping="1">ambienceriver</sound>
+	<sound type="yukon river2" num="1" looping="1">ambienceriver</sound>
+	<sound type="atlantic coast" num="1" looping="1">ambienceshoreline</sound>
+	<sound type="california coast" num="1" looping="1">ambienceshoreline</sound>
+	<sound type="caribbean coast" num="1" looping="1">ambienceshoreline</sound>
+	<sound type="cinematic ship ocean" num="1" looping="1">ambienceshoreline</sound>
+	<sound type="hudson bay" num="1" looping="1">ambienceshoreline</sound>
+	<sound type="new england coast" num="1" looping="1">ambienceshoreline</sound>
+	<sound type="yucatan coast" num="1" looping="1">ambienceshoreline</sound>
+	<sound maptype="newengland" num="1" looping="1">ambiencewoodlands</sound>
+	<sound maptype="greatplains" num="1" looping="1">ambiencegrasslands</sound>
+	<sound maptype="amazonia" num="1" looping="1">ambiencerainforest</sound>
+	<sound maptype="orinoco" num="1" looping="1">ambiencerainforest</sound>
+	<sound maptype="texas" num="1" looping="1">ambienceplains</sound>
+	<sound maptype="pampas" num="1" looping="1">ambiencegrasslands</sound>
+	<sound maptype="yukon" num="1" looping="1">ambiencemountainwind</sound>
+	<sound maptype="saguenay" num="1" looping="1">ambiencewoodlands</sound>
+	<sound maptype="carolina" num="1" looping="1">ambiencegrasslands</sound>
+	<sound maptype="rockies" num="1" looping="1">ambiencemountainwind</sound>
+	<sound maptype="california" num="1" looping="1">ambienceplains</sound>
+	<sound maptype="sonora" num="1" looping="1">ambiencedesertwind</sound>
+	<sound maptype="painteddesert" num="1" looping="1">ambiencedesertwind</sound>
+	<sound maptype="greatlakes" num="1" looping="1">ambiencegrasslands</sound>
+	<sound maptype="greatlakessnow" num="1" looping="1">ambiencemountainwind</sound>
+	<sound maptype="bayou" num="1" looping="1">ambienceswamp</sound>
+	<sound maptype="andes" num="1" looping="1">ambiencemountainwind</sound>
+	<sound maptype="northwestterritory" num="1" looping="1">ambiencewoodlands</sound>
+	<sound maptype="yucatan" num="1" looping="1">ambiencerainforest</sound>
+	<sound maptype="patagonia" num="1" looping="1">ambienceplains</sound>
+	<sound maptype="araucania" num="1" looping="1">ambiencegrasslands</sound>
+	<sound maptype="scenariofreezing" num="1" looping="1">ambienceblizzard</sound>
+	<sound type="spcfountainofyouth" timemin="12" timemax="20" num="1" stereo="1">ambiencecaribbeanbirds</sound>
+	<sound type="ypgrdblackpanther" timemin="15" timemax="25" num="1" stereo="1">ambienceblackpanther</sound>
+	<sound type="yppetlion" timemin="15" timemax="25" num="1" stereo="1">ambiencelion</sound>
+	<sound type="ypsnowleopard" timemin="15" timemax="25" num="1" stereo="1">ambiencesnowleopard</sound>
+	<sound type="yptiger" timemin="15" timemax="25" num="1" stereo="1">ambiencetiger</sound>
+	<sound type="yprhino" timemin="15" timemax="25" num="1" stereo="1">ambiencerhino</sound>
+	<sound type="ypmacaque" timemin="15" timemax="25" num="1" stereo="1">ambiencemonkey</sound>
+	<sound type="yppanda" timemin="15" timemax="25" num="1" stereo="1">ambiencepanda</sound>
+	<sound type="yporangutan" timemin="15" timemax="25" num="1" stereo="1">ambienceorangutan</sound>
+	<sound type="ypwbuffalo" timemin="15" timemax="25" num="1" stereo="1">ambiencewbuffalo</sound>
+	<sound type="ypyak" timemin="15" timemax="25" num="1" stereo="1">ambienceyak</sound>
+	<sound type="yppig" timemin="15" timemax="25" num="1" stereo="1">ambiencegoat</sound>
+	<sound type="ypelephant" timemin="15" timemax="25" num="1" stereo="1">ambienceelephant</sound>
+	<sound type="ypnatwarelephant" timemin="15" timemax="25" num="1" stereo="1">ambienceelephant</sound>
+	<sound type="ypmpsheep" timemin="15" timemax="25" num="1" stereo="1">ambiencempsheep</sound>
+	<sound type="ypvillage" timemin="15" timemax="25" num="1" stereo="1">ambiencevillage</sound>
+	<sound maptype="borneo" num="1" looping="1">ambienceborneo</sound>
+	<sound maptype="deccan" num="1" looping="1">ambiencedeccan</sound>
+	<sound maptype="japan" num="1" looping="1">ambiencehonshu</sound>
+	<sound maptype="yellowriver" num="1" looping="1">ambienceyellowriver</sound>
+	<sound maptype="ceylon" num="1" looping="1">ambienceceylon</sound>
+	<sound maptype="himalayas" num="1" looping="1">ambiencehimalayas</sound>
+	<sound maptype="siberia" num="1" looping="1">ambiencehimalayas</sound>
+	<sound maptype="mongolia" num="1" looping="1">ambiencemongolia</sound>
+	<sound type="ypmonastery" timemin="50" timemax="65" num="1" stereo="1">ambiencemonastery</sound>
+	<sound maptype="silkroad1" num="1" looping="1">ambienceyellowriver</sound>
+	<sound maptype="silkroad2" num="1" looping="1">ambiencemongolia</sound>
+	<sound maptype="silkroad3" num="1" looping="1">ambiencehimalayas</sound>
+    <sound type="jam_knightly_man_at_arms" timemin="10" timemax="20" num="1" stereo="1">jam_horse_ambience</sound>
+	<sound>
+	</sound>
+</ambient>
