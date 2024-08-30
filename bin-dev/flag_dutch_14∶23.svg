@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="69"
+   height="42"
+   viewBox="0 0 69 42"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="flag_dutch_14∶23.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showguides="false"
+     inkscape:zoom="3.6275534"
+     inkscape:cx="57.614589"
+     inkscape:cy="-4.2728523"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1" /><path
+     id="bar_azure"
+     style="display:inline;fill:#3c44b5;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:bevel;paint-order:markers fill stroke"
+     d="M 0,42 H 69 V 0 H 0 Z"
+     inkscape:label="bar_azure" /><path
+     id="bar_argent"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke:none"
+     d="M 0,28 V 0 h 69 v 28 z"
+     sodipodi:nodetypes="ccccc"
+     inkscape:label="bar_argent" /><path
+     id="bar_tenne"
+     style="fill:#ff6331;stroke-width:0;stroke-linejoin:bevel;paint-order:markers fill stroke;fill-opacity:1;stroke:none"
+     d="M 0,14 H 69 V 0 H 0 Z"
+     inkscape:label="bar_tenné" /></svg>
